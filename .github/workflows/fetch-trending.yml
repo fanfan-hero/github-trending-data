@@ -1,0 +1,25 @@
+name: Fetch GitHub Trending
+
+on:
+  schedule:
+    - cron: '45 22 * * *'  # 06:45 CST
+    - cron: '45 3 * * *'   # 11:45 CST
+    - cron: '45 9 * * *'   # 17:45 CST
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch trending
+        run: python3 fetch_trending.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add trending.json
+          git diff --staged --quiet || git commit -m "Update trending $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
