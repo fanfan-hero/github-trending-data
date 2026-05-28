@@ -1,4 +1,73 @@
 {
-  "updated_at": "2026-05-27T23:46:58.292769Z",
-  "projects": []
+  "updated_at": "2026-05-28T02:44:00.555001Z",
+  "projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 1742
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "daily_gain": 4465
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "daily_gain": 664
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 2062
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 695
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "daily_gain": 2715
+    },
+    {
+      "name": "p-e-w/heretic",
+      "daily_gain": 211
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 401
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "daily_gain": 886
+    },
+    {
+      "name": "twentyhq/twenty",
+      "daily_gain": 519
+    },
+    {
+      "name": "Chachamaru127/claude-code-harness",
+      "daily_gain": 87
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "daily_gain": 2222
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1511
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "daily_gain": 1163
+    },
+    {
+      "name": "iii-hq/iii",
+      "daily_gain": 376
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "daily_gain": 728
+    },
+    {
+      "name": "moeru-ai/airi",
+      "daily_gain": 72
+    }
+  ]
 }
