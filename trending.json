@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-28T12:56:10.333556Z",
+  "updated_at": "2026-05-28T23:52:45.438425Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 1742
+      "daily_gain": 4685
     },
     {
       "name": "affaan-m/ECC",
@@ -39,11 +39,11 @@
     },
     {
       "name": "revfactory/harness",
-      "daily_gain": 68
+      "daily_gain": 190
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 739
+      "daily_gain": 866
     },
     {
       "name": "Lum1104/Understand-Anything",
@@ -51,7 +51,7 @@
     },
     {
       "name": "unclecode/crawl4ai",
-      "daily_gain": 210
+      "daily_gain": 253
     },
     {
       "name": "OpenMOSS/MOSS-TTS",
@@ -63,7 +63,7 @@
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 686
+      "daily_gain": 791
     }
   ]
 }
