@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T12:36:23.563292Z",
+  "updated_at": "2026-05-29T23:52:14.241552Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -19,7 +19,7 @@
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 319
+      "daily_gain": 460
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -31,7 +31,7 @@
     },
     {
       "name": "run-llama/liteparse",
-      "daily_gain": 932
+      "daily_gain": 680
     },
     {
       "name": "galilai-group/stable-worldmodel",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Biohub/esm",
-      "daily_gain": 102
+      "daily_gain": 64
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -63,7 +63,7 @@
     },
     {
       "name": "DataTalksClub/data-engineering-zoomcamp",
-      "daily_gain": 161
+      "daily_gain": 180
     },
     {
       "name": "codecrafters-io/build-your-own-x",
