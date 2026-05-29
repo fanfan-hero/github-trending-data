@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-05-28T23:52:45.438425Z",
+  "updated_at": "2026-05-29T07:40:44.288484Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 4685
+      "daily_gain": 4698
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1388
+      "daily_gain": 1385
     },
     {
       "name": "Leonxlnx/taste-skill",
-      "daily_gain": 2235
+      "daily_gain": 2234
     },
     {
       "name": "hardikpandya/stop-slop",
-      "daily_gain": 755
+      "daily_gain": 761
     },
     {
       "name": "twentyhq/twenty",
-      "daily_gain": 495
+      "daily_gain": 493
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
-      "daily_gain": 1769
+      "daily_gain": 1761
     },
     {
       "name": "byoungd/English-level-up-tips",
-      "daily_gain": 2015
+      "daily_gain": 2019
     },
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 1263
+      "daily_gain": 1410
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1726
+      "daily_gain": 1730
     },
     {
       "name": "revfactory/harness",
-      "daily_gain": 190
+      "daily_gain": 65
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 866
+      "daily_gain": 1066
     },
     {
       "name": "Lum1104/Understand-Anything",
-      "daily_gain": 3766
+      "daily_gain": 3776
     },
     {
       "name": "unclecode/crawl4ai",
-      "daily_gain": 253
+      "daily_gain": 154
     },
     {
       "name": "OpenMOSS/MOSS-TTS",
-      "daily_gain": 53
+      "daily_gain": 71
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 180
+      "daily_gain": 184
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 791
+      "daily_gain": 718
     }
   ]
 }
