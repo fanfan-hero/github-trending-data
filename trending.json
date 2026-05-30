@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-05-29T23:52:14.241552Z",
+  "updated_at": "2026-05-30T06:37:11.239044Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 3563
+      "daily_gain": 3567
     },
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 1876
+      "daily_gain": 1873
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 354
+      "daily_gain": 353
     },
     {
       "name": "twentyhq/twenty",
-      "daily_gain": 575
+      "daily_gain": 578
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 460
+      "daily_gain": 395
     },
     {
       "name": "Leonxlnx/taste-skill",
-      "daily_gain": 2066
+      "daily_gain": 2062
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 129
+      "daily_gain": 134
     },
     {
       "name": "run-llama/liteparse",
-      "daily_gain": 680
+      "daily_gain": 701
     },
     {
       "name": "galilai-group/stable-worldmodel",
-      "daily_gain": 346
+      "daily_gain": 362
     },
     {
       "name": "byoungd/English-level-up-tips",
-      "daily_gain": 1564
+      "daily_gain": 1566
     },
     {
       "name": "Biohub/esm",
-      "daily_gain": 64
+      "daily_gain": 52
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 294
+      "daily_gain": 318
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
-      "daily_gain": 1317
+      "daily_gain": 1313
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1413
+      "daily_gain": 1406
     },
     {
       "name": "hardikpandya/stop-slop",
-      "daily_gain": 618
+      "daily_gain": 617
     },
     {
       "name": "DataTalksClub/data-engineering-zoomcamp",
-      "daily_gain": 180
+      "daily_gain": 160
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 867
+      "daily_gain": 866
     }
   ]
 }
