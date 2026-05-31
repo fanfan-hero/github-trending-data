@@ -1,81 +1,61 @@
 {
-  "updated_at": "2026-05-31T11:21:25.754845Z",
+  "updated_at": "2026-05-31T23:42:12.195870Z",
   "projects": [
     {
-      "name": "microsoft/markitdown",
-      "daily_gain": 2470
-    },
-    {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2768
+      "daily_gain": 1937
     },
     {
-      "name": "anthropics/claude-code",
-      "daily_gain": 592
+      "name": "microsoft/markitdown",
+      "daily_gain": 2759
     },
     {
-      "name": "cursor/plugins",
-      "daily_gain": 205
+      "name": "D4Vinci/Scrapling",
+      "daily_gain": 639
     },
     {
-      "name": "revfactory/harness",
-      "daily_gain": 55
+      "name": "nesquena/hermes-webui",
+      "daily_gain": 320
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 349
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 908
+      "daily_gain": 243
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 779
+      "daily_gain": 20
     },
     {
-      "name": "galilai-group/stable-worldmodel",
-      "daily_gain": 318
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 469
-    },
-    {
-      "name": "run-llama/liteparse",
-      "daily_gain": 925
-    },
-    {
-      "name": "chen08209/FlClash",
-      "daily_gain": 187
+      "name": "revfactory/harness",
+      "daily_gain": 639
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 327
+      "daily_gain": 318
     },
     {
-      "name": "ruvnet/RuView",
-      "daily_gain": 655
+      "name": "supermemoryai/supermemory",
+      "daily_gain": 627
     },
     {
-      "name": "DataTalksClub/data-engineering-zoomcamp",
-      "daily_gain": 274
+      "name": "Crosstalk-Solutions/project-nomad",
+      "daily_gain": 236
     },
     {
-      "name": "OpenMOSS/MOSS-TTS",
-      "daily_gain": 62
+      "name": "anthropics/claude-code",
+      "daily_gain": 372
     },
     {
-      "name": "dreammis/social-auto-upload",
-      "daily_gain": 73
+      "name": "nicobailon/pi-subagents",
+      "daily_gain": 490
     },
     {
-      "name": "anthropics/skills",
-      "daily_gain": 454
+      "name": "emmabostian/developer-portfolios",
+      "daily_gain": 59
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 817
+      "daily_gain": 67
     }
   ]
 }
