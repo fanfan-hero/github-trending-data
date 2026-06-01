@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T15:44:54.712186Z",
+  "updated_at": "2026-06-01T23:55:28.509526Z",
   "projects": [
     {
       "name": "microsoft/markitdown",
@@ -23,7 +23,7 @@
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 317
+      "daily_gain": 612
     },
     {
       "name": "p-e-w/heretic",
@@ -43,7 +43,7 @@
     },
     {
       "name": "godotengine/godot",
-      "daily_gain": 56
+      "daily_gain": 121
     },
     {
       "name": "can1357/oh-my-pi",
