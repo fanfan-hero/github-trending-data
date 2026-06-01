@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T23:42:12.195870Z",
+  "updated_at": "2026-06-01T09:03:14.590853Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -7,55 +7,55 @@
     },
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 2759
+      "daily_gain": 2798
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 639
+      "daily_gain": 606
     },
     {
       "name": "nesquena/hermes-webui",
-      "daily_gain": 320
+      "daily_gain": 357
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 243
+      "daily_gain": 251
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 20
+      "daily_gain": 27
     },
     {
       "name": "revfactory/harness",
-      "daily_gain": 639
+      "daily_gain": 635
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 318
+      "daily_gain": 323
     },
     {
       "name": "supermemoryai/supermemory",
-      "daily_gain": 627
+      "daily_gain": 626
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 236
+      "daily_gain": 264
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 372
+      "daily_gain": 374
     },
     {
       "name": "nicobailon/pi-subagents",
-      "daily_gain": 490
+      "daily_gain": 489
     },
     {
       "name": "emmabostian/developer-portfolios",
-      "daily_gain": 59
+      "daily_gain": 69
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 67
+      "daily_gain": 73
     }
   ]
 }
