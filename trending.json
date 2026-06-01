@@ -1,61 +1,73 @@
 {
-  "updated_at": "2026-06-01T09:03:14.590853Z",
+  "updated_at": "2026-06-01T15:44:54.712186Z",
   "projects": [
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 1937
-    },
-    {
       "name": "microsoft/markitdown",
-      "daily_gain": 2798
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "daily_gain": 606
+      "daily_gain": 3086
     },
     {
       "name": "nesquena/hermes-webui",
-      "daily_gain": 357
-    },
-    {
-      "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 251
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "daily_gain": 27
-    },
-    {
-      "name": "revfactory/harness",
-      "daily_gain": 635
-    },
-    {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 323
+      "daily_gain": 984
     },
     {
       "name": "supermemoryai/supermemory",
-      "daily_gain": 626
+      "daily_gain": 660
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 264
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 3325
     },
     {
-      "name": "anthropics/claude-code",
-      "daily_gain": 374
+      "name": "D4Vinci/Scrapling",
+      "daily_gain": 1475
     },
     {
-      "name": "nicobailon/pi-subagents",
-      "daily_gain": 489
+      "name": "pbakaus/impeccable",
+      "daily_gain": 317
     },
     {
-      "name": "emmabostian/developer-portfolios",
-      "daily_gain": 69
+      "name": "p-e-w/heretic",
+      "daily_gain": 241
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "daily_gain": 428
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 284
+    },
+    {
+      "name": "revfactory/harness",
+      "daily_gain": 527
+    },
+    {
+      "name": "godotengine/godot",
+      "daily_gain": 56
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "daily_gain": 333
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "daily_gain": 880
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "daily_gain": 860
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "daily_gain": 82
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "daily_gain": 121
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 73
+      "daily_gain": 1194
     }
   ]
 }
