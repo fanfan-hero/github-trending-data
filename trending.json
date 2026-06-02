@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-06-01T23:55:28.509526Z",
+  "updated_at": "2026-06-02T08:15:28.601674Z",
   "projects": [
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 3086
+      "daily_gain": 3034
     },
     {
       "name": "nesquena/hermes-webui",
-      "daily_gain": 984
+      "daily_gain": 945
     },
     {
       "name": "supermemoryai/supermemory",
-      "daily_gain": 660
+      "daily_gain": 647
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 3325
+      "daily_gain": 3375
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 1475
+      "daily_gain": 1486
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 612
+      "daily_gain": 485
     },
     {
       "name": "p-e-w/heretic",
-      "daily_gain": 241
+      "daily_gain": 249
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 428
+      "daily_gain": 417
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 284
+      "daily_gain": 299
     },
     {
       "name": "revfactory/harness",
-      "daily_gain": 527
+      "daily_gain": 524
     },
     {
       "name": "godotengine/godot",
-      "daily_gain": 121
+      "daily_gain": 77
     },
     {
       "name": "can1357/oh-my-pi",
-      "daily_gain": 333
+      "daily_gain": 335
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 880
+      "daily_gain": 888
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 860
+      "daily_gain": 861
     },
     {
       "name": "stefan-jansen/machine-learning-for-trading",
-      "daily_gain": 82
+      "daily_gain": 93
     },
     {
       "name": "dmtrKovalenko/fff",
-      "daily_gain": 121
+      "daily_gain": 135
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 1194
+      "daily_gain": 1212
     }
   ]
 }
