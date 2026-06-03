@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-06-02T13:03:05.602734Z",
+  "updated_at": "2026-06-03T00:15:29.032517Z",
   "projects": [
     {
       "name": "chopratejas/headroom",
-      "daily_gain": 1266
+      "daily_gain": 1265
     },
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 3616
+      "daily_gain": 3618
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1842
+      "daily_gain": 1533
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 1196
+      "daily_gain": 1182
     },
     {
       "name": "nesquena/hermes-webui",
-      "daily_gain": 1725
+      "daily_gain": 1722
     },
     {
       "name": "reconurge/flowsint",
-      "daily_gain": 319
+      "daily_gain": 124
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 779
+      "daily_gain": 783
     },
     {
       "name": "stefan-jansen/machine-learning-for-trading",
-      "daily_gain": 570
+      "daily_gain": 574
     },
     {
       "name": "jamwithai/production-agentic-rag-course",
-      "daily_gain": 31
+      "daily_gain": 30
     },
     {
       "name": "supermemoryai/supermemory",
-      "daily_gain": 677
+      "daily_gain": 680
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "daily_gain": 65
+      "daily_gain": 66
     }
   ]
 }
