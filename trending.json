@@ -1,61 +1,53 @@
 {
-  "updated_at": "2026-06-04T08:08:06.103750Z",
+  "updated_at": "2026-06-04T12:33:30.262458Z",
   "projects": [
     {
       "name": "chopratejas/headroom",
-      "daily_gain": 3530
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 2141
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "daily_gain": 24
+      "daily_gain": 3139
     },
     {
       "name": "NousResearch/hermes-agent",
       "daily_gain": 1735
     },
     {
-      "name": "microsoft/markitdown",
-      "daily_gain": 1984
+      "name": "affaan-m/ECC",
+      "daily_gain": 1736
     },
     {
-      "name": "nesquena/hermes-webui",
-      "daily_gain": 719
+      "name": "PaddlePaddle/PaddleOCR",
+      "daily_gain": 105
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "daily_gain": 1067
+      "name": "NVIDIA/cosmos",
+      "daily_gain": 311
     },
     {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "daily_gain": 570
-    },
-    {
-      "name": "odoo/odoo",
-      "daily_gain": 29
+      "name": "lfnovo/open-notebook",
+      "daily_gain": 138
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "daily_gain": 693
+      "daily_gain": 227
     },
     {
       "name": "jwasham/coding-interview-university",
+      "daily_gain": 583
+    },
+    {
+      "name": "aquasecurity/trivy",
       "daily_gain": 330
     },
     {
-      "name": "lyogavin/airllm",
-      "daily_gain": 208
+      "name": "openclaw/openclaw-windows-node",
+      "daily_gain": 25
     },
     {
-      "name": "supermemoryai/supermemory",
-      "daily_gain": 600
+      "name": "reconurge/flowsint",
+      "daily_gain": 255
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 197
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 331
     }
   ]
 }
