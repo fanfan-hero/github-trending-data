@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-06-04T23:48:58.418195Z",
+  "updated_at": "2026-06-05T07:53:08.899973Z",
   "projects": [
     {
       "name": "chopratejas/headroom",
-      "daily_gain": 3139
+      "daily_gain": 3142
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 1951
+      "daily_gain": 1913
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1736
+      "daily_gain": 1750
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
-      "daily_gain": 105
+      "daily_gain": 141
     },
     {
       "name": "NVIDIA/cosmos",
-      "daily_gain": 311
+      "daily_gain": 321
     },
     {
       "name": "lfnovo/open-notebook",
-      "daily_gain": 244
+      "daily_gain": 133
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "daily_gain": 482
+      "daily_gain": 212
     },
     {
       "name": "jwasham/coding-interview-university",
-      "daily_gain": 583
+      "daily_gain": 581
     },
     {
       "name": "aquasecurity/trivy",
-      "daily_gain": 740
+      "daily_gain": 632
     },
     {
       "name": "openclaw/openclaw-windows-node",
-      "daily_gain": 107
+      "daily_gain": 38
     },
     {
       "name": "reconurge/flowsint",
@@ -47,7 +47,7 @@
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 358
+      "daily_gain": 411
     }
   ]
 }
