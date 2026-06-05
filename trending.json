@@ -1,53 +1,69 @@
 {
-  "updated_at": "2026-06-05T07:53:08.899973Z",
+  "updated_at": "2026-06-05T12:28:07.494146Z",
   "projects": [
     {
-      "name": "chopratejas/headroom",
-      "daily_gain": 3142
-    },
-    {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 1913
+      "daily_gain": 1821
     },
     {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1750
+      "name": "chopratejas/headroom",
+      "daily_gain": 2503
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "daily_gain": 141
-    },
-    {
-      "name": "NVIDIA/cosmos",
-      "daily_gain": 321
+      "name": "CopilotKit/CopilotKit",
+      "daily_gain": 350
     },
     {
       "name": "lfnovo/open-notebook",
-      "daily_gain": 133
+      "daily_gain": 1142
     },
     {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "daily_gain": 212
+      "name": "affaan-m/ECC",
+      "daily_gain": 1368
     },
     {
-      "name": "jwasham/coding-interview-university",
-      "daily_gain": 581
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 127
     },
     {
-      "name": "aquasecurity/trivy",
-      "daily_gain": 632
+      "name": "NVIDIA/cosmos",
+      "daily_gain": 494
     },
     {
-      "name": "openclaw/openclaw-windows-node",
-      "daily_gain": 38
-    },
-    {
-      "name": "reconurge/flowsint",
-      "daily_gain": 255
+      "name": "666ghj/MiroFish",
+      "daily_gain": 324
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 411
+      "daily_gain": 738
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "daily_gain": 755
+    },
+    {
+      "name": "openai/plugins",
+      "daily_gain": 17
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "daily_gain": 228
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "daily_gain": 329
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "daily_gain": 208
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "daily_gain": 884
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "daily_gain": 757
     }
   ]
 }
