@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T12:28:07.494146Z",
+  "updated_at": "2026-06-05T23:48:59.939755Z",
   "projects": [
     {
       "name": "NousResearch/hermes-agent",
@@ -43,11 +43,15 @@
     },
     {
       "name": "openai/plugins",
-      "daily_gain": 17
+      "daily_gain": 82
     },
     {
       "name": "MemPalace/mempalace",
       "daily_gain": 228
+    },
+    {
+      "name": "withastro/flue",
+      "daily_gain": 126
     },
     {
       "name": "openclaw/openclaw-windows-node",
@@ -56,10 +60,6 @@
     {
       "name": "aquasecurity/trivy",
       "daily_gain": 208
-    },
-    {
-      "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 884
     },
     {
       "name": "jwasham/coding-interview-university",
