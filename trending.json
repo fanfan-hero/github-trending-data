@@ -1,69 +1,77 @@
 {
-  "updated_at": "2026-06-06T11:11:38.276292Z",
+  "updated_at": "2026-06-06T23:41:00.637971Z",
   "projects": [
     {
-      "name": "NousResearch/hermes-agent",
-      "daily_gain": 1845
-    },
-    {
-      "name": "chopratejas/headroom",
-      "daily_gain": 2473
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 441
     },
     {
       "name": "CopilotKit/CopilotKit",
-      "daily_gain": 366
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "daily_gain": 1152
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1361
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 148
-    },
-    {
-      "name": "NVIDIA/cosmos",
-      "daily_gain": 479
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "daily_gain": 320
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 731
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "daily_gain": 747
-    },
-    {
-      "name": "openai/plugins",
-      "daily_gain": 49
+      "daily_gain": 613
     },
     {
       "name": "MemPalace/mempalace",
-      "daily_gain": 227
+      "daily_gain": 441
     },
     {
-      "name": "withastro/flue",
-      "daily_gain": 126
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "daily_gain": 63
     },
     {
-      "name": "openclaw/openclaw-windows-node",
-      "daily_gain": 326
+      "name": "openai/plugins",
+      "daily_gain": 215
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 700
+    },
+    {
+      "name": "sveltejs/svelte",
+      "daily_gain": 34
+    },
+    {
+      "name": "nginx/nginx",
+      "daily_gain": 37
     },
     {
       "name": "aquasecurity/trivy",
-      "daily_gain": 207
+      "daily_gain": 159
     },
     {
-      "name": "jwasham/coding-interview-university",
-      "daily_gain": 745
+      "name": "golang/go",
+      "daily_gain": 24
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "daily_gain": 783
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1008
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 203
+    },
+    {
+      "name": "openai/whisper",
+      "daily_gain": 155
+    },
+    {
+      "name": "vitejs/vite",
+      "daily_gain": 73
+    },
+    {
+      "name": "microsoft/mxc",
+      "daily_gain": 57
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "daily_gain": 449
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "daily_gain": 219
     }
   ]
 }
