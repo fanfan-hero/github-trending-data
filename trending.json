@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-06-06T23:41:00.637971Z",
+  "updated_at": "2026-06-07T07:43:24.280030Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 441
+      "daily_gain": 439
     },
     {
       "name": "CopilotKit/CopilotKit",
-      "daily_gain": 613
+      "daily_gain": 631
     },
     {
       "name": "MemPalace/mempalace",
-      "daily_gain": 441
+      "daily_gain": 446
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
-      "daily_gain": 63
+      "daily_gain": 70
     },
     {
       "name": "openai/plugins",
-      "daily_gain": 215
+      "daily_gain": 213
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 700
+      "daily_gain": 683
     },
     {
       "name": "sveltejs/svelte",
-      "daily_gain": 34
+      "daily_gain": 25
     },
     {
       "name": "nginx/nginx",
-      "daily_gain": 37
+      "daily_gain": 20
     },
     {
       "name": "aquasecurity/trivy",
@@ -39,39 +39,39 @@
     },
     {
       "name": "golang/go",
-      "daily_gain": 24
+      "daily_gain": 30
     },
     {
       "name": "lfnovo/open-notebook",
-      "daily_gain": 783
+      "daily_gain": 794
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1008
+      "daily_gain": 700
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 203
+      "daily_gain": 193
     },
     {
       "name": "openai/whisper",
-      "daily_gain": 155
+      "daily_gain": 150
     },
     {
       "name": "vitejs/vite",
-      "daily_gain": 73
+      "daily_gain": 25
     },
     {
       "name": "microsoft/mxc",
-      "daily_gain": 57
+      "daily_gain": 64
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
-      "daily_gain": 449
+      "daily_gain": 433
     },
     {
       "name": "microsoft/VibeVoice",
-      "daily_gain": 219
+      "daily_gain": 216
     }
   ]
 }
