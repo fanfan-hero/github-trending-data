@@ -1,77 +1,65 @@
 {
-  "updated_at": "2026-06-07T11:27:39.351156Z",
+  "updated_at": "2026-06-07T23:42:08.465604Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 439
+      "daily_gain": 1097
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "daily_gain": 631
+      "name": "opencv/opencv",
+      "daily_gain": 89
     },
     {
-      "name": "MemPalace/mempalace",
-      "daily_gain": 446
+      "name": "Leonxlnx/taste-skill",
+      "daily_gain": 1104
     },
     {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "daily_gain": 70
-    },
-    {
-      "name": "openai/plugins",
-      "daily_gain": 213
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 683
-    },
-    {
-      "name": "sveltejs/svelte",
-      "daily_gain": 25
-    },
-    {
-      "name": "nginx/nginx",
-      "daily_gain": 20
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "daily_gain": 159
-    },
-    {
-      "name": "golang/go",
-      "daily_gain": 30
+      "name": "NousResearch/hermes-agent",
+      "daily_gain": 1117
     },
     {
       "name": "lfnovo/open-notebook",
-      "daily_gain": 794
+      "daily_gain": 555
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 700
+      "name": "yikart/AiToEarn",
+      "daily_gain": 180
     },
     {
-      "name": "santifer/career-ops",
-      "daily_gain": 193
+      "name": "aaif-goose/goose",
+      "daily_gain": 338
     },
     {
-      "name": "openai/whisper",
-      "daily_gain": 150
+      "name": "Crosstalk-Solutions/project-nomad",
+      "daily_gain": 304
     },
     {
-      "name": "vitejs/vite",
-      "daily_gain": 25
+      "name": "ggml-org/llama.cpp",
+      "daily_gain": 197
     },
     {
-      "name": "microsoft/mxc",
-      "daily_gain": 64
+      "name": "RyanCodrai/turbovec",
+      "daily_gain": 1533
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "daily_gain": 433
+      "name": "TapXWorld/ChinaTextbook",
+      "daily_gain": 355
     },
     {
-      "name": "microsoft/VibeVoice",
-      "daily_gain": 216
+      "name": "openai/plugins",
+      "daily_gain": 262
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 242
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "daily_gain": 21
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "daily_gain": 314
     }
   ]
 }
