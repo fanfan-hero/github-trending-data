@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-06-07T23:42:08.465604Z",
+  "updated_at": "2026-06-08T08:30:11.936441Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 1097
+      "daily_gain": 1111
     },
     {
       "name": "opencv/opencv",
-      "daily_gain": 89
+      "daily_gain": 65
     },
     {
       "name": "Leonxlnx/taste-skill",
-      "daily_gain": 1104
+      "daily_gain": 1103
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 1117
+      "daily_gain": 1112
     },
     {
       "name": "lfnovo/open-notebook",
-      "daily_gain": 555
+      "daily_gain": 554
     },
     {
       "name": "yikart/AiToEarn",
-      "daily_gain": 180
+      "daily_gain": 183
     },
     {
       "name": "aaif-goose/goose",
-      "daily_gain": 338
+      "daily_gain": 322
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 304
+      "daily_gain": 309
     },
     {
       "name": "ggml-org/llama.cpp",
-      "daily_gain": 197
+      "daily_gain": 158
     },
     {
       "name": "RyanCodrai/turbovec",
-      "daily_gain": 1533
+      "daily_gain": 1554
     },
     {
       "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 355
+      "daily_gain": 350
     },
     {
       "name": "openai/plugins",
@@ -51,15 +51,15 @@
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 242
+      "daily_gain": 245
     },
     {
       "name": "HunxByts/GhostTrack",
-      "daily_gain": 21
+      "daily_gain": 28
     },
     {
       "name": "microsoft/pg_durable",
-      "daily_gain": 314
+      "daily_gain": 316
     }
   ]
 }
