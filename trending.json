@@ -1,65 +1,69 @@
 {
-  "updated_at": "2026-06-08T08:30:11.936441Z",
+  "updated_at": "2026-06-08T13:54:13.004737Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 1111
-    },
-    {
-      "name": "opencv/opencv",
-      "daily_gain": 65
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "daily_gain": 1103
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "daily_gain": 1112
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "daily_gain": 554
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "daily_gain": 183
-    },
-    {
-      "name": "aaif-goose/goose",
-      "daily_gain": 322
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 309
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "daily_gain": 158
+      "daily_gain": 3558
     },
     {
       "name": "RyanCodrai/turbovec",
-      "daily_gain": 1554
+      "daily_gain": 1730
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 350
-    },
-    {
-      "name": "openai/plugins",
-      "daily_gain": 262
+      "name": "google/skills",
+      "daily_gain": 481
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 245
+      "daily_gain": 649
     },
     {
-      "name": "HunxByts/GhostTrack",
-      "daily_gain": 28
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 961
     },
     {
-      "name": "microsoft/pg_durable",
-      "daily_gain": 316
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "daily_gain": 337
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 665
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "daily_gain": 112
+    },
+    {
+      "name": "openai/plugins",
+      "daily_gain": 296
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "daily_gain": 103
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "daily_gain": 452
+    },
+    {
+      "name": "roboflow/supervision",
+      "daily_gain": 957
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "daily_gain": 578
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "daily_gain": 593
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "daily_gain": 154
+    },
+    {
+      "name": "aaif-goose/goose",
+      "daily_gain": 699
     }
   ]
 }
