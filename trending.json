@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T13:54:13.004737Z",
+  "updated_at": "2026-06-08T23:49:50.895249Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
@@ -19,15 +19,15 @@
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 961
+      "daily_gain": 796
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
-      "daily_gain": 337
+      "daily_gain": 121
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 665
+      "daily_gain": 477
     },
     {
       "name": "phuryn/pm-skills",
@@ -43,15 +43,15 @@
     },
     {
       "name": "MemPalace/mempalace",
-      "daily_gain": 452
+      "daily_gain": 237
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 957
+      "daily_gain": 1140
     },
     {
       "name": "CopilotKit/CopilotKit",
-      "daily_gain": 578
+      "daily_gain": 398
     },
     {
       "name": "TapXWorld/ChinaTextbook",
@@ -59,7 +59,7 @@
     },
     {
       "name": "luongnv89/claude-howto",
-      "daily_gain": 154
+      "daily_gain": 393
     },
     {
       "name": "aaif-goose/goose",
