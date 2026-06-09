@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T12:26:58.625017Z",
+  "updated_at": "2026-06-09T23:56:53.321405Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
@@ -15,7 +15,7 @@
     },
     {
       "name": "opencv/opencv",
-      "daily_gain": 395
+      "daily_gain": 169
     },
     {
       "name": "refactoringhq/tolaria",
@@ -39,7 +39,7 @@
     },
     {
       "name": "yikart/AiToEarn",
-      "daily_gain": 786
+      "daily_gain": 423
     },
     {
       "name": "phuryn/pm-skills",
