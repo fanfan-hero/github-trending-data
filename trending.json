@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-06-09T07:04:10.300826Z",
+  "updated_at": "2026-06-09T12:26:58.625017Z",
   "projects": [
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 3558
+      "daily_gain": 3177
     },
     {
       "name": "RyanCodrai/turbovec",
-      "daily_gain": 1729
-    },
-    {
-      "name": "google/skills",
-      "daily_gain": 461
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "daily_gain": 651
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 679
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "daily_gain": 62
-    },
-    {
-      "name": "santifer/career-ops",
-      "daily_gain": 308
-    },
-    {
-      "name": "phuryn/pm-skills",
-      "daily_gain": 164
-    },
-    {
-      "name": "openai/plugins",
-      "daily_gain": 296
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "daily_gain": 143
-    },
-    {
-      "name": "MemPalace/mempalace",
-      "daily_gain": 170
+      "daily_gain": 1800
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 1288
+      "daily_gain": 735
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "daily_gain": 378
+      "name": "opencv/opencv",
+      "daily_gain": 395
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 592
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "daily_gain": 312
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 821
     },
     {
       "name": "aaif-goose/goose",
-      "daily_gain": 699
+      "daily_gain": 490
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "daily_gain": 631
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "daily_gain": 517
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "daily_gain": 66
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "daily_gain": 786
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "daily_gain": 808
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 1114
+    },
+    {
+      "name": "openai/plugins",
+      "daily_gain": 284
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "daily_gain": 165
+    },
+    {
+      "name": "francescopace/espectre",
+      "daily_gain": 112
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 348
     }
   ]
 }
