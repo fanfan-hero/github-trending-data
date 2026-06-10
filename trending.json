@@ -1,69 +1,73 @@
 {
-  "updated_at": "2026-06-10T07:54:18.366657Z",
+  "updated_at": "2026-06-10T12:46:34.342874Z",
   "projects": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 3191
-    },
-    {
-      "name": "RyanCodrai/turbovec",
-      "daily_gain": 1801
-    },
-    {
-      "name": "roboflow/supervision",
-      "daily_gain": 733
-    },
-    {
-      "name": "opencv/opencv",
-      "daily_gain": 102
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "daily_gain": 829
-    },
-    {
-      "name": "aaif-goose/goose",
-      "daily_gain": 489
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "daily_gain": 633
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 519
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 79
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "daily_gain": 402
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 781
     },
     {
       "name": "phuryn/pm-skills",
-      "daily_gain": 806
+      "daily_gain": 775
     },
     {
-      "name": "santifer/career-ops",
-      "daily_gain": 1110
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 618
     },
     {
-      "name": "openai/plugins",
-      "daily_gain": 284
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 2561
+    },
+    {
+      "name": "soxoj/maigret",
+      "daily_gain": 261
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "daily_gain": 397
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1011
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "daily_gain": 92
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 1471
     },
     {
       "name": "maziyarpanahi/openmed",
-      "daily_gain": 191
+      "daily_gain": 535
     },
     {
-      "name": "francescopace/espectre",
-      "daily_gain": 134
+      "name": "luongnv89/claude-howto",
+      "daily_gain": 204
     },
     {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 443
+      "name": "activeloopai/hivemind",
+      "daily_gain": 47
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 439
+    },
+    {
+      "name": "roboflow/supervision",
+      "daily_gain": 699
+    },
+    {
+      "name": "google/skills",
+      "daily_gain": 680
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "daily_gain": 241
+    },
+    {
+      "name": "apple/container",
+      "daily_gain": 1358
     }
   ]
 }
