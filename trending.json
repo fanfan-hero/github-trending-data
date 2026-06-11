@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-06-10T12:46:34.342874Z",
+  "updated_at": "2026-06-11T00:02:53.167994Z",
   "projects": [
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 781
+      "daily_gain": 821
     },
     {
       "name": "phuryn/pm-skills",
-      "daily_gain": 775
+      "daily_gain": 804
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 618
+      "daily_gain": 612
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 2561
+      "daily_gain": 2535
     },
     {
       "name": "soxoj/maigret",
-      "daily_gain": 261
+      "daily_gain": 318
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 397
+      "daily_gain": 393
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1011
+      "daily_gain": 1104
     },
     {
       "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 92
+      "daily_gain": 354
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 1471
+      "daily_gain": 1389
     },
     {
       "name": "maziyarpanahi/openmed",
-      "daily_gain": 535
+      "daily_gain": 527
     },
     {
       "name": "luongnv89/claude-howto",
-      "daily_gain": 204
+      "daily_gain": 211
     },
     {
       "name": "activeloopai/hivemind",
-      "daily_gain": 47
+      "daily_gain": 64
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 439
+      "daily_gain": 420
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 699
+      "daily_gain": 695
     },
     {
       "name": "google/skills",
-      "daily_gain": 680
+      "daily_gain": 211
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 241
+      "daily_gain": 247
     },
     {
       "name": "apple/container",
-      "daily_gain": 1358
+      "daily_gain": 1611
     }
   ]
 }
