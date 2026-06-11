@@ -1,73 +1,81 @@
 {
-  "updated_at": "2026-06-11T08:23:49.352747Z",
+  "updated_at": "2026-06-11T13:44:38.264812Z",
   "projects": [
     {
+      "name": "apple/container",
+      "daily_gain": 2419
+    },
+    {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 821
-    },
-    {
-      "name": "phuryn/pm-skills",
-      "daily_gain": 804
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "daily_gain": 612
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 2535
-    },
-    {
-      "name": "soxoj/maigret",
-      "daily_gain": 318
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 393
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 1104
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 354
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 1389
+      "daily_gain": 3275
     },
     {
       "name": "maziyarpanahi/openmed",
-      "daily_gain": 527
+      "daily_gain": 427
     },
     {
-      "name": "luongnv89/claude-howto",
-      "daily_gain": 211
+      "name": "phuryn/pm-skills",
+      "daily_gain": 1944
     },
     {
-      "name": "activeloopai/hivemind",
-      "daily_gain": 64
+      "name": "NVIDIA/SkillSpector",
+      "daily_gain": 308
     },
     {
-      "name": "ruvnet/RuView",
-      "daily_gain": 420
+      "name": "soxoj/maigret",
+      "daily_gain": 665
     },
     {
-      "name": "roboflow/supervision",
-      "daily_gain": 695
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "daily_gain": 369
     },
     {
-      "name": "google/skills",
-      "daily_gain": 211
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 604
     },
     {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "daily_gain": 247
+      "name": "obra/superpowers",
+      "daily_gain": 1323
     },
     {
-      "name": "apple/container",
-      "daily_gain": 1611
+      "name": "restic/restic",
+      "daily_gain": 33
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 1434
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "daily_gain": 510
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "daily_gain": 31
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "daily_gain": 98
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "daily_gain": 94
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "daily_gain": 345
+    },
+    {
+      "name": "hexo-ai/sia",
+      "daily_gain": 177
+    },
+    {
+      "name": "mattermost/mattermost",
+      "daily_gain": 26
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "daily_gain": 342
     }
   ]
 }
