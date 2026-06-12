@@ -1,81 +1,81 @@
 {
-  "updated_at": "2026-06-12T08:10:58.593697Z",
+  "updated_at": "2026-06-12T12:44:08.990896Z",
   "projects": [
     {
       "name": "apple/container",
-      "daily_gain": 2430
+      "daily_gain": 3513
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 3278
+      "daily_gain": 2660
     },
     {
       "name": "maziyarpanahi/openmed",
-      "daily_gain": 426
+      "daily_gain": 517
     },
     {
       "name": "phuryn/pm-skills",
-      "daily_gain": 1978
+      "daily_gain": 823
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 319
+      "daily_gain": 811
     },
     {
       "name": "soxoj/maigret",
-      "daily_gain": 661
+      "daily_gain": 559
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 368
+      "daily_gain": 355
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 604
+      "daily_gain": 369
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1322
+      "daily_gain": 1276
     },
     {
       "name": "restic/restic",
-      "daily_gain": 61
+      "daily_gain": 307
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1599
+      "daily_gain": 1040
     },
     {
       "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 507
+      "daily_gain": 401
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 67
+      "daily_gain": 437
     },
     {
       "name": "kenn-io/agentsview",
-      "daily_gain": 114
+      "daily_gain": 529
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
-      "daily_gain": 89
+      "daily_gain": 314
     },
     {
       "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 88
+      "daily_gain": 252
     },
     {
       "name": "hexo-ai/sia",
-      "daily_gain": 199
+      "daily_gain": 528
     },
     {
       "name": "mattermost/mattermost",
-      "daily_gain": 53
+      "daily_gain": 391
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 161
+      "daily_gain": 732
     }
   ]
 }
