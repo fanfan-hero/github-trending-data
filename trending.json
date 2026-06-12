@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-11T13:44:38.264812Z",
+  "updated_at": "2026-06-12T00:08:27.300977Z",
   "projects": [
     {
       "name": "apple/container",
-      "daily_gain": 2419
+      "daily_gain": 2430
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 3275
+      "daily_gain": 3278
     },
     {
       "name": "maziyarpanahi/openmed",
-      "daily_gain": 427
+      "daily_gain": 426
     },
     {
       "name": "phuryn/pm-skills",
-      "daily_gain": 1944
+      "daily_gain": 1978
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 308
+      "daily_gain": 319
     },
     {
       "name": "soxoj/maigret",
-      "daily_gain": 665
+      "daily_gain": 661
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 369
+      "daily_gain": 368
     },
     {
       "name": "refactoringhq/tolaria",
@@ -35,47 +35,47 @@
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1323
+      "daily_gain": 1322
     },
     {
       "name": "restic/restic",
-      "daily_gain": 33
+      "daily_gain": 61
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1434
+      "daily_gain": 1599
     },
     {
       "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 510
+      "daily_gain": 507
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 31
+      "daily_gain": 67
     },
     {
       "name": "kenn-io/agentsview",
-      "daily_gain": 98
+      "daily_gain": 114
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
-      "daily_gain": 94
+      "daily_gain": 89
     },
     {
       "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 345
+      "daily_gain": 88
     },
     {
       "name": "hexo-ai/sia",
-      "daily_gain": 177
+      "daily_gain": 199
     },
     {
       "name": "mattermost/mattermost",
-      "daily_gain": 26
+      "daily_gain": 53
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 342
+      "daily_gain": 161
     }
   ]
 }
