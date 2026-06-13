@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-06-13T11:32:37.165477Z",
+  "updated_at": "2026-06-13T23:44:27.112396Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 179
+      "daily_gain": 650
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 2656
+      "daily_gain": 1507
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 437
+      "daily_gain": 86
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1275
+      "daily_gain": 931
     },
     {
       "name": "apple/container",
-      "daily_gain": 3504
+      "daily_gain": 1471
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 20
+      "daily_gain": 277
     },
     {
       "name": "kenn-io/agentsview",
-      "daily_gain": 530
+      "daily_gain": 187
     },
     {
       "name": "LMCache/LMCache",
-      "daily_gain": 28
+      "daily_gain": 246
     },
     {
       "name": "microsoft/PowerToys",
-      "daily_gain": 103
+      "daily_gain": 374
     },
     {
       "name": "andrewyng/aisuite",
@@ -43,11 +43,11 @@
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 813
+      "daily_gain": 809
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 737
+      "daily_gain": 86
     },
     {
       "name": "swc-project/swc",
@@ -55,7 +55,7 @@
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 356
+      "daily_gain": 107
     }
   ]
 }
