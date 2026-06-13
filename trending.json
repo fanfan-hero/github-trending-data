@@ -1,81 +1,57 @@
 {
-  "updated_at": "2026-06-12T12:44:08.990896Z",
+  "updated_at": "2026-06-13T00:04:20.497119Z",
   "projects": [
     {
-      "name": "apple/container",
-      "daily_gain": 3513
-    },
-    {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 2660
+      "daily_gain": 2656
     },
     {
-      "name": "maziyarpanahi/openmed",
-      "daily_gain": 517
+      "name": "music-assistant/server",
+      "daily_gain": 20
     },
     {
-      "name": "phuryn/pm-skills",
-      "daily_gain": 823
+      "name": "mattermost/mattermost",
+      "daily_gain": 388
     },
     {
-      "name": "NVIDIA/SkillSpector",
-      "daily_gain": 811
+      "name": "apple/container",
+      "daily_gain": 3504
     },
     {
-      "name": "soxoj/maigret",
-      "daily_gain": 559
+      "name": "iptv-org/iptv",
+      "daily_gain": 179
     },
     {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 355
+      "name": "obra/superpowers",
+      "daily_gain": 1275
     },
     {
       "name": "refactoringhq/tolaria",
       "daily_gain": 369
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 1276
+      "name": "maziyarpanahi/openmed",
+      "daily_gain": 515
     },
     {
-      "name": "restic/restic",
-      "daily_gain": 307
+      "name": "LMCache/LMCache",
+      "daily_gain": 28
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 1040
+      "name": "phuryn/pm-skills",
+      "daily_gain": 827
     },
     {
       "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 401
+      "daily_gain": 400
     },
     {
-      "name": "chatwoot/chatwoot",
-      "daily_gain": 437
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 1026
     },
     {
-      "name": "kenn-io/agentsview",
-      "daily_gain": 529
-    },
-    {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "daily_gain": 314
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 252
-    },
-    {
-      "name": "hexo-ai/sia",
-      "daily_gain": 528
-    },
-    {
-      "name": "mattermost/mattermost",
-      "daily_gain": 391
-    },
-    {
-      "name": "bannedbook/fanqiang",
-      "daily_gain": 732
+      "name": "microsoft/PowerToys",
+      "daily_gain": 103
     }
   ]
 }
