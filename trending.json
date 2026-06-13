@@ -1,57 +1,61 @@
 {
-  "updated_at": "2026-06-13T07:34:36.027078Z",
+  "updated_at": "2026-06-13T11:32:37.165477Z",
   "projects": [
+    {
+      "name": "iptv-org/iptv",
+      "daily_gain": 179
+    },
     {
       "name": "addyosmani/agent-skills",
       "daily_gain": 2656
     },
     {
-      "name": "music-assistant/server",
-      "daily_gain": 20
-    },
-    {
-      "name": "mattermost/mattermost",
-      "daily_gain": 388
-    },
-    {
-      "name": "apple/container",
-      "daily_gain": 3504
-    },
-    {
-      "name": "iptv-org/iptv",
-      "daily_gain": 179
+      "name": "chatwoot/chatwoot",
+      "daily_gain": 437
     },
     {
       "name": "obra/superpowers",
       "daily_gain": 1275
     },
     {
-      "name": "refactoringhq/tolaria",
-      "daily_gain": 369
+      "name": "apple/container",
+      "daily_gain": 3504
     },
     {
-      "name": "maziyarpanahi/openmed",
-      "daily_gain": 515
+      "name": "music-assistant/server",
+      "daily_gain": 20
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "daily_gain": 530
     },
     {
       "name": "LMCache/LMCache",
       "daily_gain": 28
     },
     {
-      "name": "phuryn/pm-skills",
-      "daily_gain": 827
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "daily_gain": 400
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 1026
-    },
-    {
       "name": "microsoft/PowerToys",
       "daily_gain": 103
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "daily_gain": 132
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "daily_gain": 813
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "daily_gain": 737
+    },
+    {
+      "name": "swc-project/swc",
+      "daily_gain": 12
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "daily_gain": 356
     }
   ]
 }
