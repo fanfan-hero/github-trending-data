@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-06-13T23:44:27.112396Z",
+  "updated_at": "2026-06-14T08:04:03.334468Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 650
+      "daily_gain": 530
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 1507
+      "daily_gain": 1514
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 86
+      "daily_gain": 83
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 931
+      "daily_gain": 924
     },
     {
       "name": "apple/container",
-      "daily_gain": 1471
+      "daily_gain": 1487
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 277
+      "daily_gain": 270
     },
     {
       "name": "kenn-io/agentsview",
-      "daily_gain": 187
+      "daily_gain": 190
     },
     {
       "name": "LMCache/LMCache",
-      "daily_gain": 246
+      "daily_gain": 238
     },
     {
       "name": "microsoft/PowerToys",
-      "daily_gain": 374
+      "daily_gain": 370
     },
     {
       "name": "andrewyng/aisuite",
-      "daily_gain": 132
+      "daily_gain": 127
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 809
+      "daily_gain": 804
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 86
+      "daily_gain": 93
     },
     {
       "name": "swc-project/swc",
-      "daily_gain": 12
+      "daily_gain": 20
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 107
+      "daily_gain": 109
     }
   ]
 }
