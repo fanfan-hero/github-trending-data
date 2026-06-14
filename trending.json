@@ -1,61 +1,65 @@
 {
-  "updated_at": "2026-06-14T08:04:03.334468Z",
+  "updated_at": "2026-06-14T11:47:02.284176Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
       "daily_gain": 530
     },
     {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 1514
+      "name": "freeCodeCamp/freeCodeCamp",
+      "daily_gain": 114
     },
     {
-      "name": "chatwoot/chatwoot",
-      "daily_gain": 83
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 924
-    },
-    {
-      "name": "apple/container",
-      "daily_gain": 1487
-    },
-    {
-      "name": "music-assistant/server",
-      "daily_gain": 270
-    },
-    {
-      "name": "kenn-io/agentsview",
-      "daily_gain": 190
-    },
-    {
-      "name": "LMCache/LMCache",
-      "daily_gain": 238
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "daily_gain": 370
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "daily_gain": 127
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "daily_gain": 804
-    },
-    {
-      "name": "bannedbook/fanqiang",
-      "daily_gain": 93
+      "name": "pytest-dev/pytest",
+      "daily_gain": 8
     },
     {
       "name": "swc-project/swc",
       "daily_gain": 20
     },
     {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "daily_gain": 109
+      "name": "chatwoot/chatwoot",
+      "daily_gain": 83
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "daily_gain": 804
+    },
+    {
+      "name": "meshery/meshery",
+      "daily_gain": 3
+    },
+    {
+      "name": "cypress-io/cypress",
+      "daily_gain": 7
+    },
+    {
+      "name": "GorvGoyl/Clone-Wars",
+      "daily_gain": 337
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "daily_gain": 276
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 238
+    },
+    {
+      "name": "music-assistant/server",
+      "daily_gain": 270
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "daily_gain": 52
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "daily_gain": 13
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "daily_gain": 127
     }
   ]
 }
