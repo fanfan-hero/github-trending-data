@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-14T11:47:02.284176Z",
+  "updated_at": "2026-06-14T23:48:14.423951Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 530
+      "daily_gain": 1531
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 114
+      "daily_gain": 253
     },
     {
       "name": "pytest-dev/pytest",
@@ -15,23 +15,23 @@
     },
     {
       "name": "swc-project/swc",
-      "daily_gain": 20
+      "daily_gain": 163
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 83
+      "daily_gain": 399
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 804
+      "daily_gain": 962
     },
     {
       "name": "meshery/meshery",
-      "daily_gain": 3
+      "daily_gain": 45
     },
     {
       "name": "cypress-io/cypress",
-      "daily_gain": 7
+      "daily_gain": 121
     },
     {
       "name": "GorvGoyl/Clone-Wars",
@@ -47,7 +47,7 @@
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 270
+      "daily_gain": 196
     },
     {
       "name": "Free-TV/IPTV",
@@ -55,11 +55,11 @@
     },
     {
       "name": "puppeteer/puppeteer",
-      "daily_gain": 13
+      "daily_gain": 59
     },
     {
       "name": "andrewyng/aisuite",
-      "daily_gain": 127
+      "daily_gain": 290
     }
   ]
 }
