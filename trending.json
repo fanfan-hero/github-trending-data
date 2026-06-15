@@ -1,65 +1,77 @@
 {
-  "updated_at": "2026-06-15T09:46:16.610634Z",
+  "updated_at": "2026-06-15T15:32:10.661641Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 1528
+      "daily_gain": 2650
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 146
+      "name": "teslamate-org/teslamate",
+      "daily_gain": 35
     },
     {
-      "name": "pytest-dev/pytest",
-      "daily_gain": 14
-    },
-    {
-      "name": "swc-project/swc",
-      "daily_gain": 163
-    },
-    {
-      "name": "chatwoot/chatwoot",
-      "daily_gain": 400
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "daily_gain": 964
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 1045
     },
     {
       "name": "meshery/meshery",
-      "daily_gain": 20
+      "daily_gain": 227
     },
     {
-      "name": "cypress-io/cypress",
-      "daily_gain": 39
+      "name": "chatwoot/chatwoot",
+      "daily_gain": 431
     },
     {
-      "name": "GorvGoyl/Clone-Wars",
-      "daily_gain": 269
+      "name": "krahets/hello-algo",
+      "daily_gain": 95
     },
     {
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "daily_gain": 293
+      "name": "freeCodeCamp/freeCodeCamp",
+      "daily_gain": 738
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 244
+      "name": "trycua/cua",
+      "daily_gain": 57
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "daily_gain": 516
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 538
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 197
+      "daily_gain": 226
     },
     {
       "name": "Free-TV/IPTV",
-      "daily_gain": 70
+      "daily_gain": 361
     },
     {
-      "name": "puppeteer/puppeteer",
-      "daily_gain": 29
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "daily_gain": 488
     },
     {
-      "name": "andrewyng/aisuite",
-      "daily_gain": 291
+      "name": "Raphire/Win11Debloat",
+      "daily_gain": 114
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "daily_gain": 256
+    },
+    {
+      "name": "itsfatduck/optimizerDuck",
+      "daily_gain": 321
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "daily_gain": 1079
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 395
     }
   ]
 }
