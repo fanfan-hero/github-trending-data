@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-15T15:32:10.661641Z",
+  "updated_at": "2026-06-16T00:15:46.655728Z",
   "projects": [
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 2650
+      "daily_gain": 2657
     },
     {
       "name": "teslamate-org/teslamate",
-      "daily_gain": 35
+      "daily_gain": 33
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1045
+      "daily_gain": 1100
     },
     {
       "name": "meshery/meshery",
-      "daily_gain": 227
+      "daily_gain": 228
     },
     {
       "name": "chatwoot/chatwoot",
@@ -23,27 +23,27 @@
     },
     {
       "name": "krahets/hello-algo",
-      "daily_gain": 95
+      "daily_gain": 71
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 738
+      "daily_gain": 736
     },
     {
       "name": "trycua/cua",
-      "daily_gain": 57
+      "daily_gain": 70
     },
     {
       "name": "jwasham/coding-interview-university",
-      "daily_gain": 516
+      "daily_gain": 364
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 538
+      "daily_gain": 562
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 226
+      "daily_gain": 225
     },
     {
       "name": "Free-TV/IPTV",
@@ -51,19 +51,19 @@
     },
     {
       "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "daily_gain": 488
+      "daily_gain": 489
     },
     {
       "name": "Raphire/Win11Debloat",
-      "daily_gain": 114
+      "daily_gain": 112
     },
     {
       "name": "mikeroyal/Self-Hosting-Guide",
-      "daily_gain": 256
+      "daily_gain": 188
     },
     {
       "name": "itsfatduck/optimizerDuck",
-      "daily_gain": 321
+      "daily_gain": 340
     },
     {
       "name": "NVIDIA/SkillSpector",
@@ -71,7 +71,7 @@
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 395
+      "daily_gain": 396
     }
   ]
 }
