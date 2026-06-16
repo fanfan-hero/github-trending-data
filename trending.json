@@ -1,77 +1,57 @@
 {
-  "updated_at": "2026-06-16T09:11:18.828501Z",
+  "updated_at": "2026-06-16T14:34:25.910509Z",
   "projects": [
     {
-      "name": "iptv-org/iptv",
-      "daily_gain": 2657
+      "name": "freeCodeCamp/freeCodeCamp",
+      "daily_gain": 640
+    },
+    {
+      "name": "swc-project/swc",
+      "daily_gain": 21
     },
     {
       "name": "teslamate-org/teslamate",
-      "daily_gain": 33
+      "daily_gain": 214
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1100
+      "name": "iptv-org/iptv",
+      "daily_gain": 1196
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "daily_gain": 171
     },
     {
       "name": "meshery/meshery",
-      "daily_gain": 228
+      "daily_gain": 229
     },
     {
-      "name": "chatwoot/chatwoot",
-      "daily_gain": 431
-    },
-    {
-      "name": "krahets/hello-algo",
-      "daily_gain": 71
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 736
-    },
-    {
-      "name": "trycua/cua",
-      "daily_gain": 70
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "daily_gain": 364
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 562
+      "name": "cypress-io/cypress",
+      "daily_gain": 11
     },
     {
       "name": "music-assistant/server",
-      "daily_gain": 225
+      "daily_gain": 157
     },
     {
-      "name": "Free-TV/IPTV",
-      "daily_gain": 361
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "daily_gain": 146
     },
     {
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "daily_gain": 489
+      "name": "OpenBMB/VoxCPM",
+      "daily_gain": 413
     },
     {
-      "name": "Raphire/Win11Debloat",
-      "daily_gain": 112
+      "name": "alibaba/zvec",
+      "daily_gain": 251
     },
     {
-      "name": "mikeroyal/Self-Hosting-Guide",
-      "daily_gain": 188
+      "name": "rmyndharis/OpenWA",
+      "daily_gain": 185
     },
     {
-      "name": "itsfatduck/optimizerDuck",
-      "daily_gain": 340
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "daily_gain": 1079
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 396
+      "name": "n0-computer/iroh",
+      "daily_gain": 326
     }
   ]
 }
