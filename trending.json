@@ -1,57 +1,85 @@
 {
-  "updated_at": "2026-06-17T08:49:45.121701Z",
+  "updated_at": "2026-06-17T13:03:31.662619Z",
   "projects": [
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 633
-    },
-    {
-      "name": "swc-project/swc",
-      "daily_gain": 20
-    },
-    {
-      "name": "teslamate-org/teslamate",
-      "daily_gain": 215
-    },
-    {
-      "name": "iptv-org/iptv",
-      "daily_gain": 1197
-    },
-    {
-      "name": "puppeteer/puppeteer",
-      "daily_gain": 56
-    },
-    {
-      "name": "meshery/meshery",
-      "daily_gain": 228
-    },
-    {
-      "name": "cypress-io/cypress",
-      "daily_gain": 13
-    },
-    {
-      "name": "music-assistant/server",
-      "daily_gain": 157
-    },
-    {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "daily_gain": 146
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "daily_gain": 408
-    },
-    {
-      "name": "alibaba/zvec",
-      "daily_gain": 156
-    },
-    {
-      "name": "rmyndharis/OpenWA",
-      "daily_gain": 185
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 367
     },
     {
       "name": "n0-computer/iroh",
-      "daily_gain": 334
+      "daily_gain": 422
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 2025
+    },
+    {
+      "name": "meshery/meshery",
+      "daily_gain": 199
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1109
+    },
+    {
+      "name": "google-research/timesfm",
+      "daily_gain": 84
+    },
+    {
+      "name": "RocketChat/Rocket.Chat",
+      "daily_gain": 15
+    },
+    {
+      "name": "continuedev/continue",
+      "daily_gain": 38
+    },
+    {
+      "name": "penpot/penpot",
+      "daily_gain": 94
+    },
+    {
+      "name": "krahets/hello-algo",
+      "daily_gain": 516
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "daily_gain": 465
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1849
+    },
+    {
+      "name": "yairm210/Unciv",
+      "daily_gain": 25
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "daily_gain": 764
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "daily_gain": 148
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "daily_gain": 86
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "daily_gain": 400
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 71
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "daily_gain": 37
+    },
+    {
+      "name": "makeplane/plane",
+      "daily_gain": 68
     }
   ]
 }
