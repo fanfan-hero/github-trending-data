@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-06-17T13:03:31.662619Z",
+  "updated_at": "2026-06-18T00:02:11.390173Z",
   "projects": [
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 367
+      "daily_gain": 371
     },
     {
       "name": "n0-computer/iroh",
-      "daily_gain": 422
+      "daily_gain": 421
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 2025
+      "daily_gain": 1161
     },
     {
       "name": "meshery/meshery",
-      "daily_gain": 199
+      "daily_gain": 196
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1109
+      "daily_gain": 1129
     },
     {
       "name": "google-research/timesfm",
-      "daily_gain": 84
+      "daily_gain": 606
     },
     {
       "name": "RocketChat/Rocket.Chat",
-      "daily_gain": 15
+      "daily_gain": 22
     },
     {
       "name": "continuedev/continue",
-      "daily_gain": 38
+      "daily_gain": 49
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 94
+      "daily_gain": 70
     },
     {
       "name": "krahets/hello-algo",
-      "daily_gain": 516
+      "daily_gain": 96
     },
     {
       "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "daily_gain": 465
+      "daily_gain": 457
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1849
+      "daily_gain": 1523
     },
     {
       "name": "yairm210/Unciv",
-      "daily_gain": 25
+      "daily_gain": 24
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 764
+      "daily_gain": 757
     },
     {
       "name": "bytedance/UI-TARS-desktop",
-      "daily_gain": 148
+      "daily_gain": 150
     },
     {
       "name": "nautechsystems/nautilus_trader",
-      "daily_gain": 86
+      "daily_gain": 98
     },
     {
       "name": "chatwoot/chatwoot",
-      "daily_gain": 400
+      "daily_gain": 264
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 71
+      "daily_gain": 98
     },
     {
       "name": "alexzhang13/rlm",
-      "daily_gain": 37
+      "daily_gain": 43
     },
     {
       "name": "makeplane/plane",
-      "daily_gain": 68
+      "daily_gain": 89
     }
   ]
 }
