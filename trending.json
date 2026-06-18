@@ -1,85 +1,69 @@
 {
-  "updated_at": "2026-06-18T08:26:24.925417Z",
+  "updated_at": "2026-06-18T12:41:20.446456Z",
   "projects": [
     {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 371
+      "name": "google-research/timesfm",
+      "daily_gain": 858
     },
     {
       "name": "n0-computer/iroh",
-      "daily_gain": 421
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1161
-    },
-    {
-      "name": "meshery/meshery",
-      "daily_gain": 196
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 1129
-    },
-    {
-      "name": "google-research/timesfm",
-      "daily_gain": 606
-    },
-    {
-      "name": "RocketChat/Rocket.Chat",
-      "daily_gain": 22
-    },
-    {
-      "name": "continuedev/continue",
-      "daily_gain": 49
-    },
-    {
-      "name": "penpot/penpot",
-      "daily_gain": 70
-    },
-    {
-      "name": "krahets/hello-algo",
-      "daily_gain": 96
-    },
-    {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "daily_gain": 457
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 1523
-    },
-    {
-      "name": "yairm210/Unciv",
-      "daily_gain": 24
+      "daily_gain": 369
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 757
+      "daily_gain": 417
     },
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "daily_gain": 150
+      "name": "obra/superpowers",
+      "daily_gain": 1435
     },
     {
-      "name": "nautechsystems/nautilus_trader",
-      "daily_gain": 98
+      "name": "zai-org/GLM-5",
+      "daily_gain": 286
     },
     {
-      "name": "chatwoot/chatwoot",
-      "daily_gain": 264
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 2308
     },
     {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 98
+      "name": "alibaba/zvec",
+      "daily_gain": 435
     },
     {
-      "name": "alexzhang13/rlm",
-      "daily_gain": 43
+      "name": "withastro/flue",
+      "daily_gain": 164
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "daily_gain": 1339
     },
     {
       "name": "makeplane/plane",
-      "daily_gain": 89
+      "daily_gain": 610
+    },
+    {
+      "name": "Kong/insomnia",
+      "daily_gain": 13
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "daily_gain": 247
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "daily_gain": 11
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "daily_gain": 33
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "daily_gain": 47
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "daily_gain": 179
     }
   ]
 }
