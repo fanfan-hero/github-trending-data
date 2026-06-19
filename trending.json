@@ -1,69 +1,65 @@
 {
-  "updated_at": "2026-06-19T08:54:12.848465Z",
+  "updated_at": "2026-06-19T13:01:33.775738Z",
   "projects": [
     {
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 1055
+    },
+    {
       "name": "google-research/timesfm",
-      "daily_gain": 844
+      "daily_gain": 1516
     },
     {
-      "name": "n0-computer/iroh",
-      "daily_gain": 369
+      "name": "palmier-io/palmier-pro",
+      "daily_gain": 749
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "daily_gain": 417
+      "name": "koala73/worldmonitor",
+      "daily_gain": 133
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 1429
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "daily_gain": 203
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "daily_gain": 172
+    },
+    {
+      "name": "chopratejas/headroom",
+      "daily_gain": 3938
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 738
     },
     {
       "name": "zai-org/GLM-5",
-      "daily_gain": 202
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 2322
-    },
-    {
-      "name": "alibaba/zvec",
-      "daily_gain": 259
+      "daily_gain": 478
     },
     {
       "name": "withastro/flue",
-      "daily_gain": 162
+      "daily_gain": 305
     },
     {
-      "name": "Kilo-Org/kilocode",
-      "daily_gain": 1345
+      "name": "n0-computer/iroh",
+      "daily_gain": 307
     },
     {
-      "name": "makeplane/plane",
-      "daily_gain": 613
+      "name": "obra/superpowers",
+      "daily_gain": 1113
+    },
+    {
+      "name": "penpot/penpot",
+      "daily_gain": 318
     },
     {
       "name": "Kong/insomnia",
-      "daily_gain": 18
-    },
-    {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "daily_gain": 244
-    },
-    {
-      "name": "dotnet/aspnetcore",
-      "daily_gain": 14
-    },
-    {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "daily_gain": 40
+      "daily_gain": 291
     },
     {
       "name": "Lightricks/LTX-2",
-      "daily_gain": 51
-    },
-    {
-      "name": "LibreTranslate/LibreTranslate",
-      "daily_gain": 51
+      "daily_gain": 196
     }
   ]
 }
