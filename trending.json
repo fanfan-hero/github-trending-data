@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T13:01:33.775738Z",
+  "updated_at": "2026-06-19T23:44:43.278409Z",
   "projects": [
     {
       "name": "DeusData/codebase-memory-mcp",
@@ -15,15 +15,15 @@
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 133
+      "daily_gain": 300
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
-      "daily_gain": 203
+      "daily_gain": 155
     },
     {
       "name": "BuilderIO/agent-native",
-      "daily_gain": 172
+      "daily_gain": 210
     },
     {
       "name": "chopratejas/headroom",
@@ -31,7 +31,7 @@
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 738
+      "daily_gain": 236
     },
     {
       "name": "zai-org/GLM-5",
@@ -51,7 +51,7 @@
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 318
+      "daily_gain": 213
     },
     {
       "name": "Kong/insomnia",
