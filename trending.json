@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T00:13:55.275204Z",
+  "updated_at": "2026-06-19T08:54:12.848465Z",
   "projects": [
     {
       "name": "google-research/timesfm",
@@ -24,10 +24,6 @@
     {
       "name": "DeusData/codebase-memory-mcp",
       "daily_gain": 2322
-    },
-    {
-      "name": "yifanfeng97/Hyper-Extract",
-      "daily_gain": 124
     },
     {
       "name": "alibaba/zvec",
