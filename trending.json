@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-20T07:37:49.300955Z",
+  "updated_at": "2026-06-20T11:44:55.475319Z",
   "projects": [
+    {
+      "name": "palmier-io/palmier-pro",
+      "daily_gain": 756
+    },
+    {
+      "name": "penpot/penpot",
+      "daily_gain": 85
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 156
+    },
+    {
+      "name": "tursodatabase/turso",
+      "daily_gain": 774
+    },
     {
       "name": "DeusData/codebase-memory-mcp",
       "daily_gain": 1058
@@ -10,56 +26,48 @@
       "daily_gain": 1510
     },
     {
-      "name": "palmier-io/palmier-pro",
-      "daily_gain": 756
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "daily_gain": 156
-    },
-    {
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "daily_gain": 107
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "daily_gain": 147
-    },
-    {
-      "name": "chopratejas/headroom",
-      "daily_gain": 4005
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 156
-    },
-    {
-      "name": "zai-org/GLM-5",
-      "daily_gain": 480
-    },
-    {
-      "name": "withastro/flue",
-      "daily_gain": 309
-    },
-    {
-      "name": "n0-computer/iroh",
-      "daily_gain": 302
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 1110
-    },
-    {
-      "name": "penpot/penpot",
-      "daily_gain": 85
+      "name": "twentyhq/twenty",
+      "daily_gain": 140
     },
     {
       "name": "Kong/insomnia",
       "daily_gain": 292
     },
     {
-      "name": "Lightricks/LTX-2",
-      "daily_gain": 196
+      "name": "tw93/Pake",
+      "daily_gain": 2398
+    },
+    {
+      "name": "chopratejas/headroom",
+      "daily_gain": 4005
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "daily_gain": 140
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "daily_gain": 1035
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1520
+    },
+    {
+      "name": "withastro/flue",
+      "daily_gain": 309
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "daily_gain": 223
+    },
+    {
+      "name": "pppscn/SmsForwarder",
+      "daily_gain": 130
+    },
+    {
+      "name": "1jehuang/jcode",
+      "daily_gain": 70
     }
   ]
 }
