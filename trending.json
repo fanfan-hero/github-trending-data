@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-06-19T23:44:43.278409Z",
+  "updated_at": "2026-06-20T07:37:49.300955Z",
   "projects": [
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1055
+      "daily_gain": 1058
     },
     {
       "name": "google-research/timesfm",
-      "daily_gain": 1516
+      "daily_gain": 1510
     },
     {
       "name": "palmier-io/palmier-pro",
-      "daily_gain": 749
+      "daily_gain": 756
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 300
+      "daily_gain": 156
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
-      "daily_gain": 155
+      "daily_gain": 107
     },
     {
       "name": "BuilderIO/agent-native",
-      "daily_gain": 210
+      "daily_gain": 147
     },
     {
       "name": "chopratejas/headroom",
-      "daily_gain": 3938
+      "daily_gain": 4005
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 236
+      "daily_gain": 156
     },
     {
       "name": "zai-org/GLM-5",
-      "daily_gain": 478
+      "daily_gain": 480
     },
     {
       "name": "withastro/flue",
-      "daily_gain": 305
+      "daily_gain": 309
     },
     {
       "name": "n0-computer/iroh",
-      "daily_gain": 307
+      "daily_gain": 302
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1113
+      "daily_gain": 1110
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 213
+      "daily_gain": 85
     },
     {
       "name": "Kong/insomnia",
-      "daily_gain": 291
+      "daily_gain": 292
     },
     {
       "name": "Lightricks/LTX-2",
