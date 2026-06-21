@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T12:01:50.981967Z",
+  "updated_at": "2026-06-21T23:54:51.284673Z",
   "projects": [
     {
       "name": "palmier-io/palmier-pro",
-      "daily_gain": 902
+      "daily_gain": 1829
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 677
+      "daily_gain": 993
     },
     {
       "name": "chopratejas/headroom",
-      "daily_gain": 3795
+      "daily_gain": 2617
     },
     {
       "name": "tursodatabase/turso",
-      "daily_gain": 801
+      "daily_gain": 543
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 420
+      "daily_gain": 1131
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -27,7 +27,7 @@
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 633
+      "daily_gain": 253
     },
     {
       "name": "bytedance/deer-flow",
@@ -35,15 +35,19 @@
     },
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1271
+      "daily_gain": 1029
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 343
+      "daily_gain": 445
+    },
+    {
+      "name": "tw93/Pake",
+      "daily_gain": 1850
     },
     {
       "name": "mikumifa/biliTickerBuy",
-      "daily_gain": 164
+      "daily_gain": 56
     },
     {
       "name": "smicallef/spiderfoot",
@@ -59,11 +63,11 @@
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 352
+      "daily_gain": 366
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1395
+      "daily_gain": 1441
     }
   ]
 }
