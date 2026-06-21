@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-06-21T08:16:29.953072Z",
+  "updated_at": "2026-06-21T12:01:50.981967Z",
   "projects": [
     {
       "name": "palmier-io/palmier-pro",
       "daily_gain": 902
     },
     {
-      "name": "penpot/penpot",
-      "daily_gain": 420
-    },
-    {
       "name": "calesthio/OpenMontage",
       "daily_gain": 677
-    },
-    {
-      "name": "tursodatabase/turso",
-      "daily_gain": 801
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1271
-    },
-    {
-      "name": "google-research/timesfm",
-      "daily_gain": 433
-    },
-    {
-      "name": "twentyhq/twenty",
-      "daily_gain": 140
-    },
-    {
-      "name": "Kong/insomnia",
-      "daily_gain": 329
     },
     {
       "name": "chopratejas/headroom",
       "daily_gain": 3795
     },
     {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 145
+      "name": "tursodatabase/turso",
+      "daily_gain": 801
     },
     {
-      "name": "Kilo-Org/kilocode",
-      "daily_gain": 513
+      "name": "penpot/penpot",
+      "daily_gain": 420
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 519
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "daily_gain": 633
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "daily_gain": 415
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 1271
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "daily_gain": 343
+    },
+    {
+      "name": "mikumifa/biliTickerBuy",
+      "daily_gain": 164
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "daily_gain": 288
+    },
+    {
+      "name": "topoteretes/cognee",
+      "daily_gain": 361
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "daily_gain": 121
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "daily_gain": 352
     },
     {
       "name": "mattpocock/skills",
       "daily_gain": 1395
-    },
-    {
-      "name": "withastro/flue",
-      "daily_gain": 316
-    },
-    {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "daily_gain": 48
-    },
-    {
-      "name": "pppscn/SmsForwarder",
-      "daily_gain": 104
-    },
-    {
-      "name": "1jehuang/jcode",
-      "daily_gain": 87
     }
   ]
 }
