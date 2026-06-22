@@ -1,65 +1,69 @@
 {
-  "updated_at": "2026-06-22T09:32:50.980743Z",
+  "updated_at": "2026-06-22T15:09:31.424836Z",
   "projects": [
     {
-      "name": "palmier-io/palmier-pro",
-      "daily_gain": 1834
-    },
-    {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 987
+      "daily_gain": 2935
     },
     {
-      "name": "tursodatabase/turso",
-      "daily_gain": 548
+      "name": "palmier-io/palmier-pro",
+      "daily_gain": 2462
     },
     {
-      "name": "penpot/penpot",
-      "daily_gain": 1135
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 568
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "daily_gain": 163
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "daily_gain": 442
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1032
+      "name": "jamiepine/voicebox",
+      "daily_gain": 614
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 361
+      "daily_gain": 957
     },
     {
-      "name": "mikumifa/biliTickerBuy",
-      "daily_gain": 67
+      "name": "penpot/penpot",
+      "daily_gain": 730
     },
     {
-      "name": "smicallef/spiderfoot",
-      "daily_gain": 294
+      "name": "Stirling-Tools/Stirling-PDF",
+      "daily_gain": 394
     },
     {
-      "name": "topoteretes/cognee",
-      "daily_gain": 347
+      "name": "garrytan/gstack",
+      "daily_gain": 454
     },
     {
-      "name": "byoungd/English-level-up-tips",
-      "daily_gain": 125
+      "name": "heygen-com/hyperframes",
+      "daily_gain": 369
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 282
+      "name": "tursodatabase/turso",
+      "daily_gain": 538
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "daily_gain": 736
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 1186
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 1560
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "daily_gain": 513
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "daily_gain": 63
+    },
+    {
+      "name": "lyogavin/airllm",
+      "daily_gain": 453
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1443
+      "daily_gain": 2051
     }
   ]
 }
