@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T15:09:31.424836Z",
+  "updated_at": "2026-06-22T23:52:59.569365Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
@@ -11,7 +11,7 @@
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 614
+      "daily_gain": 508
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -23,11 +23,11 @@
     },
     {
       "name": "Stirling-Tools/Stirling-PDF",
-      "daily_gain": 394
+      "daily_gain": 691
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 454
+      "daily_gain": 649
     },
     {
       "name": "heygen-com/hyperframes",
@@ -51,7 +51,7 @@
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 513
+      "daily_gain": 736
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -59,7 +59,7 @@
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 453
+      "daily_gain": 187
     },
     {
       "name": "mattpocock/skills",
