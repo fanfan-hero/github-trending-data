@@ -1,73 +1,65 @@
 {
-  "updated_at": "2026-06-21T23:54:51.284673Z",
+  "updated_at": "2026-06-22T09:32:50.980743Z",
   "projects": [
     {
       "name": "palmier-io/palmier-pro",
-      "daily_gain": 1829
+      "daily_gain": 1834
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 993
-    },
-    {
-      "name": "chopratejas/headroom",
-      "daily_gain": 2617
+      "daily_gain": 987
     },
     {
       "name": "tursodatabase/turso",
-      "daily_gain": 543
+      "daily_gain": 548
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 1131
+      "daily_gain": 1135
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 519
+      "daily_gain": 568
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 253
+      "daily_gain": 163
     },
     {
       "name": "bytedance/deer-flow",
-      "daily_gain": 415
+      "daily_gain": 442
     },
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1029
+      "daily_gain": 1032
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 445
-    },
-    {
-      "name": "tw93/Pake",
-      "daily_gain": 1850
-    },
-    {
-      "name": "mikumifa/biliTickerBuy",
-      "daily_gain": 56
-    },
-    {
-      "name": "smicallef/spiderfoot",
-      "daily_gain": 288
-    },
-    {
-      "name": "topoteretes/cognee",
       "daily_gain": 361
     },
     {
+      "name": "mikumifa/biliTickerBuy",
+      "daily_gain": 67
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "daily_gain": 294
+    },
+    {
+      "name": "topoteretes/cognee",
+      "daily_gain": 347
+    },
+    {
       "name": "byoungd/English-level-up-tips",
-      "daily_gain": 121
+      "daily_gain": 125
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 366
+      "daily_gain": 282
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1441
+      "daily_gain": 1443
     }
   ]
 }
