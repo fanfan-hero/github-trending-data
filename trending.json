@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-06-23T07:04:45.789352Z",
+  "updated_at": "2026-06-23T12:25:40.912689Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 2938
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "daily_gain": 2463
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 529
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 956
-    },
-    {
-      "name": "penpot/penpot",
-      "daily_gain": 728
-    },
-    {
-      "name": "Stirling-Tools/Stirling-PDF",
-      "daily_gain": 547
-    },
-    {
-      "name": "garrytan/gstack",
-      "daily_gain": 573
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "daily_gain": 395
-    },
-    {
-      "name": "tursodatabase/turso",
-      "daily_gain": 540
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "daily_gain": 738
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1185
+      "daily_gain": 3590
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 1557
+      "daily_gain": 1121
     },
     {
-      "name": "firecrawl/firecrawl",
-      "daily_gain": 615
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "daily_gain": 1040
+    },
+    {
+      "name": "garrytan/gstack",
+      "daily_gain": 1012
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "daily_gain": 741
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "daily_gain": 279
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "daily_gain": 1631
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 66
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "daily_gain": 329
+    },
+    {
+      "name": "revfactory/harness",
+      "daily_gain": 123
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "daily_gain": 1042
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 100
+      "daily_gain": 827
     },
     {
-      "name": "lyogavin/airllm",
-      "daily_gain": 193
+      "name": "byoungd/English-level-up-tips",
+      "daily_gain": 368
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 2051
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 1299
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "daily_gain": 933
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 582
     }
   ]
 }
