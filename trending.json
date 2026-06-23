@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-06-22T23:52:59.569365Z",
+  "updated_at": "2026-06-23T07:04:45.789352Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 2935
+      "daily_gain": 2938
     },
     {
       "name": "palmier-io/palmier-pro",
-      "daily_gain": 2462
+      "daily_gain": 2463
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 508
+      "daily_gain": 529
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 957
+      "daily_gain": 956
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 730
+      "daily_gain": 728
     },
     {
       "name": "Stirling-Tools/Stirling-PDF",
-      "daily_gain": 691
+      "daily_gain": 547
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 649
+      "daily_gain": 573
     },
     {
       "name": "heygen-com/hyperframes",
-      "daily_gain": 369
+      "daily_gain": 395
     },
     {
       "name": "tursodatabase/turso",
-      "daily_gain": 538
+      "daily_gain": 540
     },
     {
       "name": "bytedance/deer-flow",
-      "daily_gain": 736
+      "daily_gain": 738
     },
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1186
+      "daily_gain": 1185
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 1560
+      "daily_gain": 1557
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 736
+      "daily_gain": 615
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 63
+      "daily_gain": 100
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 187
+      "daily_gain": 193
     },
     {
       "name": "mattpocock/skills",
