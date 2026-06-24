@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T12:10:18.736156Z",
+  "updated_at": "2026-06-24T23:46:46.933184Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
@@ -27,15 +27,15 @@
     },
     {
       "name": "flutter/flutter",
-      "daily_gain": 44
+      "daily_gain": 200
     },
     {
       "name": "andreknieriem/headunit-revived",
-      "daily_gain": 79
+      "daily_gain": 62
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 265
+      "daily_gain": 387
     },
     {
       "name": "google-labs-code/design.md",
@@ -47,7 +47,7 @@
     },
     {
       "name": "kunchenguid/no-mistakes",
-      "daily_gain": 90
+      "daily_gain": 182
     },
     {
       "name": "NousResearch/hermes-agent",
