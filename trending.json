@@ -1,69 +1,57 @@
 {
-  "updated_at": "2026-06-24T07:02:00.937286Z",
+  "updated_at": "2026-06-24T12:10:18.736156Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 3592
+      "daily_gain": 3703
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 1119
+      "daily_gain": 1461
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 1041
+      "name": "apple/container",
+      "daily_gain": 1746
     },
     {
-      "name": "garrytan/gstack",
-      "daily_gain": 1011
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "daily_gain": 739
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "daily_gain": 294
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "daily_gain": 1630
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 77
-    },
-    {
-      "name": "shanraisshan/claude-code-best-practice",
-      "daily_gain": 344
-    },
-    {
-      "name": "revfactory/harness",
-      "daily_gain": 128
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 1045
+      "name": "interviewstreet/hiring-agent",
+      "daily_gain": 152
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 826
+      "daily_gain": 693
     },
     {
-      "name": "byoungd/English-level-up-tips",
-      "daily_gain": 125
+      "name": "revfactory/harness",
+      "daily_gain": 274
     },
     {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 1300
+      "name": "flutter/flutter",
+      "daily_gain": 44
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "daily_gain": 79
+    },
+    {
+      "name": "stablyai/orca",
+      "daily_gain": 265
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "daily_gain": 504
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "daily_gain": 103
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "daily_gain": 90
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 936
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 593
+      "daily_gain": 1174
     }
   ]
 }
