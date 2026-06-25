@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-06-24T23:46:46.933184Z",
+  "updated_at": "2026-06-25T07:01:47.219424Z",
   "projects": [
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 3703
+      "daily_gain": 3719
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 1461
+      "daily_gain": 1468
     },
     {
       "name": "apple/container",
-      "daily_gain": 1746
+      "daily_gain": 1838
     },
     {
       "name": "interviewstreet/hiring-agent",
-      "daily_gain": 152
+      "daily_gain": 203
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 693
+      "daily_gain": 692
     },
     {
       "name": "revfactory/harness",
-      "daily_gain": 274
+      "daily_gain": 277
     },
     {
       "name": "flutter/flutter",
-      "daily_gain": 200
+      "daily_gain": 73
     },
     {
       "name": "andreknieriem/headunit-revived",
-      "daily_gain": 62
+      "daily_gain": 41
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 387
+      "daily_gain": 331
     },
     {
       "name": "google-labs-code/design.md",
-      "daily_gain": 504
+      "daily_gain": 619
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 103
+      "daily_gain": 61
     },
     {
       "name": "kunchenguid/no-mistakes",
-      "daily_gain": 182
+      "daily_gain": 110
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 1174
+      "daily_gain": 1178
     }
   ]
 }
