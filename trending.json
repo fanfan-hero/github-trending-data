@@ -1,57 +1,65 @@
 {
-  "updated_at": "2026-06-25T07:01:47.219424Z",
+  "updated_at": "2026-06-25T12:07:02.265519Z",
   "projects": [
+    {
+      "name": "google-labs-code/design.md",
+      "daily_gain": 619
+    },
     {
       "name": "calesthio/OpenMontage",
       "daily_gain": 3719
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 1468
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 201
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "daily_gain": 112
     },
     {
       "name": "apple/container",
       "daily_gain": 1838
     },
     {
-      "name": "interviewstreet/hiring-agent",
-      "daily_gain": 203
-    },
-    {
       "name": "JCodesMore/ai-website-cloner-template",
       "daily_gain": 692
     },
     {
-      "name": "revfactory/harness",
-      "daily_gain": 277
+      "name": "garrytan/gstack",
+      "daily_gain": 922
     },
     {
-      "name": "flutter/flutter",
-      "daily_gain": 73
+      "name": "aws/agent-toolkit-for-aws",
+      "daily_gain": 15
     },
     {
-      "name": "andreknieriem/headunit-revived",
-      "daily_gain": 41
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "daily_gain": 1031
     },
     {
-      "name": "stablyai/orca",
-      "daily_gain": 331
+      "name": "alibaba/page-agent",
+      "daily_gain": 280
     },
     {
-      "name": "google-labs-code/design.md",
-      "daily_gain": 619
+      "name": "IceWhaleTech/CasaOS",
+      "daily_gain": 174
     },
     {
-      "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 61
+      "name": "opendatalab/MinerU",
+      "daily_gain": 524
     },
     {
-      "name": "kunchenguid/no-mistakes",
-      "daily_gain": 110
+      "name": "Free-TV/IPTV",
+      "daily_gain": 141
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "daily_gain": 1178
+      "name": "shanraisshan/claude-code-best-practice",
+      "daily_gain": 670
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 347
     }
   ]
 }
