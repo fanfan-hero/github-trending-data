@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-25T12:07:02.265519Z",
+  "updated_at": "2026-06-25T23:56:37.658583Z",
   "projects": [
     {
       "name": "google-labs-code/design.md",
-      "daily_gain": 619
+      "daily_gain": 1407
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 3719
+      "daily_gain": 3553
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -19,15 +19,19 @@
     },
     {
       "name": "apple/container",
-      "daily_gain": 1838
+      "daily_gain": 1366
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 692
+      "daily_gain": 1021
+    },
+    {
+      "name": "every-app/open-seo",
+      "daily_gain": 57
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 922
+      "daily_gain": 836
     },
     {
       "name": "aws/agent-toolkit-for-aws",
@@ -35,15 +39,15 @@
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 1031
+      "daily_gain": 600
     },
     {
       "name": "alibaba/page-agent",
-      "daily_gain": 280
+      "daily_gain": 196
     },
     {
       "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 174
+      "daily_gain": 202
     },
     {
       "name": "opendatalab/MinerU",
@@ -55,7 +59,7 @@
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
-      "daily_gain": 670
+      "daily_gain": 450
     },
     {
       "name": "NanmiCoder/MediaCrawler",
