@@ -1,69 +1,73 @@
 {
-  "updated_at": "2026-06-26T07:36:35.374153Z",
+  "updated_at": "2026-06-26T12:02:23.664909Z",
   "projects": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "daily_gain": 191
+    },
     {
       "name": "google-labs-code/design.md",
       "daily_gain": 1475
     },
     {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 3434
+      "name": "commaai/openpilot",
+      "daily_gain": 67
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 309
+      "name": "kunchenguid/no-mistakes",
+      "daily_gain": 996
     },
     {
-      "name": "mauriceboe/TREK",
-      "daily_gain": 241
+      "name": "grafana/grafana",
+      "daily_gain": 17
     },
     {
-      "name": "apple/container",
-      "daily_gain": 1351
-    },
-    {
-      "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 1024
-    },
-    {
-      "name": "every-app/open-seo",
-      "daily_gain": 57
-    },
-    {
-      "name": "garrytan/gstack",
-      "daily_gain": 767
-    },
-    {
-      "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 47
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 571
-    },
-    {
-      "name": "alibaba/page-agent",
-      "daily_gain": 163
-    },
-    {
-      "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 223
+      "name": "ripienaar/free-for-dev",
+      "daily_gain": 48
     },
     {
       "name": "opendatalab/MinerU",
       "daily_gain": 644
     },
     {
-      "name": "Free-TV/IPTV",
-      "daily_gain": 139
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "daily_gain": 220
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "daily_gain": 287
+      "name": "mauriceboe/TREK",
+      "daily_gain": 241
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 309
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 3434
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "daily_gain": 47
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "daily_gain": 398
+    },
+    {
+      "name": "garrytan/gstack",
+      "daily_gain": 767
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "daily_gain": 223
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "daily_gain": 1024
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 1547
     }
   ]
 }
