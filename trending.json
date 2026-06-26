@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T12:02:23.664909Z",
+  "updated_at": "2026-06-26T23:45:19.965184Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
@@ -7,7 +7,7 @@
     },
     {
       "name": "google-labs-code/design.md",
-      "daily_gain": 1475
+      "daily_gain": 2319
     },
     {
       "name": "commaai/openpilot",
@@ -15,7 +15,7 @@
     },
     {
       "name": "kunchenguid/no-mistakes",
-      "daily_gain": 996
+      "daily_gain": 412
     },
     {
       "name": "grafana/grafana",
@@ -23,51 +23,51 @@
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 48
+      "daily_gain": 137
     },
     {
       "name": "opendatalab/MinerU",
-      "daily_gain": 644
+      "daily_gain": 944
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
-      "daily_gain": 220
+      "daily_gain": 185
     },
     {
       "name": "mauriceboe/TREK",
-      "daily_gain": 241
+      "daily_gain": 1063
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 309
+      "daily_gain": 1270
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 3434
+      "daily_gain": 1674
     },
     {
       "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 47
+      "daily_gain": 238
     },
     {
       "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 398
+      "daily_gain": 640
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 767
+      "daily_gain": 919
     },
     {
       "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 223
+      "daily_gain": 612
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 1024
+      "daily_gain": 1076
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1547
+      "daily_gain": 1164
     }
   ]
 }
