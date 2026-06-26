@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-06-25T23:56:37.658583Z",
+  "updated_at": "2026-06-26T07:36:35.374153Z",
   "projects": [
     {
       "name": "google-labs-code/design.md",
-      "daily_gain": 1407
+      "daily_gain": 1475
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 3553
+      "daily_gain": 3434
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 201
+      "daily_gain": 309
     },
     {
       "name": "mauriceboe/TREK",
-      "daily_gain": 112
+      "daily_gain": 241
     },
     {
       "name": "apple/container",
-      "daily_gain": 1366
+      "daily_gain": 1351
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 1021
+      "daily_gain": 1024
     },
     {
       "name": "every-app/open-seo",
@@ -31,39 +31,39 @@
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 836
+      "daily_gain": 767
     },
     {
       "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 15
+      "daily_gain": 47
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 600
+      "daily_gain": 571
     },
     {
       "name": "alibaba/page-agent",
-      "daily_gain": 196
+      "daily_gain": 163
     },
     {
       "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 202
+      "daily_gain": 223
     },
     {
       "name": "opendatalab/MinerU",
-      "daily_gain": 524
+      "daily_gain": 644
     },
     {
       "name": "Free-TV/IPTV",
-      "daily_gain": 141
+      "daily_gain": 139
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
-      "daily_gain": 450
+      "daily_gain": 287
     },
     {
       "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 347
+      "daily_gain": 398
     }
   ]
 }
