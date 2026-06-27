@@ -1,73 +1,85 @@
 {
-  "updated_at": "2026-06-27T06:43:05.706476Z",
+  "updated_at": "2026-06-27T11:15:36.487756Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
       "daily_gain": 432
     },
     {
-      "name": "google-labs-code/design.md",
-      "daily_gain": 2407
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 1274
     },
     {
       "name": "commaai/openpilot",
       "daily_gain": 80
     },
     {
-      "name": "kunchenguid/no-mistakes",
-      "daily_gain": 398
-    },
-    {
-      "name": "grafana/grafana",
-      "daily_gain": 32
+      "name": "IceWhaleTech/CasaOS",
+      "daily_gain": 619
     },
     {
       "name": "ripienaar/free-for-dev",
       "daily_gain": 90
     },
     {
-      "name": "opendatalab/MinerU",
-      "daily_gain": 960
+      "name": "google-labs-code/design.md",
+      "daily_gain": 2407
     },
     {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "daily_gain": 160
+      "name": "microsoft/PowerToys",
+      "daily_gain": 67
     },
     {
-      "name": "mauriceboe/TREK",
-      "daily_gain": 1060
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 1274
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 1754
-    },
-    {
-      "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 243
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 673
-    },
-    {
-      "name": "garrytan/gstack",
-      "daily_gain": 950
-    },
-    {
-      "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 619
+      "name": "hugohe3/ppt-master",
+      "daily_gain": 589
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "daily_gain": 1088
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1194
+      "name": "garrytan/gstack",
+      "daily_gain": 950
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 673
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "daily_gain": 254
+    },
+    {
+      "name": "topoteretes/cognee",
+      "daily_gain": 729
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "daily_gain": 17
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "daily_gain": 138
+    },
+    {
+      "name": "anomalyco/opencode",
+      "daily_gain": 573
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "daily_gain": 167
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "daily_gain": 83
+    },
+    {
+      "name": "keycloak/keycloak",
+      "daily_gain": 11
+    },
+    {
+      "name": "every-app/open-seo",
+      "daily_gain": 594
     }
   ]
 }
