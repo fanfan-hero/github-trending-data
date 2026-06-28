@@ -1,85 +1,57 @@
 {
-  "updated_at": "2026-06-28T07:39:52.960131Z",
+  "updated_at": "2026-06-28T11:25:52.066272Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
       "daily_gain": 1469
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 685
+      "name": "ripienaar/free-for-dev",
+      "daily_gain": 459
     },
     {
       "name": "commaai/openpilot",
       "daily_gain": 322
     },
     {
-      "name": "IceWhaleTech/CasaOS",
-      "daily_gain": 502
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 685
     },
     {
-      "name": "ripienaar/free-for-dev",
-      "daily_gain": 459
+      "name": "Robbyant/lingbot-map",
+      "daily_gain": 372
     },
     {
-      "name": "google-labs-code/design.md",
-      "daily_gain": 1541
+      "name": "DeusData/codebase-memory-mcp",
+      "daily_gain": 2162
     },
     {
-      "name": "microsoft/PowerToys",
-      "daily_gain": 57
+      "name": "cupy/cupy",
+      "daily_gain": 172
     },
     {
-      "name": "hugohe3/ppt-master",
-      "daily_gain": 589
+      "name": "altic-dev/FluidVoice",
+      "daily_gain": 264
     },
     {
-      "name": "JCodesMore/ai-website-cloner-template",
-      "daily_gain": 750
-    },
-    {
-      "name": "garrytan/gstack",
-      "daily_gain": 674
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 394
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "daily_gain": 255
-    },
-    {
-      "name": "topoteretes/cognee",
-      "daily_gain": 780
-    },
-    {
-      "name": "dbt-labs/dbt-core",
-      "daily_gain": 18
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "daily_gain": 141
-    },
-    {
-      "name": "anomalyco/opencode",
-      "daily_gain": 392
-    },
-    {
-      "name": "Fission-AI/OpenSpec",
-      "daily_gain": 177
+      "name": "opendatalab/MinerU",
+      "daily_gain": 749
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "daily_gain": 92
     },
     {
-      "name": "keycloak/keycloak",
-      "daily_gain": 20
+      "name": "ByteByteGoHq/system-design-101",
+      "daily_gain": 132
     },
     {
-      "name": "every-app/open-seo",
-      "daily_gain": 239
+      "name": "usestrix/strix",
+      "daily_gain": 88
+    },
+    {
+      "name": "browser-use/video-use",
+      "daily_gain": 186
     }
   ]
 }
