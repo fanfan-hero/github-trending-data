@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-27T23:38:58.370350Z",
+  "updated_at": "2026-06-28T07:39:52.960131Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1470
+      "daily_gain": 1469
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 686
+      "daily_gain": 685
     },
     {
       "name": "commaai/openpilot",
@@ -23,11 +23,11 @@
     },
     {
       "name": "google-labs-code/design.md",
-      "daily_gain": 1542
+      "daily_gain": 1541
     },
     {
       "name": "microsoft/PowerToys",
-      "daily_gain": 146
+      "daily_gain": 57
     },
     {
       "name": "hugohe3/ppt-master",
@@ -47,39 +47,39 @@
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
-      "daily_gain": 254
+      "daily_gain": 255
     },
     {
       "name": "topoteretes/cognee",
-      "daily_gain": 808
+      "daily_gain": 780
     },
     {
       "name": "dbt-labs/dbt-core",
-      "daily_gain": 45
+      "daily_gain": 18
     },
     {
       "name": "luongnv89/claude-howto",
-      "daily_gain": 138
+      "daily_gain": 141
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 428
+      "daily_gain": 392
     },
     {
       "name": "Fission-AI/OpenSpec",
-      "daily_gain": 167
+      "daily_gain": 177
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 83
+      "daily_gain": 92
     },
     {
       "name": "keycloak/keycloak",
-      "daily_gain": 11
+      "daily_gain": 20
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 230
+      "daily_gain": 239
     }
   ]
 }
