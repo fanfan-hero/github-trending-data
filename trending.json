@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-28T11:25:52.066272Z",
+  "updated_at": "2026-06-28T23:44:17.847032Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1469
+      "daily_gain": 1183
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 459
+      "daily_gain": 472
     },
     {
       "name": "commaai/openpilot",
-      "daily_gain": 322
+      "daily_gain": 265
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 685
+      "daily_gain": 1456
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -31,15 +31,15 @@
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 264
+      "daily_gain": 491
     },
     {
       "name": "opendatalab/MinerU",
-      "daily_gain": 749
+      "daily_gain": 426
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 92
+      "daily_gain": 490
     },
     {
       "name": "ByteByteGoHq/system-design-101",
@@ -51,7 +51,7 @@
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 186
+      "daily_gain": 324
     }
   ]
 }
