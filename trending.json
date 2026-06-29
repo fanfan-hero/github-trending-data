@@ -1,57 +1,65 @@
 {
-  "updated_at": "2026-06-29T08:34:29.702428Z",
+  "updated_at": "2026-06-29T13:54:59.339864Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1180
+      "daily_gain": 1611
     },
     {
-      "name": "ripienaar/free-for-dev",
-      "daily_gain": 495
-    },
-    {
-      "name": "commaai/openpilot",
-      "daily_gain": 266
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 1445
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "daily_gain": 372
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 2190
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 1221
     },
     {
       "name": "cupy/cupy",
-      "daily_gain": 174
+      "daily_gain": 352
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 365
+      "daily_gain": 836
     },
     {
-      "name": "opendatalab/MinerU",
-      "daily_gain": 380
+      "name": "soxoj/maigret",
+      "daily_gain": 191
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 492
+      "name": "commaai/openpilot",
+      "daily_gain": 465
     },
     {
-      "name": "ByteByteGoHq/system-design-101",
-      "daily_gain": 250
+      "name": "ripienaar/free-for-dev",
+      "daily_gain": 1971
     },
     {
-      "name": "usestrix/strix",
-      "daily_gain": 122
+      "name": "logto-io/logto",
+      "daily_gain": 77
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 1397
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 196
+      "daily_gain": 976
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "daily_gain": 105
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "daily_gain": 323
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "daily_gain": 840
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 249
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "daily_gain": 187
     }
   ]
 }
