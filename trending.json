@@ -1,37 +1,41 @@
 {
-  "updated_at": "2026-06-30T12:00:48.229271Z",
+  "updated_at": "2026-06-30T23:47:45.363031Z",
   "projects": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "daily_gain": 1413
+    },
     {
       "name": "usestrix/strix",
       "daily_gain": 395
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1425
+      "daily_gain": 1793
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 830
+      "daily_gain": 586
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 617
+      "daily_gain": 459
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 967
+      "daily_gain": 722
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 1386
+      "daily_gain": 966
     },
     {
       "name": "Mebus/cupp",
-      "daily_gain": 18
+      "daily_gain": 61
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 1935
+      "daily_gain": 740
     },
     {
       "name": "google/agents-cli",
@@ -43,11 +47,15 @@
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 467
+      "daily_gain": 485
     },
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1607
+      "daily_gain": 1229
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "daily_gain": 351
     },
     {
       "name": "microsoft/AI-For-Beginners",
@@ -55,11 +63,11 @@
     },
     {
       "name": "facebook/astryx",
-      "daily_gain": 426
+      "daily_gain": 399
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 839
+      "daily_gain": 719
     },
     {
       "name": "obra/superpowers",
@@ -67,7 +75,7 @@
     },
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 465
+      "daily_gain": 210
     }
   ]
 }
