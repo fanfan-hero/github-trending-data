@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-29T23:38:34.248422Z",
+  "updated_at": "2026-06-30T07:36:49.984556Z",
   "projects": [
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1611
+      "daily_gain": 1607
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1369
+      "daily_gain": 1425
     },
     {
       "name": "cupy/cupy",
@@ -15,51 +15,51 @@
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 836
+      "daily_gain": 830
     },
     {
       "name": "soxoj/maigret",
-      "daily_gain": 191
+      "daily_gain": 224
     },
     {
       "name": "commaai/openpilot",
-      "daily_gain": 465
+      "daily_gain": 458
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 1971
+      "daily_gain": 1935
     },
     {
       "name": "logto-io/logto",
-      "daily_gain": 77
+      "daily_gain": 158
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 1397
+      "daily_gain": 1386
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 976
+      "daily_gain": 967
     },
     {
       "name": "Unclecheng-li/VulnClaw",
-      "daily_gain": 105
+      "daily_gain": 129
     },
     {
       "name": "0xNyk/council-of-high-intelligence",
-      "daily_gain": 323
+      "daily_gain": 331
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 840
+      "daily_gain": 839
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 249
+      "daily_gain": 280
     },
     {
       "name": "veracrypt/VeraCrypt",
-      "daily_gain": 187
+      "daily_gain": 186
     }
   ]
 }
