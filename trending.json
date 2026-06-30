@@ -1,65 +1,73 @@
 {
-  "updated_at": "2026-06-30T07:36:49.984556Z",
+  "updated_at": "2026-06-30T12:00:48.229271Z",
   "projects": [
     {
-      "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1607
+      "name": "usestrix/strix",
+      "daily_gain": 395
     },
     {
       "name": "msitarzewski/agency-agents",
       "daily_gain": 1425
     },
     {
-      "name": "cupy/cupy",
-      "daily_gain": 352
-    },
-    {
       "name": "altic-dev/FluidVoice",
       "daily_gain": 830
     },
     {
-      "name": "soxoj/maigret",
-      "daily_gain": 224
-    },
-    {
-      "name": "commaai/openpilot",
-      "daily_gain": 458
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "daily_gain": 1935
-    },
-    {
-      "name": "logto-io/logto",
-      "daily_gain": 158
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 1386
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 617
     },
     {
       "name": "browser-use/video-use",
       "daily_gain": 967
     },
     {
-      "name": "Unclecheng-li/VulnClaw",
-      "daily_gain": 129
+      "name": "xbtlin/ai-berkshire",
+      "daily_gain": 1386
     },
     {
-      "name": "0xNyk/council-of-high-intelligence",
-      "daily_gain": 331
+      "name": "Mebus/cupp",
+      "daily_gain": 18
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "daily_gain": 1935
+    },
+    {
+      "name": "google/agents-cli",
+      "daily_gain": 433
+    },
+    {
+      "name": "roboflow/supervision",
+      "daily_gain": 336
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "daily_gain": 467
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "daily_gain": 1607
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "daily_gain": 180
+    },
+    {
+      "name": "facebook/astryx",
+      "daily_gain": 426
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "daily_gain": 839
     },
     {
-      "name": "refactoringhq/tolaria",
-      "daily_gain": 280
+      "name": "obra/superpowers",
+      "daily_gain": 884
     },
     {
-      "name": "veracrypt/VeraCrypt",
-      "daily_gain": 186
+      "name": "Robbyant/lingbot-map",
+      "daily_gain": 465
     }
   ]
 }
