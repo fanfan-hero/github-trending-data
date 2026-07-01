@@ -1,81 +1,85 @@
 {
-  "updated_at": "2026-07-01T07:57:15.727192Z",
+  "updated_at": "2026-07-01T12:24:22.471366Z",
   "projects": [
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 1343
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 1791
     },
     {
       "name": "usestrix/strix",
       "daily_gain": 515
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 1791
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "daily_gain": 588
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 387
-    },
-    {
-      "name": "browser-use/video-use",
+      "name": "HKUDS/Vibe-Trading",
       "daily_gain": 721
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "daily_gain": 969
-    },
-    {
-      "name": "Mebus/cupp",
-      "daily_gain": 32
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "daily_gain": 742
-    },
-    {
-      "name": "google/agents-cli",
-      "daily_gain": 445
-    },
-    {
-      "name": "roboflow/supervision",
-      "daily_gain": 309
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "daily_gain": 486
-    },
-    {
-      "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1235
-    },
-    {
-      "name": "CoreBunch/Instatic",
-      "daily_gain": 351
-    },
-    {
-      "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 252
+      "name": "hasaneyldrm/exercises-dataset",
+      "daily_gain": 1343
     },
     {
       "name": "facebook/astryx",
       "daily_gain": 364
     },
     {
-      "name": "HKUDS/Vibe-Trading",
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 387
+    },
+    {
+      "name": "allenai/olmocr",
+      "daily_gain": 295
+    },
+    {
+      "name": "logto-io/logto",
+      "daily_gain": 561
+    },
+    {
+      "name": "togatoga/karukan",
+      "daily_gain": 29
+    },
+    {
+      "name": "Mebus/cupp",
+      "daily_gain": 32
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "daily_gain": 123
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "daily_gain": 252
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "daily_gain": 435
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "daily_gain": 486
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "daily_gain": 473
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "daily_gain": 588
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "daily_gain": 351
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "daily_gain": 46
+    },
+    {
+      "name": "browser-use/video-use",
       "daily_gain": 721
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 890
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "daily_gain": 189
+      "name": "yikart/AiToEarn",
+      "daily_gain": 128
     }
   ]
 }
