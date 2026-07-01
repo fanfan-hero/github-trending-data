@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-06-30T23:47:45.363031Z",
+  "updated_at": "2026-07-01T07:57:15.727192Z",
   "projects": [
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 1413
+      "daily_gain": 1343
     },
     {
       "name": "usestrix/strix",
-      "daily_gain": 395
+      "daily_gain": 515
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1793
+      "daily_gain": 1791
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 586
+      "daily_gain": 588
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 459
+      "daily_gain": 387
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 722
+      "daily_gain": 721
     },
     {
       "name": "xbtlin/ai-berkshire",
-      "daily_gain": 966
+      "daily_gain": 969
     },
     {
       "name": "Mebus/cupp",
-      "daily_gain": 61
+      "daily_gain": 32
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 740
+      "daily_gain": 742
     },
     {
       "name": "google/agents-cli",
-      "daily_gain": 433
+      "daily_gain": 445
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 336
+      "daily_gain": 309
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 485
+      "daily_gain": 486
     },
     {
       "name": "simplex-chat/simplex-chat",
-      "daily_gain": 1229
+      "daily_gain": 1235
     },
     {
       "name": "CoreBunch/Instatic",
@@ -59,23 +59,23 @@
     },
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 180
+      "daily_gain": 252
     },
     {
       "name": "facebook/astryx",
-      "daily_gain": 399
+      "daily_gain": 364
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 719
+      "daily_gain": 721
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 884
+      "daily_gain": 890
     },
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 210
+      "daily_gain": 189
     }
   ]
 }
