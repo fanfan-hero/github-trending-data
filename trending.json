@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-02T11:57:15.077602Z",
+  "updated_at": "2026-07-02T23:42:58.943167Z",
   "projects": [
     {
       "name": "usestrix/strix",
-      "daily_gain": 1211
+      "daily_gain": 2167
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -11,11 +11,11 @@
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 2114
+      "daily_gain": 2925
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 2470
+      "daily_gain": 942
     },
     {
       "name": "santifer/career-ops",
@@ -23,15 +23,15 @@
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1047
+      "daily_gain": 962
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 92
+      "daily_gain": 141
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 693
+      "daily_gain": 550
     },
     {
       "name": "affaan-m/ECC",
@@ -39,11 +39,11 @@
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 721
+      "daily_gain": 508
     },
     {
       "name": "agentskills/agentskills",
-      "daily_gain": 694
+      "daily_gain": 918
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -51,7 +51,7 @@
     },
     {
       "name": "langflow-ai/langflow",
-      "daily_gain": 72
+      "daily_gain": 448
     },
     {
       "name": "pytorch/pytorch",
@@ -62,12 +62,8 @@
       "daily_gain": 45
     },
     {
-      "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 33
-    },
-    {
       "name": "ryanmcdermott/clean-code-javascript",
-      "daily_gain": 1096
+      "daily_gain": 33
     }
   ]
 }
