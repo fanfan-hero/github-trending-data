@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-07-01T23:53:35.086981Z",
+  "updated_at": "2026-07-02T06:55:55.546701Z",
   "projects": [
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 2097
+      "daily_gain": 2114
     },
     {
       "name": "usestrix/strix",
-      "daily_gain": 1195
+      "daily_gain": 1211
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 682
+      "daily_gain": 694
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 2203
+      "daily_gain": 2470
     },
     {
       "name": "facebook/astryx",
-      "daily_gain": 714
+      "daily_gain": 708
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1012
+      "daily_gain": 1010
     },
     {
       "name": "allenai/olmocr",
-      "daily_gain": 295
+      "daily_gain": 334
     },
     {
       "name": "logto-io/logto",
-      "daily_gain": 131
+      "daily_gain": 113
     },
     {
       "name": "togatoga/karukan",
-      "daily_gain": 29
+      "daily_gain": 42
     },
     {
       "name": "Mebus/cupp",
-      "daily_gain": 185
+      "daily_gain": 184
     },
     {
       "name": "Unclecheng-li/VulnClaw",
-      "daily_gain": 123
+      "daily_gain": 132
     },
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 1086
+      "daily_gain": 1096
     },
     {
       "name": "refactoringhq/tolaria",
-      "daily_gain": 160
+      "daily_gain": 150
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 611
+      "daily_gain": 609
     },
     {
       "name": "0xNyk/council-of-high-intelligence",
-      "daily_gain": 276
+      "daily_gain": 161
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 568
+      "daily_gain": 572
     },
     {
       "name": "CoreBunch/Instatic",
-      "daily_gain": 518
+      "daily_gain": 508
     },
     {
       "name": "TencentCloud/CubeSandbox",
-      "daily_gain": 46
+      "daily_gain": 79
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 690
+      "daily_gain": 693
     },
     {
       "name": "yikart/AiToEarn",
-      "daily_gain": 149
+      "daily_gain": 116
     }
   ]
 }
