@@ -1,69 +1,81 @@
 {
-  "updated_at": "2026-07-03T06:49:53.856754Z",
+  "updated_at": "2026-07-03T11:55:56.984519Z",
   "projects": [
     {
       "name": "usestrix/strix",
       "daily_gain": 2137
     },
     {
+      "name": "openai/codex-plugin-cc",
+      "daily_gain": 352
+    },
+    {
       "name": "JuliusBrussee/caveman",
       "daily_gain": 926
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 3032
-    },
-    {
-      "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 938
-    },
-    {
-      "name": "santifer/career-ops",
-      "daily_gain": 372
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 897
+      "name": "elastic/elasticsearch",
+      "daily_gain": 77
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 104
-    },
-    {
-      "name": "browser-use/video-use",
-      "daily_gain": 554
-    },
-    {
-      "name": "affaan-m/ECC",
       "daily_gain": 26
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 486
+      "name": "ansible/ansible",
+      "daily_gain": 104
     },
     {
-      "name": "agentskills/agentskills",
-      "daily_gain": 939
+      "name": "facebook/astryx",
+      "daily_gain": 50
     },
     {
-      "name": "openai/codex-plugin-cc",
-      "daily_gain": 86
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "daily_gain": 352
-    },
-    {
-      "name": "pytorch/pytorch",
-      "daily_gain": 117
+      "name": "rommapp/romm",
+      "daily_gain": 1108
     },
     {
       "name": "harvard-edge/cs249r_book",
+      "daily_gain": 236
+    },
+    {
+      "name": "pytorch/pytorch",
+      "daily_gain": 68
+    },
+    {
+      "name": "apache/maven",
       "daily_gain": 65
     },
     {
-      "name": "ryanmcdermott/clean-code-javascript",
-      "daily_gain": 68
+      "name": "safishamsi/graphify",
+      "daily_gain": 53
+    },
+    {
+      "name": "anthropics/claude-code",
+      "daily_gain": 937
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "daily_gain": 202
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 571
+    },
+    {
+      "name": "agentskills/agentskills",
+      "daily_gain": 897
+    },
+    {
+      "name": "supabase/supabase",
+      "daily_gain": 86
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "daily_gain": 145
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 314
     }
   ]
 }
