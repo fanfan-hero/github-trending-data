@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-07-02T23:42:58.943167Z",
+  "updated_at": "2026-07-03T06:49:53.856754Z",
   "projects": [
     {
       "name": "usestrix/strix",
-      "daily_gain": 2167
+      "daily_gain": 2137
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 866
+      "daily_gain": 926
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 2925
+      "daily_gain": 3032
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 942
+      "daily_gain": 938
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 322
+      "daily_gain": 372
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 962
+      "daily_gain": 897
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 141
+      "daily_gain": 104
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 550
+      "daily_gain": 554
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 5
+      "daily_gain": 26
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 508
+      "daily_gain": 486
     },
     {
       "name": "agentskills/agentskills",
-      "daily_gain": 918
+      "daily_gain": 939
     },
     {
       "name": "openai/codex-plugin-cc",
-      "daily_gain": 47
+      "daily_gain": 86
     },
     {
       "name": "langflow-ai/langflow",
-      "daily_gain": 448
+      "daily_gain": 352
     },
     {
       "name": "pytorch/pytorch",
-      "daily_gain": 74
+      "daily_gain": 117
     },
     {
       "name": "harvard-edge/cs249r_book",
-      "daily_gain": 45
+      "daily_gain": 65
     },
     {
       "name": "ryanmcdermott/clean-code-javascript",
-      "daily_gain": 33
+      "daily_gain": 68
     }
   ]
 }
