@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-03T11:55:56.984519Z",
+  "updated_at": "2026-07-03T23:39:18.359982Z",
   "projects": [
     {
       "name": "usestrix/strix",
-      "daily_gain": 2137
+      "daily_gain": 2804
     },
     {
       "name": "openai/codex-plugin-cc",
-      "daily_gain": 352
+      "daily_gain": 629
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 926
+      "daily_gain": 2851
     },
     {
       "name": "elastic/elasticsearch",
@@ -19,11 +19,11 @@
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 26
+      "daily_gain": 129
     },
     {
       "name": "ansible/ansible",
-      "daily_gain": 104
+      "daily_gain": 404
     },
     {
       "name": "facebook/astryx",
@@ -31,7 +31,7 @@
     },
     {
       "name": "rommapp/romm",
-      "daily_gain": 1108
+      "daily_gain": 943
     },
     {
       "name": "harvard-edge/cs249r_book",
@@ -39,11 +39,11 @@
     },
     {
       "name": "pytorch/pytorch",
-      "daily_gain": 68
+      "daily_gain": 792
     },
     {
       "name": "apache/maven",
-      "daily_gain": 65
+      "daily_gain": 290
     },
     {
       "name": "safishamsi/graphify",
@@ -55,19 +55,19 @@
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 202
+      "daily_gain": 245
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 571
+      "daily_gain": 513
     },
     {
       "name": "agentskills/agentskills",
-      "daily_gain": 897
+      "daily_gain": 1205
     },
     {
       "name": "supabase/supabase",
-      "daily_gain": 86
+      "daily_gain": 405
     },
     {
       "name": "TencentCloud/CubeSandbox",
@@ -75,7 +75,7 @@
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 314
+      "daily_gain": 86
     }
   ]
 }
