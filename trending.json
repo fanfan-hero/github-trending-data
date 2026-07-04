@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-04T11:11:52.927230Z",
+  "updated_at": "2026-07-04T23:40:17.507248Z",
   "projects": [
     {
       "name": "openai/codex-plugin-cc",
-      "daily_gain": 634
+      "daily_gain": 716
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 2863
+      "daily_gain": 1089
     },
     {
       "name": "alibaba/page-agent",
-      "daily_gain": 1110
+      "daily_gain": 726
     },
     {
       "name": "usestrix/strix",
-      "daily_gain": 2803
+      "daily_gain": 1910
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 405
+      "daily_gain": 303
     },
     {
       "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 607
+      "daily_gain": 865
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -31,43 +31,43 @@
     },
     {
       "name": "harvard-edge/cs249r_book",
-      "daily_gain": 793
+      "daily_gain": 446
     },
     {
       "name": "rommapp/romm",
-      "daily_gain": 239
+      "daily_gain": 400
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 478
+      "daily_gain": 706
     },
     {
       "name": "dotnet/skills",
-      "daily_gain": 33
+      "daily_gain": 57
     },
     {
       "name": "agentskills/agentskills",
-      "daily_gain": 406
+      "daily_gain": 351
     },
     {
       "name": "immich-app/immich",
-      "daily_gain": 308
+      "daily_gain": 198
     },
     {
       "name": "chthollyphile/folia-major",
-      "daily_gain": 319
+      "daily_gain": 131
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1289
+      "daily_gain": 1013
     },
     {
       "name": "CoplayDev/unity-mcp",
-      "daily_gain": 49
+      "daily_gain": 68
     },
     {
       "name": "alirezarezvani/claude-skills",
-      "daily_gain": 130
+      "daily_gain": 197
     },
     {
       "name": "crynta/terax-ai",
