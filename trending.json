@@ -1,10 +1,6 @@
 {
-  "updated_at": "2026-07-04T06:36:16.784019Z",
+  "updated_at": "2026-07-04T11:11:52.927230Z",
   "projects": [
-    {
-      "name": "usestrix/strix",
-      "daily_gain": 2803
-    },
     {
       "name": "openai/codex-plugin-cc",
       "daily_gain": 634
@@ -14,64 +10,68 @@
       "daily_gain": 2863
     },
     {
-      "name": "elastic/elasticsearch",
-      "daily_gain": 91
+      "name": "alibaba/page-agent",
+      "daily_gain": 1110
+    },
+    {
+      "name": "usestrix/strix",
+      "daily_gain": 2803
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 129
-    },
-    {
-      "name": "ansible/ansible",
       "daily_gain": 405
     },
     {
-      "name": "facebook/astryx",
-      "daily_gain": 65
+      "name": "Zackriya-Solutions/meetily",
+      "daily_gain": 607
     },
     {
-      "name": "rommapp/romm",
-      "daily_gain": 885
+      "name": "asgeirtj/system_prompts_leaks",
+      "daily_gain": 432
     },
     {
       "name": "harvard-edge/cs249r_book",
-      "daily_gain": 239
-    },
-    {
-      "name": "pytorch/pytorch",
       "daily_gain": 793
     },
     {
-      "name": "apache/maven",
-      "daily_gain": 293
-    },
-    {
-      "name": "anthropics/claude-code",
-      "daily_gain": 58
+      "name": "rommapp/romm",
+      "daily_gain": 239
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 221
-    },
-    {
-      "name": "obra/superpowers",
       "daily_gain": 478
     },
     {
-      "name": "agentskills/agentskills",
-      "daily_gain": 1209
+      "name": "dotnet/skills",
+      "daily_gain": 33
     },
     {
-      "name": "supabase/supabase",
+      "name": "agentskills/agentskills",
       "daily_gain": 406
     },
     {
-      "name": "TencentCloud/CubeSandbox",
-      "daily_gain": 169
+      "name": "immich-app/immich",
+      "daily_gain": 308
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 60
+      "name": "chthollyphile/folia-major",
+      "daily_gain": 319
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1289
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "daily_gain": 49
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "daily_gain": 130
+    },
+    {
+      "name": "crynta/terax-ai",
+      "daily_gain": 44
     }
   ]
 }
