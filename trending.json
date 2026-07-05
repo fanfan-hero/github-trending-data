@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-05T11:19:46.183810Z",
+  "updated_at": "2026-07-05T23:41:25.528460Z",
   "projects": [
     {
       "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 718
+      "daily_gain": 1409
     },
     {
       "name": "openai/codex-plugin-cc",
-      "daily_gain": 718
+      "daily_gain": 1519
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 471
+      "daily_gain": 981
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -19,55 +19,55 @@
     },
     {
       "name": "alirezarezvani/claude-skills",
-      "daily_gain": 136
+      "daily_gain": 394
     },
     {
       "name": "rommapp/romm",
-      "daily_gain": 398
+      "daily_gain": 411
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 707
+      "daily_gain": 650
     },
     {
       "name": "alibaba/page-agent",
-      "daily_gain": 742
+      "daily_gain": 801
     },
     {
       "name": "harvard-edge/cs249r_book",
-      "daily_gain": 443
+      "daily_gain": 333
     },
     {
       "name": "usestrix/strix",
-      "daily_gain": 1904
+      "daily_gain": 1121
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
-      "daily_gain": 133
+      "daily_gain": 188
     },
     {
       "name": "coreyhaines31/marketingskills",
-      "daily_gain": 126
+      "daily_gain": 209
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 1089
+      "daily_gain": 1043
     },
     {
       "name": "CoplayDev/unity-mcp",
-      "daily_gain": 69
+      "daily_gain": 415
     },
     {
       "name": "facebook/astryx",
-      "daily_gain": 903
+      "daily_gain": 540
     },
     {
       "name": "immich-app/immich",
-      "daily_gain": 201
+      "daily_gain": 475
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 133
+      "daily_gain": 198
     },
     {
       "name": "gastownhall/gastown",
@@ -75,7 +75,7 @@
     },
     {
       "name": "dotnet/skills",
-      "daily_gain": 59
+      "daily_gain": 247
     },
     {
       "name": "OthmanAdi/planning-with-files",
@@ -83,11 +83,11 @@
     },
     {
       "name": "steipete/CodexBar",
-      "daily_gain": 98
+      "daily_gain": 201
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 357
+      "daily_gain": 182
     }
   ]
 }
