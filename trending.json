@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-07-05T06:55:52.238117Z",
+  "updated_at": "2026-07-05T11:19:46.183810Z",
   "projects": [
     {
-      "name": "openai/codex-plugin-cc",
+      "name": "Zackriya-Solutions/meetily",
       "daily_gain": 718
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 1089
-    },
-    {
-      "name": "alibaba/page-agent",
-      "daily_gain": 742
-    },
-    {
-      "name": "usestrix/strix",
-      "daily_gain": 1904
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 304
-    },
-    {
-      "name": "Zackriya-Solutions/meetily",
+      "name": "openai/codex-plugin-cc",
       "daily_gain": 718
     },
     {
@@ -30,8 +14,12 @@
       "daily_gain": 471
     },
     {
-      "name": "harvard-edge/cs249r_book",
-      "daily_gain": 443
+      "name": "Leonxlnx/taste-skill",
+      "daily_gain": 850
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "daily_gain": 136
     },
     {
       "name": "rommapp/romm",
@@ -42,36 +30,64 @@
       "daily_gain": 707
     },
     {
-      "name": "dotnet/skills",
-      "daily_gain": 59
+      "name": "alibaba/page-agent",
+      "daily_gain": 742
     },
     {
-      "name": "agentskills/agentskills",
-      "daily_gain": 351
+      "name": "harvard-edge/cs249r_book",
+      "daily_gain": 443
     },
     {
-      "name": "immich-app/immich",
-      "daily_gain": 201
+      "name": "usestrix/strix",
+      "daily_gain": 1904
     },
     {
-      "name": "chthollyphile/folia-major",
-      "daily_gain": 175
+      "name": "hesreallyhim/awesome-claude-code",
+      "daily_gain": 133
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 973
+      "name": "coreyhaines31/marketingskills",
+      "daily_gain": 126
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "daily_gain": 1089
     },
     {
       "name": "CoplayDev/unity-mcp",
       "daily_gain": 69
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "daily_gain": 136
+      "name": "facebook/astryx",
+      "daily_gain": 903
     },
     {
-      "name": "crynta/terax-ai",
-      "daily_gain": 62
+      "name": "immich-app/immich",
+      "daily_gain": 201
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 133
+    },
+    {
+      "name": "gastownhall/gastown",
+      "daily_gain": 48
+    },
+    {
+      "name": "dotnet/skills",
+      "daily_gain": 59
+    },
+    {
+      "name": "OthmanAdi/planning-with-files",
+      "daily_gain": 61
+    },
+    {
+      "name": "steipete/CodexBar",
+      "daily_gain": 98
+    },
+    {
+      "name": "anthropics/claude-code",
+      "daily_gain": 357
     }
   ]
 }
