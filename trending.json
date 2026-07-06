@@ -1,89 +1,69 @@
 {
-  "updated_at": "2026-07-06T08:05:07.021937Z",
+  "updated_at": "2026-07-06T13:32:05.670395Z",
   "projects": [
     {
-      "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 1409
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "daily_gain": 1532
-    },
-    {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 981
+      "daily_gain": 1386
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "daily_gain": 863
-    },
-    {
-      "name": "alirezarezvani/claude-skills",
-      "daily_gain": 392
-    },
-    {
-      "name": "rommapp/romm",
-      "daily_gain": 410
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "daily_gain": 651
-    },
-    {
-      "name": "alibaba/page-agent",
-      "daily_gain": 805
-    },
-    {
-      "name": "harvard-edge/cs249r_book",
-      "daily_gain": 329
-    },
-    {
-      "name": "usestrix/strix",
+      "name": "addyosmani/agent-skills",
       "daily_gain": 1114
     },
     {
-      "name": "hesreallyhim/awesome-claude-code",
-      "daily_gain": 148
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "daily_gain": 145
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 1052
-    },
-    {
-      "name": "CoplayDev/unity-mcp",
-      "daily_gain": 414
-    },
-    {
-      "name": "facebook/astryx",
-      "daily_gain": 522
-    },
-    {
-      "name": "immich-app/immich",
-      "daily_gain": 470
+      "name": "Zackriya-Solutions/meetily",
+      "daily_gain": 2493
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 161
+      "daily_gain": 471
     },
     {
-      "name": "gastownhall/gastown",
-      "daily_gain": 51
+      "name": "Leonxlnx/taste-skill",
+      "daily_gain": 1453
     },
     {
-      "name": "dotnet/skills",
-      "daily_gain": 246
+      "name": "alirezarezvani/claude-skills",
+      "daily_gain": 611
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "daily_gain": 910
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 237
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "daily_gain": 783
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "daily_gain": 368
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "daily_gain": 178
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "daily_gain": 834
     },
     {
       "name": "steipete/CodexBar",
-      "daily_gain": 153
+      "daily_gain": 598
     },
     {
-      "name": "anthropics/claude-code",
-      "daily_gain": 156
+      "name": "alibaba/zvec",
+      "daily_gain": 355
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "daily_gain": 352
+    },
+    {
+      "name": "gastownhall/gastown",
+      "daily_gain": 293
     }
   ]
 }
