@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T13:32:05.670395Z",
+  "updated_at": "2026-07-06T23:42:09.036133Z",
   "projects": [
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -31,7 +31,7 @@
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 237
+      "daily_gain": 511
     },
     {
       "name": "ogulcancelik/herdr",
@@ -39,7 +39,7 @@
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 368
+      "daily_gain": 539
     },
     {
       "name": "karakeep-app/karakeep",
@@ -59,7 +59,7 @@
     },
     {
       "name": "sindresorhus/awesome",
-      "daily_gain": 352
+      "daily_gain": 393
     },
     {
       "name": "gastownhall/gastown",
