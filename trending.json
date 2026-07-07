@@ -1,69 +1,57 @@
 {
-  "updated_at": "2026-07-07T07:03:00.273480Z",
+  "updated_at": "2026-07-07T12:17:36.209813Z",
   "projects": [
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1378
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 1112
+      "name": "MadsLorentzen/ai-job-search",
+      "daily_gain": 2402
     },
     {
       "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 2494
+      "daily_gain": 1781
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 1311
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 470
+      "daily_gain": 1122
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "daily_gain": 1458
+      "name": "asgeirtj/system_prompts_leaks",
+      "daily_gain": 1704
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "daily_gain": 610
+      "name": "TencentCloud/CubeSandbox",
+      "daily_gain": 665
     },
     {
-      "name": "openai/codex-plugin-cc",
-      "daily_gain": 906
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 458
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "daily_gain": 779
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "daily_gain": 427
-    },
-    {
-      "name": "karakeep-app/karakeep",
-      "daily_gain": 199
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "daily_gain": 867
+      "name": "AhmadIbrahiim/Website-downloader",
+      "daily_gain": 173
     },
     {
       "name": "steipete/CodexBar",
-      "daily_gain": 598
+      "daily_gain": 377
     },
     {
-      "name": "alibaba/zvec",
-      "daily_gain": 382
+      "name": "dotnet/skills",
+      "daily_gain": 200
     },
     {
-      "name": "sindresorhus/awesome",
-      "daily_gain": 345
+      "name": "iOfficeAI/OfficeCLI",
+      "daily_gain": 802
     },
     {
-      "name": "gastownhall/gastown",
-      "daily_gain": 291
+      "name": "bradautomates/claude-video",
+      "daily_gain": 953
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "daily_gain": 510
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "daily_gain": 506
     }
   ]
 }
