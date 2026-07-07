@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T12:17:36.209813Z",
+  "updated_at": "2026-07-07T23:33:32.006914Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
@@ -35,7 +35,7 @@
     },
     {
       "name": "dotnet/skills",
-      "daily_gain": 200
+      "daily_gain": 82
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -51,7 +51,7 @@
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
-      "daily_gain": 506
+      "daily_gain": 227
     }
   ]
 }
