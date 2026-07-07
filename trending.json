@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-07-06T23:42:09.036133Z",
+  "updated_at": "2026-07-07T07:03:00.273480Z",
   "projects": [
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1386
+      "daily_gain": 1378
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 1114
+      "daily_gain": 1112
     },
     {
       "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 2493
+      "daily_gain": 2494
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 471
+      "daily_gain": 470
     },
     {
       "name": "Leonxlnx/taste-skill",
-      "daily_gain": 1453
+      "daily_gain": 1458
     },
     {
       "name": "alirezarezvani/claude-skills",
-      "daily_gain": 611
+      "daily_gain": 610
     },
     {
       "name": "openai/codex-plugin-cc",
-      "daily_gain": 910
+      "daily_gain": 906
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 511
+      "daily_gain": 458
     },
     {
       "name": "ogulcancelik/herdr",
-      "daily_gain": 783
+      "daily_gain": 779
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 539
+      "daily_gain": 427
     },
     {
       "name": "karakeep-app/karakeep",
-      "daily_gain": 178
+      "daily_gain": 199
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 834
+      "daily_gain": 867
     },
     {
       "name": "steipete/CodexBar",
@@ -55,15 +55,15 @@
     },
     {
       "name": "alibaba/zvec",
-      "daily_gain": 355
+      "daily_gain": 382
     },
     {
       "name": "sindresorhus/awesome",
-      "daily_gain": 393
+      "daily_gain": 345
     },
     {
       "name": "gastownhall/gastown",
-      "daily_gain": 293
+      "daily_gain": 291
     }
   ]
 }
