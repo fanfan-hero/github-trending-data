@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-07-07T23:33:32.006914Z",
+  "updated_at": "2026-07-08T06:14:55.574934Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 2402
+      "daily_gain": 2514
     },
     {
       "name": "Zackriya-Solutions/meetily",
-      "daily_gain": 1781
+      "daily_gain": 1777
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 1311
+      "daily_gain": 1317
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 1122
+      "daily_gain": 1129
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1704
+      "daily_gain": 1691
     },
     {
       "name": "TencentCloud/CubeSandbox",
-      "daily_gain": 665
+      "daily_gain": 664
     },
     {
       "name": "AhmadIbrahiim/Website-downloader",
-      "daily_gain": 173
+      "daily_gain": 140
     },
     {
       "name": "steipete/CodexBar",
-      "daily_gain": 377
+      "daily_gain": 376
     },
     {
       "name": "dotnet/skills",
-      "daily_gain": 82
+      "daily_gain": 64
     },
     {
       "name": "iOfficeAI/OfficeCLI",
-      "daily_gain": 802
+      "daily_gain": 893
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 953
+      "daily_gain": 965
     },
     {
       "name": "kyutai-labs/pocket-tts",
-      "daily_gain": 510
+      "daily_gain": 531
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
-      "daily_gain": 227
+      "daily_gain": 144
     }
   ]
 }
