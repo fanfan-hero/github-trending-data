@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-07-08T23:42:16.214613Z",
+  "updated_at": "2026-07-09T07:03:34.838012Z",
   "projects": [
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 1322
+      "daily_gain": 1297
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 793
+      "daily_gain": 799
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 351
+      "daily_gain": 318
     },
     {
       "name": "prisma/prisma",
-      "daily_gain": 30
+      "daily_gain": 46
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 373
+      "daily_gain": 352
     },
     {
       "name": "argoproj/argo-cd",
-      "daily_gain": 20
+      "daily_gain": 29
     },
     {
       "name": "iOfficeAI/OfficeCLI",
-      "daily_gain": 1712
+      "daily_gain": 1717
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1226
+      "daily_gain": 1218
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1170
+      "daily_gain": 1116
     },
     {
       "name": "alibaba/zvec",
-      "daily_gain": 370
+      "daily_gain": 395
     },
     {
       "name": "Diolinux/PhotoGIMP",
-      "daily_gain": 916
+      "daily_gain": 1125
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 20
+      "daily_gain": 28
     },
     {
       "name": "huxingyi/autoremesher",
-      "daily_gain": 292
+      "daily_gain": 296
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 948
+      "daily_gain": 951
     },
     {
       "name": "TencentCloud/CubeSandbox",
-      "daily_gain": 555
+      "daily_gain": 564
     }
   ]
 }
