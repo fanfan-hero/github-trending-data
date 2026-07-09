@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T12:21:55.584078Z",
+  "updated_at": "2026-07-09T23:48:50.629060Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
@@ -15,7 +15,7 @@
     },
     {
       "name": "VoltAgent/awesome-design-md",
-      "daily_gain": 1569
+      "daily_gain": 1233
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -27,11 +27,11 @@
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 194
+      "daily_gain": 347
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 454
+      "daily_gain": 543
     },
     {
       "name": "unclecode/crawl4ai",
@@ -39,11 +39,11 @@
     },
     {
       "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "daily_gain": 399
+      "daily_gain": 306
     },
     {
       "name": "huxingyi/autoremesher",
-      "daily_gain": 296
+      "daily_gain": 405
     },
     {
       "name": "bradautomates/claude-video",
@@ -55,7 +55,7 @@
     },
     {
       "name": "kyutai-labs/pocket-tts",
-      "daily_gain": 655
+      "daily_gain": 273
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
