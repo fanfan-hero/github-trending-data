@@ -1,61 +1,81 @@
 {
-  "updated_at": "2026-07-10T07:02:55.341010Z",
+  "updated_at": "2026-07-10T12:15:07.372806Z",
   "projects": [
     {
-      "name": "SmartlyDressedGames/U3-SDK",
-      "daily_gain": 524
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "daily_gain": 185
+    },
+    {
+      "name": "oven-sh/bun",
+      "daily_gain": 82
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "daily_gain": 3
     },
     {
       "name": "addyosmani/agent-skills",
       "daily_gain": 2554
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "daily_gain": 1391
+      "name": "jbeder/yaml-cpp",
+      "daily_gain": 65
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1728
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1096
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "daily_gain": 166
+    },
+    {
+      "name": "catchorg/Catch2",
+      "daily_gain": 69
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "daily_gain": 87
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "daily_gain": 581
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "daily_gain": 104
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "daily_gain": 86
+    },
+    {
+      "name": "tailscale/tailscale",
+      "daily_gain": 66
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 101
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "daily_gain": 1929
     },
     {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 185
+      "name": "hashicorp/terraform",
+      "daily_gain": 168
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "daily_gain": 194
+      "name": "grpc/grpc",
+      "daily_gain": 68
     },
     {
-      "name": "vxcontrol/pentagi",
-      "daily_gain": 535
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "daily_gain": 215
-    },
-    {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "daily_gain": 243
-    },
-    {
-      "name": "huxingyi/autoremesher",
-      "daily_gain": 403
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "daily_gain": 718
-    },
-    {
-      "name": "prisma/prisma",
-      "daily_gain": 376
-    },
-    {
-      "name": "kyutai-labs/pocket-tts",
-      "daily_gain": 235
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1125
+      "name": "vercel/next.js",
+      "daily_gain": 176
     }
   ]
 }
