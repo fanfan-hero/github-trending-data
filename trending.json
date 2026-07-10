@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-10T12:15:07.372806Z",
+  "updated_at": "2026-07-10T23:35:52.550881Z",
   "projects": [
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 185
+      "daily_gain": 349
     },
     {
       "name": "oven-sh/bun",
-      "daily_gain": 82
+      "daily_gain": 307
     },
     {
       "name": "abseil/abseil-cpp",
-      "daily_gain": 3
+      "daily_gain": 106
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 2554
+      "daily_gain": 1114
     },
     {
       "name": "jbeder/yaml-cpp",
@@ -23,11 +23,11 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1728
+      "daily_gain": 1663
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1096
+      "daily_gain": 969
     },
     {
       "name": "microsoft/TypeScript",
@@ -43,7 +43,7 @@
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 581
+      "daily_gain": 134
     },
     {
       "name": "davila7/claude-code-templates",
@@ -55,7 +55,7 @@
     },
     {
       "name": "tailscale/tailscale",
-      "daily_gain": 66
+      "daily_gain": 183
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -63,7 +63,7 @@
     },
     {
       "name": "iOfficeAI/OfficeCLI",
-      "daily_gain": 1929
+      "daily_gain": 1210
     },
     {
       "name": "hashicorp/terraform",
