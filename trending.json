@@ -1,25 +1,21 @@
 {
-  "updated_at": "2026-07-09T23:48:50.629060Z",
+  "updated_at": "2026-07-10T07:02:55.341010Z",
   "projects": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3728
-    },
-    {
       "name": "SmartlyDressedGames/U3-SDK",
-      "daily_gain": 541
+      "daily_gain": 524
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 2582
+      "daily_gain": 2554
     },
     {
       "name": "VoltAgent/awesome-design-md",
-      "daily_gain": 1233
+      "daily_gain": 1391
     },
     {
       "name": "iOfficeAI/OfficeCLI",
-      "daily_gain": 1923
+      "daily_gain": 1929
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -27,39 +23,39 @@
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 347
+      "daily_gain": 194
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 543
+      "daily_gain": 535
     },
     {
       "name": "unclecode/crawl4ai",
-      "daily_gain": 195
+      "daily_gain": 215
     },
     {
       "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "daily_gain": 306
+      "daily_gain": 243
     },
     {
       "name": "huxingyi/autoremesher",
-      "daily_gain": 405
+      "daily_gain": 403
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 727
+      "daily_gain": 718
     },
     {
       "name": "prisma/prisma",
-      "daily_gain": 373
+      "daily_gain": 376
     },
     {
       "name": "kyutai-labs/pocket-tts",
-      "daily_gain": 273
+      "daily_gain": 235
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 1135
+      "daily_gain": 1125
     }
   ]
 }
