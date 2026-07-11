@@ -1,81 +1,81 @@
 {
-  "updated_at": "2026-07-10T23:35:52.550881Z",
+  "updated_at": "2026-07-11T05:59:42.385420Z",
   "projects": [
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 349
+      "daily_gain": 328
     },
     {
       "name": "oven-sh/bun",
-      "daily_gain": 307
+      "daily_gain": 209
     },
     {
       "name": "abseil/abseil-cpp",
-      "daily_gain": 106
+      "daily_gain": 89
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 1114
+      "daily_gain": 1116
     },
     {
       "name": "jbeder/yaml-cpp",
-      "daily_gain": 65
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 1663
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 969
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "daily_gain": 166
-    },
-    {
-      "name": "catchorg/Catch2",
       "daily_gain": 69
     },
     {
+      "name": "mattpocock/skills",
+      "daily_gain": 1712
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1013
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "daily_gain": 177
+    },
+    {
+      "name": "catchorg/Catch2",
+      "daily_gain": 76
+    },
+    {
       "name": "chriskohlhoff/asio",
-      "daily_gain": 87
+      "daily_gain": 92
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 134
+      "daily_gain": 123
     },
     {
       "name": "davila7/claude-code-templates",
-      "daily_gain": 104
+      "daily_gain": 118
     },
     {
       "name": "zeux/meshoptimizer",
-      "daily_gain": 86
+      "daily_gain": 91
     },
     {
       "name": "tailscale/tailscale",
-      "daily_gain": 183
+      "daily_gain": 143
     },
     {
       "name": "google-labs-code/stitch-skills",
-      "daily_gain": 101
+      "daily_gain": 117
     },
     {
       "name": "iOfficeAI/OfficeCLI",
-      "daily_gain": 1210
+      "daily_gain": 1224
     },
     {
       "name": "hashicorp/terraform",
-      "daily_gain": 168
+      "daily_gain": 172
     },
     {
       "name": "grpc/grpc",
-      "daily_gain": 68
+      "daily_gain": 78
     },
     {
       "name": "vercel/next.js",
-      "daily_gain": 176
+      "daily_gain": 191
     }
   ]
 }
