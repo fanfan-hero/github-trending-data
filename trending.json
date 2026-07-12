@@ -1,97 +1,73 @@
 {
-  "updated_at": "2026-07-12T06:18:59.058647Z",
+  "updated_at": "2026-07-12T11:00:10.923222Z",
   "projects": [
     {
-      "name": "catchorg/Catch2",
-      "daily_gain": 113
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "daily_gain": 118
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "daily_gain": 232
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "daily_gain": 340
-    },
-    {
-      "name": "hashicorp/terraform",
-      "daily_gain": 229
-    },
-    {
-      "name": "zeux/meshoptimizer",
-      "daily_gain": 110
-    },
-    {
-      "name": "openai/plugins",
-      "daily_gain": 29
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "daily_gain": 444
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "daily_gain": 909
     },
     {
-      "name": "chriskohlhoff/asio",
-      "daily_gain": 76
+      "name": "HKUDS/Vibe-Trading",
+      "daily_gain": 776
     },
     {
-      "name": "oven-sh/bun",
-      "daily_gain": 658
+      "name": "PrefectHQ/prefect",
+      "daily_gain": 55
     },
     {
-      "name": "home-assistant/core",
-      "daily_gain": 8
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "daily_gain": 80
-    },
-    {
-      "name": "cypress-io/cypress",
-      "daily_gain": 39
-    },
-    {
-      "name": "vercel/next.js",
-      "daily_gain": 19
-    },
-    {
-      "name": "DayuanJiang/next-ai-draw-io",
-      "daily_gain": 334
-    },
-    {
-      "name": "malisper/pgrust",
-      "daily_gain": 81
-    },
-    {
-      "name": "dotnet/aspnetcore",
-      "daily_gain": 774
-    },
-    {
-      "name": "prisma/prisma",
-      "daily_gain": 4
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "daily_gain": 549
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 37
-    },
-    {
-      "name": "obra/superpowers",
       "daily_gain": 219
     },
     {
-      "name": "nasa/fprime",
-      "daily_gain": 740
+      "name": "home-assistant/core",
+      "daily_gain": 80
     },
     {
-      "name": "ansible/ansible",
-      "daily_gain": 22
+      "name": "Crosstalk-Solutions/project-nomad",
+      "daily_gain": 122
     },
     {
-      "name": "nuxt/nuxt",
-      "daily_gain": 24
+      "name": "ColeMurray/background-agents",
+      "daily_gain": 9
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "daily_gain": 661
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "daily_gain": 79
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "daily_gain": 109
+    },
+    {
+      "name": "chen08209/FlClash",
+      "daily_gain": 151
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "daily_gain": 232
+    },
+    {
+      "name": "par274/sharpemu",
+      "daily_gain": 436
+    },
+    {
+      "name": "malisper/pgrust",
+      "daily_gain": 774
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "daily_gain": 210
     }
   ]
 }
