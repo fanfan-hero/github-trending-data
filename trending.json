@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-11T23:34:16.898937Z",
+  "updated_at": "2026-07-12T06:18:59.058647Z",
   "projects": [
     {
       "name": "catchorg/Catch2",
-      "daily_gain": 117
+      "daily_gain": 113
     },
     {
       "name": "abseil/abseil-cpp",
-      "daily_gain": 120
+      "daily_gain": 118
     },
     {
       "name": "davila7/claude-code-templates",
-      "daily_gain": 230
+      "daily_gain": 232
     },
     {
       "name": "google-labs-code/stitch-skills",
-      "daily_gain": 338
+      "daily_gain": 340
     },
     {
       "name": "hashicorp/terraform",
@@ -23,23 +23,23 @@
     },
     {
       "name": "zeux/meshoptimizer",
-      "daily_gain": 111
+      "daily_gain": 110
     },
     {
       "name": "openai/plugins",
-      "daily_gain": 75
+      "daily_gain": 29
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 900
+      "daily_gain": 909
     },
     {
       "name": "chriskohlhoff/asio",
-      "daily_gain": 75
+      "daily_gain": 76
     },
     {
       "name": "oven-sh/bun",
-      "daily_gain": 654
+      "daily_gain": 658
     },
     {
       "name": "home-assistant/core",
@@ -47,51 +47,51 @@
     },
     {
       "name": "microsoft/PowerToys",
-      "daily_gain": 169
+      "daily_gain": 80
     },
     {
       "name": "cypress-io/cypress",
-      "daily_gain": 65
+      "daily_gain": 39
     },
     {
       "name": "vercel/next.js",
-      "daily_gain": 43
+      "daily_gain": 19
     },
     {
       "name": "DayuanJiang/next-ai-draw-io",
-      "daily_gain": 331
+      "daily_gain": 334
     },
     {
       "name": "malisper/pgrust",
-      "daily_gain": 74
+      "daily_gain": 81
     },
     {
       "name": "dotnet/aspnetcore",
-      "daily_gain": 789
+      "daily_gain": 774
     },
     {
       "name": "prisma/prisma",
-      "daily_gain": 28
+      "daily_gain": 4
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 85
+      "daily_gain": 37
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 322
+      "daily_gain": 219
     },
     {
       "name": "nasa/fprime",
-      "daily_gain": 737
+      "daily_gain": 740
     },
     {
       "name": "ansible/ansible",
-      "daily_gain": 64
+      "daily_gain": 22
     },
     {
       "name": "nuxt/nuxt",
-      "daily_gain": 20
+      "daily_gain": 24
     }
   ]
 }
