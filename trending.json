@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T11:00:10.923222Z",
+  "updated_at": "2026-07-12T23:33:14.580957Z",
   "projects": [
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -7,7 +7,7 @@
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
-      "daily_gain": 909
+      "daily_gain": 207
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -19,15 +19,15 @@
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 549
+      "daily_gain": 450
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 219
+      "daily_gain": 464
     },
     {
       "name": "home-assistant/core",
-      "daily_gain": 80
+      "daily_gain": 404
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -39,7 +39,7 @@
     },
     {
       "name": "k1tbyte/Wand-Enhancer",
-      "daily_gain": 661
+      "daily_gain": 603
     },
     {
       "name": "pingdotgg/t3code",
@@ -55,15 +55,15 @@
     },
     {
       "name": "davila7/claude-code-templates",
-      "daily_gain": 232
+      "daily_gain": 274
     },
     {
       "name": "par274/sharpemu",
-      "daily_gain": 436
+      "daily_gain": 349
     },
     {
       "name": "malisper/pgrust",
-      "daily_gain": 774
+      "daily_gain": 518
     },
     {
       "name": "Nutlope/hallmark",
