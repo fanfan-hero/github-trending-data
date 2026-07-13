@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-07-13T12:22:49.171964Z",
+  "updated_at": "2026-07-13T23:31:27.810881Z",
   "projects": [
     {
       "name": "OpenCut-app/OpenCut",
       "daily_gain": 1077
-    },
-    {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "daily_gain": 1290
     },
     {
       "name": "HKUDS/Vibe-Trading",
