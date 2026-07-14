@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-07-13T23:31:27.810881Z",
+  "updated_at": "2026-07-14T05:55:27.721163Z",
   "projects": [
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 1077
+      "daily_gain": 1229
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 1148
+      "daily_gain": 1153
     },
     {
       "name": "moeru-ai/airi",
-      "daily_gain": 57
+      "daily_gain": 78
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 1006
+      "daily_gain": 996
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 802
+      "daily_gain": 794
     },
     {
       "name": "Raphire/Win11Debloat",
-      "daily_gain": 74
+      "daily_gain": 118
     },
     {
       "name": "Graphify-Labs/graphify",
-      "daily_gain": 1028
+      "daily_gain": 1095
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 435
+      "daily_gain": 451
     },
     {
       "name": "coreyhaines31/marketingskills",
-      "daily_gain": 508
+      "daily_gain": 543
     }
   ]
 }
