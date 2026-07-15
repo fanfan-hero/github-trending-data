@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-07-14T23:30:04.141813Z",
+  "updated_at": "2026-07-15T05:57:18.512546Z",
   "projects": [
     {
+      "name": "1c7/chinese-independent-developer",
+      "daily_gain": 1196
+    },
+    {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 1104
+      "daily_gain": 1106
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1864
-    },
-    {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "daily_gain": 481
+      "daily_gain": 1679
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 4349
+      "daily_gain": 4276
     },
     {
       "name": "virattt/ai-hedge-fund",
-      "daily_gain": 156
+      "daily_gain": 109
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 1010
+      "daily_gain": 1015
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 1265
+      "daily_gain": 1256
     },
     {
       "name": "Raphire/Win11Debloat",
-      "daily_gain": 779
+      "daily_gain": 783
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 864
+      "daily_gain": 851
     },
     {
       "name": "penpot/penpot",
-      "daily_gain": 264
+      "daily_gain": 395
     },
     {
       "name": "AIEraDev/Clypra",
-      "daily_gain": 66
+      "daily_gain": 85
     },
     {
       "name": "par274/sharpemu",
-      "daily_gain": 448
+      "daily_gain": 332
     },
     {
       "name": "chenyme/grok2api",
-      "daily_gain": 179
+      "daily_gain": 186
     },
     {
       "name": "Graphify-Labs/graphify",
-      "daily_gain": 1858
+      "daily_gain": 1851
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "daily_gain": 69
+      "daily_gain": 112
     }
   ]
 }
