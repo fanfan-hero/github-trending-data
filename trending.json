@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-07-15T23:37:54.985771Z",
+  "updated_at": "2026-07-16T06:02:00.246207Z",
   "projects": [
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 1505
+      "daily_gain": 1664
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 1119
+      "daily_gain": 1277
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2160
+      "daily_gain": 2130
     },
     {
       "name": "moeru-ai/airi",
-      "daily_gain": 144
+      "daily_gain": 110
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
-      "daily_gain": 497
+      "daily_gain": 471
     },
     {
       "name": "HKUDS/Vibe-Trading",
-      "daily_gain": 924
+      "daily_gain": 915
     },
     {
       "name": "openinterpreter/openinterpreter",
-      "daily_gain": 345
+      "daily_gain": 299
     },
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 128
+      "daily_gain": 172
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "daily_gain": 729
+      "daily_gain": 725
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 1278
+      "daily_gain": 1236
     },
     {
       "name": "coreyhaines31/marketingskills",
-      "daily_gain": 390
+      "daily_gain": 340
     },
     {
       "name": "YimMenu/YimMenuV2",
-      "daily_gain": 21
+      "daily_gain": 38
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
-      "daily_gain": 951
+      "daily_gain": 949
     }
   ]
 }
