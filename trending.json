@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-17T11:09:25.263138Z",
+  "updated_at": "2026-07-17T23:31:00.885062Z",
   "projects": [
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 435
+      "daily_gain": 1070
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 77
+      "daily_gain": 437
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "daily_gain": 511
+      "daily_gain": 248
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 3372
+      "daily_gain": 1486
     },
     {
       "name": "anthropics/cwc-workshops",
-      "daily_gain": 13
+      "daily_gain": 234
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -27,11 +27,11 @@
     },
     {
       "name": "protocolbuffers/protobuf",
-      "daily_gain": 196
+      "daily_gain": 279
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 11
+      "daily_gain": 18
     },
     {
       "name": "docusealco/docuseal",
@@ -39,11 +39,11 @@
     },
     {
       "name": "openinterpreter/openinterpreter",
-      "daily_gain": 152
+      "daily_gain": 131
     },
     {
       "name": "RyanCodrai/turbovec",
-      "daily_gain": 661
+      "daily_gain": 431
     },
     {
       "name": "HKUDS/DeepTutor",
@@ -51,7 +51,7 @@
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 656
+      "daily_gain": 528
     }
   ]
 }
