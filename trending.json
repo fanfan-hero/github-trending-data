@@ -1,57 +1,49 @@
 {
-  "updated_at": "2026-07-18T10:49:37.450168Z",
+  "updated_at": "2026-07-18T23:33:23.291311Z",
   "projects": [
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 1068
+      "name": "Robbyant/lingbot-map",
+      "daily_gain": 827
+    },
+    {
+      "name": "apache/ossie",
+      "daily_gain": 48
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 438
+      "daily_gain": 337
     },
     {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "daily_gain": 200
+      "name": "ibelick/ui-skills",
+      "daily_gain": 242
     },
     {
-      "name": "Nutlope/hallmark",
-      "daily_gain": 1485
-    },
-    {
-      "name": "anthropics/cwc-workshops",
-      "daily_gain": 233
-    },
-    {
-      "name": "PrismML-Eng/Bonsai-demo",
-      "daily_gain": 45
-    },
-    {
-      "name": "protocolbuffers/protobuf",
-      "daily_gain": 278
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 240
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 11
+      "daily_gain": 356
     },
     {
-      "name": "docusealco/docuseal",
-      "daily_gain": 74
+      "name": "elder-plinius/G0DM0D3",
+      "daily_gain": 63
     },
     {
-      "name": "openinterpreter/openinterpreter",
-      "daily_gain": 91
+      "name": "lyogavin/airllm",
+      "daily_gain": 234
     },
     {
-      "name": "RyanCodrai/turbovec",
-      "daily_gain": 431
+      "name": "KnockOutEZ/wigolo",
+      "daily_gain": 192
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "daily_gain": 280
+      "name": "codecrafters-io/build-your-own-x",
+      "daily_gain": 1131
     },
     {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 531
+      "name": "MoonshotAI/kimi-cli",
+      "daily_gain": 48
     }
   ]
 }
