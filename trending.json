@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-07-18T23:33:23.291311Z",
+  "updated_at": "2026-07-19T06:14:29.742765Z",
   "projects": [
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 827
+      "daily_gain": 831
     },
     {
       "name": "apache/ossie",
-      "daily_gain": 48
+      "daily_gain": 47
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 337
+      "daily_gain": 338
     },
     {
       "name": "ibelick/ui-skills",
-      "daily_gain": 242
+      "daily_gain": 123
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 240
+      "daily_gain": 191
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 356
+      "daily_gain": 355
     },
     {
       "name": "elder-plinius/G0DM0D3",
-      "daily_gain": 63
+      "daily_gain": 69
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 234
+      "daily_gain": 161
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 192
+      "daily_gain": 203
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 1131
+      "daily_gain": 1126
     },
     {
       "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 48
+      "daily_gain": 65
     }
   ]
 }
