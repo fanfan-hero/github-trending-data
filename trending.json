@@ -1,49 +1,73 @@
 {
-  "updated_at": "2026-07-19T06:14:29.742765Z",
+  "updated_at": "2026-07-19T10:59:56.481500Z",
   "projects": [
     {
-      "name": "Robbyant/lingbot-map",
-      "daily_gain": 831
+      "name": "tirth8205/code-review-graph",
+      "daily_gain": 355
     },
     {
-      "name": "apache/ossie",
-      "daily_gain": 47
-    },
-    {
-      "name": "PostHog/posthog",
-      "daily_gain": 338
-    },
-    {
-      "name": "ibelick/ui-skills",
-      "daily_gain": 123
+      "name": "kvcache-ai/ktransformers",
+      "daily_gain": 328
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "daily_gain": 191
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "daily_gain": 355
-    },
-    {
-      "name": "elder-plinius/G0DM0D3",
-      "daily_gain": 69
-    },
-    {
-      "name": "lyogavin/airllm",
-      "daily_gain": 161
+      "name": "jamiepine/voicebox",
+      "daily_gain": 629
     },
     {
       "name": "KnockOutEZ/wigolo",
       "daily_gain": 203
     },
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 1126
+      "name": "andrewrabert/jellium-desktop",
+      "daily_gain": 55
+    },
+    {
+      "name": "PostHog/posthog",
+      "daily_gain": 111
+    },
+    {
+      "name": "microsoft/terminal",
+      "daily_gain": 338
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "daily_gain": 13
+    },
+    {
+      "name": "1jehuang/jcode",
+      "daily_gain": 62
+    },
+    {
+      "name": "trycua/cua",
+      "daily_gain": 199
     },
     {
       "name": "MoonshotAI/kimi-cli",
+      "daily_gain": 136
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
       "daily_gain": 65
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "daily_gain": 117
+    },
+    {
+      "name": "lyogavin/airllm",
+      "daily_gain": 1126
+    },
+    {
+      "name": "Canner/WrenAI",
+      "daily_gain": 161
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "daily_gain": 96
     }
   ]
 }
