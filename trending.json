@@ -1,73 +1,85 @@
 {
-  "updated_at": "2026-07-20T06:34:27.128497Z",
+  "updated_at": "2026-07-20T12:04:04.808507Z",
   "projects": [
     {
       "name": "tirth8205/code-review-graph",
       "daily_gain": 663
     },
     {
-      "name": "kvcache-ai/ktransformers",
-      "daily_gain": 360
+      "name": "1jehuang/jcode",
+      "daily_gain": 235
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 1343
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "daily_gain": 501
     },
     {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 949
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "daily_gain": 360
+    },
+    {
       "name": "jamiepine/voicebox",
       "daily_gain": 610
+    },
+    {
+      "name": "topoteretes/cognee",
+      "daily_gain": 303
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "daily_gain": 865
+    },
+    {
+      "name": "every-app/open-seo",
+      "daily_gain": 222
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "daily_gain": 410
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "daily_gain": 83
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "daily_gain": 77
     },
     {
       "name": "KnockOutEZ/wigolo",
       "daily_gain": 595
     },
     {
-      "name": "andrewrabert/jellium-desktop",
-      "daily_gain": 43
+      "name": "tokio-rs/topcoat",
+      "daily_gain": 439
     },
     {
-      "name": "PostHog/posthog",
-      "daily_gain": 39
+      "name": "iptv-org/iptv",
+      "daily_gain": 144
     },
     {
-      "name": "microsoft/terminal",
-      "daily_gain": 411
+      "name": "oblien/openship",
+      "daily_gain": 1719
     },
     {
-      "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 59
+      "name": "microsoft/Ontology-Playground",
+      "daily_gain": 487
     },
     {
-      "name": "1jehuang/jcode",
-      "daily_gain": 83
+      "name": "handy-computer/transcribe.cpp",
+      "daily_gain": 401
     },
     {
-      "name": "trycua/cua",
-      "daily_gain": 235
-    },
-    {
-      "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 64
-    },
-    {
-      "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 410
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 106
-    },
-    {
-      "name": "lyogavin/airllm",
-      "daily_gain": 754
-    },
-    {
-      "name": "Canner/WrenAI",
-      "daily_gain": 358
-    },
-    {
-      "name": "PKUFlyingPig/cs-self-learning",
-      "daily_gain": 121
+      "name": "moonshine-ai/moonshine",
+      "daily_gain": 264
     }
   ]
 }
