@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-07-20T12:04:04.808507Z",
+  "updated_at": "2026-07-20T23:36:17.881690Z",
   "projects": [
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 663
+      "daily_gain": 1876
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 235
+      "daily_gain": 612
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1343
+      "daily_gain": 1300
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 501
+      "daily_gain": 846
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 949
+      "daily_gain": 744
     },
     {
       "name": "kvcache-ai/ktransformers",
-      "daily_gain": 360
+      "daily_gain": 448
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 610
+      "daily_gain": 839
     },
     {
       "name": "topoteretes/cognee",
-      "daily_gain": 303
+      "daily_gain": 249
     },
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 865
+      "daily_gain": 554
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 222
+      "daily_gain": 983
     },
     {
       "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 410
+      "daily_gain": 405
     },
     {
       "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 83
+      "daily_gain": 330
     },
     {
       "name": "PrefectHQ/fastmcp",
@@ -55,11 +55,11 @@
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 595
+      "daily_gain": 695
     },
     {
       "name": "tokio-rs/topcoat",
-      "daily_gain": 439
+      "daily_gain": 374
     },
     {
       "name": "iptv-org/iptv",
