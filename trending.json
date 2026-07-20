@@ -1,77 +1,73 @@
 {
-  "updated_at": "2026-07-19T23:36:38.915745Z",
+  "updated_at": "2026-07-20T06:34:27.128497Z",
   "projects": [
     {
-      "name": "bojieli/ai-agent-book",
-      "daily_gain": 1734
-    },
-    {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 551
+      "daily_gain": 663
     },
     {
       "name": "kvcache-ai/ktransformers",
-      "daily_gain": 328
+      "daily_gain": 360
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 507
+      "daily_gain": 501
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 629
+      "daily_gain": 610
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 605
+      "daily_gain": 595
     },
     {
       "name": "andrewrabert/jellium-desktop",
-      "daily_gain": 54
+      "daily_gain": 43
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 46
+      "daily_gain": 39
     },
     {
       "name": "microsoft/terminal",
-      "daily_gain": 424
+      "daily_gain": 411
     },
     {
       "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 103
+      "daily_gain": 59
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 62
+      "daily_gain": 83
     },
     {
       "name": "trycua/cua",
-      "daily_gain": 199
+      "daily_gain": 235
     },
     {
       "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 87
+      "daily_gain": 64
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 418
+      "daily_gain": 410
     },
     {
       "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 117
+      "daily_gain": 106
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 761
+      "daily_gain": 754
     },
     {
       "name": "Canner/WrenAI",
-      "daily_gain": 374
+      "daily_gain": 358
     },
     {
       "name": "PKUFlyingPig/cs-self-learning",
-      "daily_gain": 96
+      "daily_gain": 121
     }
   ]
 }
