@@ -1,85 +1,89 @@
 {
-  "updated_at": "2026-07-21T06:15:08.717586Z",
+  "updated_at": "2026-07-21T11:29:48.244974Z",
   "projects": [
+    {
+      "name": "koala73/worldmonitor",
+      "daily_gain": 1167
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "daily_gain": 4434
+    },
     {
       "name": "tirth8205/code-review-graph",
       "daily_gain": 1833
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "daily_gain": 1846
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "daily_gain": 297
     },
     {
       "name": "1jehuang/jcode",
       "daily_gain": 568
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1107
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 823
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 862
-    },
-    {
-      "name": "kvcache-ai/ktransformers",
-      "daily_gain": 458
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 821
-    },
-    {
-      "name": "topoteretes/cognee",
-      "daily_gain": 234
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "daily_gain": 565
-    },
-    {
-      "name": "every-app/open-seo",
-      "daily_gain": 939
-    },
-    {
-      "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 410
+      "name": "oblien/openship",
+      "daily_gain": 1641
     },
     {
       "name": "AstrBotDevs/AstrBot",
       "daily_gain": 317
     },
     {
-      "name": "PrefectHQ/fastmcp",
-      "daily_gain": 96
+      "name": "every-app/open-seo",
+      "daily_gain": 939
     },
     {
-      "name": "KnockOutEZ/wigolo",
-      "daily_gain": 689
+      "name": "tradesdontlie/tradingview-mcp",
+      "daily_gain": 28
     },
     {
-      "name": "tokio-rs/topcoat",
-      "daily_gain": 371
+      "name": "AlexsJones/llmfit",
+      "daily_gain": 247
     },
     {
-      "name": "iptv-org/iptv",
-      "daily_gain": 240
+      "name": "hyprwm/Hyprland",
+      "daily_gain": 24
     },
     {
-      "name": "oblien/openship",
-      "daily_gain": 1641
+      "name": "chrislgarry/Apollo-11",
+      "daily_gain": 1195
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "daily_gain": 389
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "daily_gain": 14
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 1107
+    },
+    {
+      "name": "agegr/pi-web",
+      "daily_gain": 286
+    },
+    {
+      "name": "schollz/croc",
+      "daily_gain": 511
     },
     {
       "name": "microsoft/Ontology-Playground",
       "daily_gain": 464
     },
     {
-      "name": "handy-computer/transcribe.cpp",
-      "daily_gain": 395
+      "name": "dottxt-ai/outlines",
+      "daily_gain": 49
     },
     {
-      "name": "moonshine-ai/moonshine",
-      "daily_gain": 282
+      "name": "KnockOutEZ/wigolo",
+      "daily_gain": 689
     }
   ]
 }
