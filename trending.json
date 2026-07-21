@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T11:29:48.244974Z",
+  "updated_at": "2026-07-21T23:37:10.431372Z",
   "projects": [
     {
       "name": "koala73/worldmonitor",
@@ -11,7 +11,7 @@
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 1833
+      "daily_gain": 1921
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -19,35 +19,35 @@
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 297
+      "daily_gain": 378
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 568
+      "daily_gain": 835
     },
     {
       "name": "oblien/openship",
-      "daily_gain": 1641
+      "daily_gain": 1556
     },
     {
       "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 317
+      "daily_gain": 416
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 939
+      "daily_gain": 850
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
-      "daily_gain": 28
+      "daily_gain": 219
     },
     {
       "name": "AlexsJones/llmfit",
-      "daily_gain": 247
+      "daily_gain": 194
     },
     {
       "name": "hyprwm/Hyprland",
-      "daily_gain": 24
+      "daily_gain": 88
     },
     {
       "name": "chrislgarry/Apollo-11",
@@ -55,7 +55,7 @@
     },
     {
       "name": "DioxusLabs/dioxus",
-      "daily_gain": 389
+      "daily_gain": 261
     },
     {
       "name": "langchain-ai/open_deep_research",
@@ -63,7 +63,7 @@
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1107
+      "daily_gain": 2040
     },
     {
       "name": "agegr/pi-web",
@@ -71,11 +71,11 @@
     },
     {
       "name": "schollz/croc",
-      "daily_gain": 511
+      "daily_gain": 396
     },
     {
       "name": "microsoft/Ontology-Playground",
-      "daily_gain": 464
+      "daily_gain": 355
     },
     {
       "name": "dottxt-ai/outlines",
@@ -83,7 +83,7 @@
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 689
+      "daily_gain": 641
     }
   ]
 }
