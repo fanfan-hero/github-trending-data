@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-07-20T23:36:17.881690Z",
+  "updated_at": "2026-07-21T06:15:08.717586Z",
   "projects": [
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 1876
+      "daily_gain": 1833
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 612
+      "daily_gain": 568
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1300
+      "daily_gain": 1107
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 846
+      "daily_gain": 823
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 744
+      "daily_gain": 862
     },
     {
       "name": "kvcache-ai/ktransformers",
-      "daily_gain": 448
+      "daily_gain": 458
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 839
+      "daily_gain": 821
     },
     {
       "name": "topoteretes/cognee",
-      "daily_gain": 249
+      "daily_gain": 234
     },
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 554
+      "daily_gain": 565
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 983
+      "daily_gain": 939
     },
     {
       "name": "MoonshotAI/kimi-cli",
-      "daily_gain": 405
+      "daily_gain": 410
     },
     {
       "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 330
+      "daily_gain": 317
     },
     {
       "name": "PrefectHQ/fastmcp",
-      "daily_gain": 77
+      "daily_gain": 96
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 695
+      "daily_gain": 689
     },
     {
       "name": "tokio-rs/topcoat",
-      "daily_gain": 374
+      "daily_gain": 371
     },
     {
       "name": "iptv-org/iptv",
-      "daily_gain": 144
+      "daily_gain": 240
     },
     {
       "name": "oblien/openship",
-      "daily_gain": 1719
+      "daily_gain": 1641
     },
     {
       "name": "microsoft/Ontology-Playground",
-      "daily_gain": 487
+      "daily_gain": 464
     },
     {
       "name": "handy-computer/transcribe.cpp",
-      "daily_gain": 401
+      "daily_gain": 395
     },
     {
       "name": "moonshine-ai/moonshine",
-      "daily_gain": 264
+      "daily_gain": 282
     }
   ]
 }
