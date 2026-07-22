@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-22T11:30:52.135100Z",
+  "updated_at": "2026-07-22T23:36:41.797106Z",
   "projects": [
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 1295
+      "daily_gain": 4131
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 1114
+      "daily_gain": 875
     },
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 1866
+      "daily_gain": 1682
     },
     {
       "name": "schollz/croc",
-      "daily_gain": 361
+      "daily_gain": 737
     },
     {
       "name": "likec4/likec4",
-      "daily_gain": 58
+      "daily_gain": 172
     },
     {
       "name": "chrislgarry/Apollo-11",
-      "daily_gain": 1235
+      "daily_gain": 766
     },
     {
       "name": "jamiepine/voicebox",
@@ -31,7 +31,7 @@
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 2034
+      "daily_gain": 1648
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -43,19 +43,19 @@
     },
     {
       "name": "oblien/openship",
-      "daily_gain": 1562
+      "daily_gain": 1304
     },
     {
       "name": "agegr/pi-web",
-      "daily_gain": 298
+      "daily_gain": 314
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 1007
+      "daily_gain": 688
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 1925
+      "daily_gain": 872
     },
     {
       "name": "dreamhunter2333/cloudflare_temp_email",
@@ -63,11 +63,11 @@
     },
     {
       "name": "DioxusLabs/dioxus",
-      "daily_gain": 271
+      "daily_gain": 411
     },
     {
       "name": "hyprwm/Hyprland",
-      "daily_gain": 58
+      "daily_gain": 353
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
@@ -75,7 +75,7 @@
     },
     {
       "name": "dottxt-ai/outlines",
-      "daily_gain": 65
+      "daily_gain": 362
     }
   ]
 }
