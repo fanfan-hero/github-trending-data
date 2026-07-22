@@ -1,52 +1,24 @@
 {
-  "updated_at": "2026-07-22T06:13:08.360003Z",
+  "updated_at": "2026-07-22T11:30:52.135100Z",
   "projects": [
     {
       "name": "koala73/worldmonitor",
       "daily_gain": 1295
     },
     {
-      "name": "bojieli/ai-agent-book",
-      "daily_gain": 4624
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "daily_gain": 1925
+      "name": "ruvnet/RuView",
+      "daily_gain": 1114
     },
     {
       "name": "ayghri/i-have-adhd",
       "daily_gain": 1866
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "daily_gain": 291
+      "name": "schollz/croc",
+      "daily_gain": 361
     },
     {
-      "name": "1jehuang/jcode",
-      "daily_gain": 843
-    },
-    {
-      "name": "oblien/openship",
-      "daily_gain": 1562
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "daily_gain": 416
-    },
-    {
-      "name": "every-app/open-seo",
-      "daily_gain": 849
-    },
-    {
-      "name": "tradesdontlie/tradingview-mcp",
-      "daily_gain": 114
-    },
-    {
-      "name": "AlexsJones/llmfit",
-      "daily_gain": 129
-    },
-    {
-      "name": "hyprwm/Hyprland",
+      "name": "likec4/likec4",
       "daily_gain": 58
     },
     {
@@ -54,36 +26,56 @@
       "daily_gain": 1235
     },
     {
-      "name": "DioxusLabs/dioxus",
-      "daily_gain": 271
-    },
-    {
-      "name": "langchain-ai/open_deep_research",
-      "daily_gain": 23
+      "name": "jamiepine/voicebox",
+      "daily_gain": 565
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "daily_gain": 2034
     },
     {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 134
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 155
+    },
+    {
+      "name": "oblien/openship",
+      "daily_gain": 1562
+    },
+    {
       "name": "agegr/pi-web",
       "daily_gain": 298
     },
     {
-      "name": "schollz/croc",
-      "daily_gain": 361
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 1007
     },
     {
-      "name": "microsoft/Ontology-Playground",
-      "daily_gain": 355
+      "name": "tirth8205/code-review-graph",
+      "daily_gain": 1925
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "daily_gain": 60
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "daily_gain": 271
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "daily_gain": 58
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "daily_gain": 96
     },
     {
       "name": "dottxt-ai/outlines",
       "daily_gain": 65
-    },
-    {
-      "name": "KnockOutEZ/wigolo",
-      "daily_gain": 642
     }
   ]
 }
