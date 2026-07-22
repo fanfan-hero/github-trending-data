@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-21T23:37:10.431372Z",
+  "updated_at": "2026-07-22T06:13:08.360003Z",
   "projects": [
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 1167
+      "daily_gain": 1295
     },
     {
       "name": "bojieli/ai-agent-book",
-      "daily_gain": 4434
+      "daily_gain": 4624
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 1921
+      "daily_gain": 1925
     },
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 1846
+      "daily_gain": 1866
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 378
+      "daily_gain": 291
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 835
+      "daily_gain": 843
     },
     {
       "name": "oblien/openship",
-      "daily_gain": 1556
+      "daily_gain": 1562
     },
     {
       "name": "AstrBotDevs/AstrBot",
@@ -35,43 +35,43 @@
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 850
+      "daily_gain": 849
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
-      "daily_gain": 219
+      "daily_gain": 114
     },
     {
       "name": "AlexsJones/llmfit",
-      "daily_gain": 194
+      "daily_gain": 129
     },
     {
       "name": "hyprwm/Hyprland",
-      "daily_gain": 88
+      "daily_gain": 58
     },
     {
       "name": "chrislgarry/Apollo-11",
-      "daily_gain": 1195
+      "daily_gain": 1235
     },
     {
       "name": "DioxusLabs/dioxus",
-      "daily_gain": 261
+      "daily_gain": 271
     },
     {
       "name": "langchain-ai/open_deep_research",
-      "daily_gain": 14
+      "daily_gain": 23
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 2040
+      "daily_gain": 2034
     },
     {
       "name": "agegr/pi-web",
-      "daily_gain": 286
+      "daily_gain": 298
     },
     {
       "name": "schollz/croc",
-      "daily_gain": 396
+      "daily_gain": 361
     },
     {
       "name": "microsoft/Ontology-Playground",
@@ -79,11 +79,11 @@
     },
     {
       "name": "dottxt-ai/outlines",
-      "daily_gain": 49
+      "daily_gain": 65
     },
     {
       "name": "KnockOutEZ/wigolo",
-      "daily_gain": 641
+      "daily_gain": 642
     }
   ]
 }
