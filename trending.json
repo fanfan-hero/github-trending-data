@@ -1,81 +1,69 @@
 {
-  "updated_at": "2026-07-23T06:17:17.400861Z",
+  "updated_at": "2026-07-23T11:33:55.091473Z",
   "projects": [
+    {
+      "name": "block/buzz",
+      "daily_gain": 3252
+    },
     {
       "name": "koala73/worldmonitor",
       "daily_gain": 4139
-    },
-    {
-      "name": "ruvnet/RuView",
-      "daily_gain": 741
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "daily_gain": 1699
-    },
-    {
-      "name": "schollz/croc",
-      "daily_gain": 739
-    },
-    {
-      "name": "likec4/likec4",
-      "daily_gain": 80
-    },
-    {
-      "name": "chrislgarry/Apollo-11",
-      "daily_gain": 768
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 557
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1651
     },
     {
       "name": "shiyu-coder/Kronos",
       "daily_gain": 137
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 163
-    },
-    {
-      "name": "oblien/openship",
-      "daily_gain": 1302
-    },
-    {
-      "name": "agegr/pi-web",
-      "daily_gain": 314
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 652
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "daily_gain": 882
-    },
-    {
-      "name": "dreamhunter2333/cloudflare_temp_email",
-      "daily_gain": 68
-    },
-    {
-      "name": "DioxusLabs/dioxus",
-      "daily_gain": 420
-    },
-    {
-      "name": "hyprwm/Hyprland",
-      "daily_gain": 356
+      "name": "ayghri/i-have-adhd",
+      "daily_gain": 1699
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
       "daily_gain": 108
     },
     {
-      "name": "dottxt-ai/outlines",
-      "daily_gain": 364
+      "name": "citrolabs/ego-lite",
+      "daily_gain": 219
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "daily_gain": 768
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 1651
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 163
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "daily_gain": 621
+    },
+    {
+      "name": "agegr/pi-web",
+      "daily_gain": 314
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 162
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 741
+    },
+    {
+      "name": "likec4/likec4",
+      "daily_gain": 80
+    },
+    {
+      "name": "Automattic/harper",
+      "daily_gain": 590
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "daily_gain": 53
     }
   ]
 }
