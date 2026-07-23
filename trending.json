@@ -1,25 +1,21 @@
 {
-  "updated_at": "2026-07-23T11:33:55.091473Z",
+  "updated_at": "2026-07-23T23:33:42.665498Z",
   "projects": [
     {
       "name": "block/buzz",
-      "daily_gain": 3252
+      "daily_gain": 2460
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 4139
+      "daily_gain": 3196
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 137
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "daily_gain": 1699
+      "daily_gain": 398
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
-      "daily_gain": 108
+      "daily_gain": 563
     },
     {
       "name": "citrolabs/ego-lite",
@@ -27,35 +23,35 @@
     },
     {
       "name": "chrislgarry/Apollo-11",
-      "daily_gain": 768
+      "daily_gain": 599
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1651
+      "daily_gain": 1925
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 163
+      "daily_gain": 637
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 621
+      "daily_gain": 293
     },
     {
       "name": "agegr/pi-web",
-      "daily_gain": 314
+      "daily_gain": 315
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 162
+      "daily_gain": 265
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 741
+      "daily_gain": 1726
     },
     {
       "name": "likec4/likec4",
-      "daily_gain": 80
+      "daily_gain": 475
     },
     {
       "name": "Automattic/harper",
@@ -63,7 +59,7 @@
     },
     {
       "name": "jellyfin/jellyfin",
-      "daily_gain": 53
+      "daily_gain": 66
     }
   ]
 }
