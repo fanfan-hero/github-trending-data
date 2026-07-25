@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-07-24T23:41:06.059491Z",
+  "updated_at": "2026-07-25T06:04:12.475792Z",
   "projects": [
     {
       "name": "block/buzz",
-      "daily_gain": 3274
+      "daily_gain": 3270
     },
     {
       "name": "koala73/worldmonitor",
-      "daily_gain": 2194
+      "daily_gain": 2184
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 662
+      "daily_gain": 663
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
-      "daily_gain": 472
+      "daily_gain": 473
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 506
+      "daily_gain": 499
     },
     {
       "name": "Automattic/harper",
-      "daily_gain": 877
+      "daily_gain": 876
     },
     {
       "name": "likec4/likec4",
-      "daily_gain": 339
+      "daily_gain": 337
     },
     {
       "name": "citrolabs/ego-lite",
-      "daily_gain": 884
+      "daily_gain": 880
     },
     {
       "name": "yorukot/superfile",
-      "daily_gain": 312
+      "daily_gain": 338
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 1021
+      "daily_gain": 1022
     },
     {
       "name": "CoreBunch/Instatic",
-      "daily_gain": 250
+      "daily_gain": 201
     },
     {
       "name": "chrislgarry/Apollo-11",
@@ -51,19 +51,19 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2224
+      "daily_gain": 2251
     },
     {
       "name": "Lordog/dive-into-llms",
-      "daily_gain": 654
+      "daily_gain": 328
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1843
+      "daily_gain": 1841
     },
     {
       "name": "OtterMind/Chat2DB",
-      "daily_gain": 129
+      "daily_gain": 82
     }
   ]
 }
