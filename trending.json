@@ -1,69 +1,77 @@
 {
-  "updated_at": "2026-07-25T10:56:30.968417Z",
+  "updated_at": "2026-07-25T23:38:56.489383Z",
   "projects": [
     {
       "name": "block/buzz",
-      "daily_gain": 3270
+      "daily_gain": 2506
     },
     {
-      "name": "koala73/worldmonitor",
-      "daily_gain": 2184
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 663
-    },
-    {
-      "name": "Pumpkin-MC/Pumpkin",
-      "daily_gain": 473
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 499
-    },
-    {
-      "name": "Automattic/harper",
-      "daily_gain": 876
-    },
-    {
-      "name": "likec4/likec4",
-      "daily_gain": 337
+      "name": "alibaba/open-code-review",
+      "daily_gain": 439
     },
     {
       "name": "citrolabs/ego-lite",
-      "daily_gain": 880
+      "daily_gain": 986
     },
     {
-      "name": "yorukot/superfile",
-      "daily_gain": 338
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 574
     },
     {
-      "name": "ruvnet/RuView",
-      "daily_gain": 1022
+      "name": "anthropics/claude-cookbooks",
+      "daily_gain": 144
     },
     {
-      "name": "CoreBunch/Instatic",
-      "daily_gain": 201
+      "name": "Automattic/harper",
+      "daily_gain": 503
     },
     {
-      "name": "chrislgarry/Apollo-11",
-      "daily_gain": 409
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 319
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 507
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "daily_gain": 357
+    },
+    {
+      "name": "permissionlesstech/bitchat",
+      "daily_gain": 1695
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2251
+      "daily_gain": 1743
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "daily_gain": 346
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "daily_gain": 424
     },
     {
       "name": "Lordog/dive-into-llms",
-      "daily_gain": 328
+      "daily_gain": 405
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 1841
+      "name": "RyanCodrai/turbovec",
+      "daily_gain": 89
     },
     {
       "name": "OtterMind/Chat2DB",
-      "daily_gain": 82
+      "daily_gain": 364
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "daily_gain": 75
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 364
     }
   ]
 }
