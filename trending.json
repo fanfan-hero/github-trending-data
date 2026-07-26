@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-26T11:09:26.605002Z",
+  "updated_at": "2026-07-26T23:37:59.110206Z",
   "projects": [
     {
       "name": "permissionlesstech/bitchat",
-      "daily_gain": 1720
+      "daily_gain": 1198
     },
     {
       "name": "citrolabs/ego-lite",
-      "daily_gain": 986
+      "daily_gain": 898
     },
     {
       "name": "block/buzz",
-      "daily_gain": 2491
+      "daily_gain": 1705
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 202
+      "daily_gain": 159
     },
     {
       "name": "CoreBunch/Instatic",
-      "daily_gain": 426
+      "daily_gain": 892
     },
     {
       "name": "yorukot/superfile",
-      "daily_gain": 586
+      "daily_gain": 180
     },
     {
       "name": "nodejs/node",
@@ -31,35 +31,35 @@
     },
     {
       "name": "OtterMind/Chat2DB",
-      "daily_gain": 360
+      "daily_gain": 399
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 471
+      "daily_gain": 466
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 319
+      "daily_gain": 322
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 431
+      "daily_gain": 840
     },
     {
       "name": "andrewyng/aisuite",
-      "daily_gain": 77
+      "daily_gain": 189
     },
     {
       "name": "anthropics/claude-cookbooks",
-      "daily_gain": 132
+      "daily_gain": 377
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
-      "daily_gain": 358
+      "daily_gain": 339
     },
     {
       "name": "permissionlesstech/bitchat-android",
-      "daily_gain": 384
+      "daily_gain": 444
     },
     {
       "name": "jenkinsci/jenkins",
