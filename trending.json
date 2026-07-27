@@ -1,73 +1,61 @@
 {
-  "updated_at": "2026-07-27T06:50:51.950754Z",
+  "updated_at": "2026-07-27T12:45:11.932788Z",
   "projects": [
     {
       "name": "permissionlesstech/bitchat",
-      "daily_gain": 1166
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "daily_gain": 900
-    },
-    {
-      "name": "block/buzz",
-      "daily_gain": 1710
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "daily_gain": 149
-    },
-    {
-      "name": "CoreBunch/Instatic",
-      "daily_gain": 888
-    },
-    {
-      "name": "yorukot/superfile",
-      "daily_gain": 131
-    },
-    {
-      "name": "nodejs/node",
-      "daily_gain": 36
-    },
-    {
-      "name": "OtterMind/Chat2DB",
-      "daily_gain": 398
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 413
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 321
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 832
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "daily_gain": 187
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "daily_gain": 379
-    },
-    {
-      "name": "Pumpkin-MC/Pumpkin",
-      "daily_gain": 338
-    },
-    {
-      "name": "permissionlesstech/bitchat-android",
-      "daily_gain": 260
-    },
-    {
-      "name": "jenkinsci/jenkins",
-      "daily_gain": 18
+      "daily_gain": 2344
     },
     {
       "name": "amnezia-vpn/amnezia-client",
-      "daily_gain": 35
+      "daily_gain": 515
+    },
+    {
+      "name": "moeru-ai/airi",
+      "daily_gain": 554
+    },
+    {
+      "name": "yorukot/superfile",
+      "daily_gain": 600
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 349
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "daily_gain": 849
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 442
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 980
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "daily_gain": 179
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "daily_gain": 412
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "daily_gain": 5
+    },
+    {
+      "name": "apache/cassandra",
+      "daily_gain": 7
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 221
+    },
+    {
+      "name": "ocornut/imgui",
+      "daily_gain": 48
     }
   ]
 }
