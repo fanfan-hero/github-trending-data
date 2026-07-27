@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T12:45:11.932788Z",
+  "updated_at": "2026-07-27T23:41:10.810808Z",
   "projects": [
     {
       "name": "permissionlesstech/bitchat",
@@ -12,6 +12,10 @@
     {
       "name": "moeru-ai/airi",
       "daily_gain": 554
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "daily_gain": 420
     },
     {
       "name": "yorukot/superfile",
@@ -47,7 +51,7 @@
     },
     {
       "name": "apache/cassandra",
-      "daily_gain": 7
+      "daily_gain": 34
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -55,7 +59,7 @@
     },
     {
       "name": "ocornut/imgui",
-      "daily_gain": 48
+      "daily_gain": 64
     }
   ]
 }
