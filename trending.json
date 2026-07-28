@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-27T23:41:10.810808Z",
+  "updated_at": "2026-07-28T06:12:57.871701Z",
   "projects": [
     {
       "name": "permissionlesstech/bitchat",
-      "daily_gain": 2344
+      "daily_gain": 2346
     },
     {
       "name": "amnezia-vpn/amnezia-client",
@@ -11,7 +11,7 @@
     },
     {
       "name": "moeru-ai/airi",
-      "daily_gain": 554
+      "daily_gain": 572
     },
     {
       "name": "opengeos/GeoLibre",
@@ -23,43 +23,43 @@
     },
     {
       "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 349
+      "daily_gain": 362
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 849
+      "daily_gain": 847
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 442
+      "daily_gain": 441
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 980
+      "daily_gain": 979
     },
     {
       "name": "jenkinsci/jenkins",
-      "daily_gain": 179
+      "daily_gain": 180
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 412
+      "daily_gain": 434
     },
     {
       "name": "vudovn/ag-kit",
-      "daily_gain": 5
+      "daily_gain": 14
     },
     {
       "name": "apache/cassandra",
-      "daily_gain": 34
+      "daily_gain": 11
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 221
+      "daily_gain": 240
     },
     {
       "name": "ocornut/imgui",
-      "daily_gain": 64
+      "daily_gain": 51
     }
   ]
 }
