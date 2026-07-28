@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-28T11:46:18.393977Z",
+  "updated_at": "2026-07-28T23:36:09.108007Z",
   "projects": [
     {
       "name": "pascalorg/editor",
-      "daily_gain": 412
+      "daily_gain": 415
     },
     {
       "name": "jenkinsci/jenkins",
@@ -11,15 +11,15 @@
     },
     {
       "name": "moeru-ai/airi",
-      "daily_gain": 572
+      "daily_gain": 796
     },
     {
       "name": "andrewyng/aisuite",
-      "daily_gain": 185
+      "daily_gain": 92
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 458
+      "daily_gain": 692
     },
     {
       "name": "huggingface/speech-to-speech",
@@ -31,11 +31,11 @@
     },
     {
       "name": "opengeos/GeoLibre",
-      "daily_gain": 420
+      "daily_gain": 743
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 113
+      "daily_gain": 402
     },
     {
       "name": "microsoft/agent-governance-toolkit",
@@ -43,11 +43,11 @@
     },
     {
       "name": "yorukot/superfile",
-      "daily_gain": 600
+      "daily_gain": 660
     },
     {
       "name": "bradautomates/claude-video",
-      "daily_gain": 434
+      "daily_gain": 989
     }
   ]
 }
