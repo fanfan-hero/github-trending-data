@@ -1,65 +1,53 @@
 {
-  "updated_at": "2026-07-28T06:12:57.871701Z",
+  "updated_at": "2026-07-28T11:46:18.393977Z",
   "projects": [
     {
-      "name": "permissionlesstech/bitchat",
-      "daily_gain": 2346
-    },
-    {
-      "name": "amnezia-vpn/amnezia-client",
-      "daily_gain": 515
-    },
-    {
-      "name": "moeru-ai/airi",
-      "daily_gain": 572
-    },
-    {
-      "name": "opengeos/GeoLibre",
-      "daily_gain": 420
-    },
-    {
-      "name": "yorukot/superfile",
-      "daily_gain": 600
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 362
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 847
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 441
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 979
+      "name": "pascalorg/editor",
+      "daily_gain": 412
     },
     {
       "name": "jenkinsci/jenkins",
       "daily_gain": 180
     },
     {
+      "name": "moeru-ai/airi",
+      "daily_gain": 572
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "daily_gain": 185
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 458
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "daily_gain": 177
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "daily_gain": 366
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "daily_gain": 420
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "daily_gain": 113
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "daily_gain": 17
+    },
+    {
+      "name": "yorukot/superfile",
+      "daily_gain": 600
+    },
+    {
       "name": "bradautomates/claude-video",
       "daily_gain": 434
-    },
-    {
-      "name": "vudovn/ag-kit",
-      "daily_gain": 14
-    },
-    {
-      "name": "apache/cassandra",
-      "daily_gain": 11
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 240
-    },
-    {
-      "name": "ocornut/imgui",
-      "daily_gain": 51
     }
   ]
 }
