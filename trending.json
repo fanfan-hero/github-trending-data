@@ -1,57 +1,73 @@
 {
-  "updated_at": "2026-07-29T06:17:01.575293Z",
+  "updated_at": "2026-07-29T11:49:35.772091Z",
   "projects": [
     {
-      "name": "pascalorg/editor",
-      "daily_gain": 341
-    },
-    {
-      "name": "jenkinsci/jenkins",
-      "daily_gain": 180
+      "name": "opengeos/GeoLibre",
+      "daily_gain": 607
     },
     {
       "name": "moeru-ai/airi",
       "daily_gain": 797
     },
     {
-      "name": "andrewyng/aisuite",
-      "daily_gain": 62
-    },
-    {
       "name": "affaan-m/ECC",
       "daily_gain": 636
-    },
-    {
-      "name": "hello245m/free-stockdb",
-      "daily_gain": 50
     },
     {
       "name": "huggingface/speech-to-speech",
       "daily_gain": 227
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "daily_gain": 423
+      "name": "1jehuang/jcode",
+      "daily_gain": 652
     },
     {
-      "name": "opengeos/GeoLibre",
-      "daily_gain": 607
+      "name": "grokability/snipe-it",
+      "daily_gain": 6
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "daily_gain": 135
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "daily_gain": 332
+    },
+    {
+      "name": "different-ai/openwork",
+      "daily_gain": 58
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 634
+    },
+    {
+      "name": "MoonshotAI/FlashKDA",
+      "daily_gain": 216
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 794
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 918
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "daily_gain": 309
     },
     {
-      "name": "microsoft/agent-governance-toolkit",
-      "daily_gain": 46
+      "name": "maderix/ANE",
+      "daily_gain": 13
     },
     {
-      "name": "yorukot/superfile",
-      "daily_gain": 662
+      "name": "pascalorg/editor",
+      "daily_gain": 341
     },
     {
-      "name": "bradautomates/claude-video",
-      "daily_gain": 988
+      "name": "virgiliojr94/book-to-skill",
+      "daily_gain": 423
     }
   ]
 }
