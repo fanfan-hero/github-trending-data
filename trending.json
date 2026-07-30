@@ -1,73 +1,61 @@
 {
-  "updated_at": "2026-07-30T06:11:09.489873Z",
+  "updated_at": "2026-07-30T11:33:41.670572Z",
   "projects": [
-    {
-      "name": "opengeos/GeoLibre",
-      "daily_gain": 671
-    },
-    {
-      "name": "moeru-ai/airi",
-      "daily_gain": 682
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 857
-    },
     {
       "name": "huggingface/speech-to-speech",
       "daily_gain": 827
     },
     {
-      "name": "1jehuang/jcode",
-      "daily_gain": 640
-    },
-    {
-      "name": "grokability/snipe-it",
-      "daily_gain": 164
-    },
-    {
-      "name": "deepfakes/faceswap",
-      "daily_gain": 166
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "daily_gain": 336
-    },
-    {
-      "name": "different-ai/openwork",
-      "daily_gain": 97
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 616
-    },
-    {
-      "name": "MoonshotAI/FlashKDA",
-      "daily_gain": 91
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 154
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 359
+      "name": "microsoft/AI-For-Beginners",
+      "daily_gain": 115
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "daily_gain": 945
     },
     {
-      "name": "maderix/ANE",
-      "daily_gain": 22
+      "name": "different-ai/openwork",
+      "daily_gain": 97
+    },
+    {
+      "name": "WhiskeySockets/Baileys",
+      "daily_gain": 12
     },
     {
       "name": "pascalorg/editor",
       "daily_gain": 1022
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "daily_gain": 1421
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 377
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "daily_gain": 5
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "daily_gain": 68
+    },
+    {
+      "name": "ansible/ansible",
+      "daily_gain": 20
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "daily_gain": 73
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "daily_gain": 180
+    },
+    {
+      "name": "agavra/tuicr",
+      "daily_gain": 338
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 857
     }
   ]
 }
