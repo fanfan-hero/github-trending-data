@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-07-29T23:38:49.507464Z",
+  "updated_at": "2026-07-30T06:11:09.489873Z",
   "projects": [
     {
       "name": "opengeos/GeoLibre",
-      "daily_gain": 667
+      "daily_gain": 671
     },
     {
       "name": "moeru-ai/airi",
-      "daily_gain": 676
+      "daily_gain": 682
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 860
+      "daily_gain": 857
     },
     {
       "name": "huggingface/speech-to-speech",
-      "daily_gain": 837
+      "daily_gain": 827
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 652
+      "daily_gain": 640
     },
     {
       "name": "grokability/snipe-it",
-      "daily_gain": 197
+      "daily_gain": 164
     },
     {
       "name": "deepfakes/faceswap",
-      "daily_gain": 135
+      "daily_gain": 166
     },
     {
       "name": "microsoft/VibeVoice",
-      "daily_gain": 332
+      "daily_gain": 336
     },
     {
       "name": "different-ai/openwork",
-      "daily_gain": 58
+      "daily_gain": 97
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 686
+      "daily_gain": 616
     },
     {
       "name": "MoonshotAI/FlashKDA",
-      "daily_gain": 216
+      "daily_gain": 91
     },
     {
       "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 187
+      "daily_gain": 154
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 386
+      "daily_gain": 359
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 950
+      "daily_gain": 945
     },
     {
       "name": "maderix/ANE",
-      "daily_gain": 13
+      "daily_gain": 22
     },
     {
       "name": "pascalorg/editor",
-      "daily_gain": 1026
+      "daily_gain": 1022
     },
     {
       "name": "virgiliojr94/book-to-skill",
-      "daily_gain": 1428
+      "daily_gain": 1421
     }
   ]
 }
