@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-30T11:33:41.670572Z",
+  "updated_at": "2026-07-30T23:38:25.846036Z",
   "projects": [
     {
       "name": "huggingface/speech-to-speech",
-      "daily_gain": 827
+      "daily_gain": 627
     },
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 115
+      "daily_gain": 657
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 945
+      "daily_gain": 628
     },
     {
       "name": "different-ai/openwork",
-      "daily_gain": 97
+      "daily_gain": 916
     },
     {
       "name": "WhiskeySockets/Baileys",
@@ -23,7 +23,7 @@
     },
     {
       "name": "pascalorg/editor",
-      "daily_gain": 1022
+      "daily_gain": 617
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -47,15 +47,15 @@
     },
     {
       "name": "jenkinsci/jenkins",
-      "daily_gain": 180
+      "daily_gain": 53
     },
     {
       "name": "agavra/tuicr",
-      "daily_gain": 338
+      "daily_gain": 232
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 857
+      "daily_gain": 810
     }
   ]
 }
