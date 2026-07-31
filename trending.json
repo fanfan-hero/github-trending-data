@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-07-30T23:38:25.846036Z",
+  "updated_at": "2026-07-31T06:32:13.242250Z",
   "projects": [
     {
       "name": "huggingface/speech-to-speech",
-      "daily_gain": 627
-    },
-    {
-      "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 657
-    },
-    {
-      "name": "paperswithbacktest/awesome-systematic-trading",
       "daily_gain": 628
     },
     {
+      "name": "microsoft/AI-For-Beginners",
+      "daily_gain": 155
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "daily_gain": 621
+    },
+    {
       "name": "different-ai/openwork",
-      "daily_gain": 916
+      "daily_gain": 915
     },
     {
       "name": "WhiskeySockets/Baileys",
-      "daily_gain": 12
+      "daily_gain": 19
     },
     {
       "name": "pascalorg/editor",
-      "daily_gain": 617
+      "daily_gain": 625
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 377
+      "daily_gain": 378
     },
     {
       "name": "dotnet/aspnetcore",
-      "daily_gain": 5
+      "daily_gain": 7
     },
     {
       "name": "microsoft/PowerToys",
-      "daily_gain": 68
+      "daily_gain": 70
     },
     {
       "name": "ansible/ansible",
-      "daily_gain": 20
+      "daily_gain": 29
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 73
+      "daily_gain": 80
     },
     {
       "name": "jenkinsci/jenkins",
-      "daily_gain": 53
+      "daily_gain": 25
     },
     {
       "name": "agavra/tuicr",
-      "daily_gain": 232
+      "daily_gain": 190
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 810
+      "daily_gain": 804
     }
   ]
 }
