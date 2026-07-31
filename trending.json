@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:48:54.484558Z",
+  "updated_at": "2026-07-31T23:39:03.253377Z",
   "projects": [
     {
       "name": "zhaoxuya520/reverse-skill",
@@ -7,19 +7,19 @@
     },
     {
       "name": "different-ai/openwork",
-      "daily_gain": 915
+      "daily_gain": 796
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 378
+      "daily_gain": 660
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 621
+      "daily_gain": 765
     },
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 155
+      "daily_gain": 1592
     },
     {
       "name": "chatwoot/chatwoot",
@@ -27,11 +27,11 @@
     },
     {
       "name": "agavra/tuicr",
-      "daily_gain": 53
+      "daily_gain": 175
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 190
+      "daily_gain": 336
     },
     {
       "name": "geo-tp/ESP32-Bit-Pirate",
@@ -39,11 +39,11 @@
     },
     {
       "name": "deepfakes/faceswap",
-      "daily_gain": 152
+      "daily_gain": 161
     },
     {
       "name": "1jehuang/jcode",
-      "daily_gain": 619
+      "daily_gain": 157
     }
   ]
 }
