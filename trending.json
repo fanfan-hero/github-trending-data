@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-02T11:07:09.588262Z",
+  "updated_at": "2026-08-02T23:37:28.338096Z",
   "projects": [
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 949
+      "daily_gain": 2617
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 760
+      "daily_gain": 491
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 242
+      "daily_gain": 963
     },
     {
       "name": "iv-org/invidious",
-      "daily_gain": 435
+      "daily_gain": 307
     },
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -23,15 +23,15 @@
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 1320
+      "daily_gain": 1145
     },
     {
       "name": "different-ai/openwork",
-      "daily_gain": 585
+      "daily_gain": 319
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 108
+      "daily_gain": 588
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -39,15 +39,15 @@
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 227
+      "daily_gain": 604
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 600
+      "daily_gain": 217
     },
     {
       "name": "NomaDamas/k-skill",
-      "daily_gain": 53
+      "daily_gain": 179
     },
     {
       "name": "HarbourMasters/Lighthouse",
@@ -55,11 +55,11 @@
     },
     {
       "name": "antirez/ds4",
-      "daily_gain": 150
+      "daily_gain": 187
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 274
+      "daily_gain": 389
     }
   ]
 }
