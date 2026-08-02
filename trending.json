@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-01T23:36:53.698940Z",
+  "updated_at": "2026-08-02T06:19:25.887602Z",
   "projects": [
     {
       "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 869
+      "daily_gain": 949
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 529
+      "daily_gain": 523
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 778
+      "daily_gain": 760
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 1360
+      "daily_gain": 1320
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 104
+      "daily_gain": 108
     },
     {
       "name": "huggingface/speech-to-speech",
-      "daily_gain": 145
+      "daily_gain": 142
     },
     {
       "name": "abus-aikorea/voice-pro",
-      "daily_gain": 90
+      "daily_gain": 46
     },
     {
       "name": "iv-org/invidious",
-      "daily_gain": 393
+      "daily_gain": 442
     },
     {
       "name": "ansible/ansible",
-      "daily_gain": 53
+      "daily_gain": 58
     },
     {
       "name": "microsoft/TRELLIS.2",
-      "daily_gain": 361
+      "daily_gain": 435
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 26
+      "daily_gain": 30
     },
     {
       "name": "NomaDamas/k-skill",
-      "daily_gain": 121
+      "daily_gain": 107
     },
     {
       "name": "bytedance/deer-flow",
-      "daily_gain": 342
+      "daily_gain": 227
     }
   ]
 }
