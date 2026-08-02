@@ -1,57 +1,65 @@
 {
-  "updated_at": "2026-08-02T06:19:25.887602Z",
+  "updated_at": "2026-08-02T11:07:09.588262Z",
   "projects": [
     {
       "name": "microsoft/AI-For-Beginners",
       "daily_gain": 949
     },
     {
-      "name": "paperswithbacktest/awesome-systematic-trading",
-      "daily_gain": 523
-    },
-    {
       "name": "usekaneo/kaneo",
       "daily_gain": 760
+    },
+    {
+      "name": "lyogavin/airllm",
+      "daily_gain": 242
+    },
+    {
+      "name": "iv-org/invidious",
+      "daily_gain": 435
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "daily_gain": 710
     },
     {
       "name": "zhaoxuya520/reverse-skill",
       "daily_gain": 1320
     },
     {
+      "name": "different-ai/openwork",
+      "daily_gain": 585
+    },
+    {
       "name": "microsoft/generative-ai-for-beginners",
       "daily_gain": 108
     },
     {
-      "name": "huggingface/speech-to-speech",
-      "daily_gain": 142
-    },
-    {
-      "name": "abus-aikorea/voice-pro",
-      "daily_gain": 46
-    },
-    {
-      "name": "iv-org/invidious",
-      "daily_gain": 442
-    },
-    {
-      "name": "ansible/ansible",
-      "daily_gain": 58
-    },
-    {
-      "name": "microsoft/TRELLIS.2",
-      "daily_gain": 435
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 645
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 30
+      "daily_gain": 227
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 600
     },
     {
       "name": "NomaDamas/k-skill",
-      "daily_gain": 107
+      "daily_gain": 53
     },
     {
-      "name": "bytedance/deer-flow",
-      "daily_gain": 227
+      "name": "HarbourMasters/Lighthouse",
+      "daily_gain": 62
+    },
+    {
+      "name": "antirez/ds4",
+      "daily_gain": 150
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "daily_gain": 274
     }
   ]
 }
