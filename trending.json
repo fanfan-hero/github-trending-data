@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T12:45:04.249139Z",
+  "updated_at": "2026-08-03T23:43:57.066598Z",
   "projects": [
     {
       "name": "lyogavin/airllm",
@@ -31,7 +31,7 @@
     },
     {
       "name": "donnemartin/system-design-primer",
-      "daily_gain": 138
+      "daily_gain": 323
     },
     {
       "name": "antirez/ds4",
@@ -63,7 +63,7 @@
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 225
+      "daily_gain": 443
     }
   ]
 }
