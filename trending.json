@@ -1,65 +1,69 @@
 {
-  "updated_at": "2026-08-03T06:46:09.416176Z",
+  "updated_at": "2026-08-03T12:45:04.249139Z",
   "projects": [
     {
-      "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 2629
-    },
-    {
-      "name": "usekaneo/kaneo",
-      "daily_gain": 496
-    },
-    {
       "name": "lyogavin/airllm",
-      "daily_gain": 819
-    },
-    {
-      "name": "iv-org/invidious",
-      "daily_gain": 305
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "daily_gain": 674
+      "daily_gain": 1081
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 1141
+      "daily_gain": 2442
     },
     {
-      "name": "different-ai/openwork",
-      "daily_gain": 280
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 588
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 659
-    },
-    {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 602
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 206
-    },
-    {
-      "name": "NomaDamas/k-skill",
-      "daily_gain": 177
-    },
-    {
-      "name": "HarbourMasters/Lighthouse",
-      "daily_gain": 65
-    },
-    {
-      "name": "antirez/ds4",
-      "daily_gain": 139
+      "name": "firecrawl/pdf-inspector",
+      "daily_gain": 1769
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 333
+      "daily_gain": 877
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "daily_gain": 1091
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "daily_gain": 1902
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "daily_gain": 776
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "daily_gain": 138
+    },
+    {
+      "name": "antirez/ds4",
+      "daily_gain": 385
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 217
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 1052
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "daily_gain": 291
+    },
+    {
+      "name": "iv-org/invidious",
+      "daily_gain": 403
+    },
+    {
+      "name": "livekit/agents",
+      "daily_gain": 129
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "daily_gain": 663
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "daily_gain": 225
     }
   ]
 }
