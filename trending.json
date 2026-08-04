@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T23:43:57.066598Z",
+  "updated_at": "2026-08-04T06:14:05.830692Z",
   "projects": [
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 1081
+      "daily_gain": 1085
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 2442
+      "daily_gain": 2446
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1769
+      "daily_gain": 1699
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 877
+      "daily_gain": 883
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1091
+      "daily_gain": 1090
     },
     {
       "name": "microsoft/AI-For-Beginners",
@@ -27,43 +27,43 @@
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 776
+      "daily_gain": 775
     },
     {
       "name": "donnemartin/system-design-primer",
-      "daily_gain": 323
+      "daily_gain": 237
     },
     {
       "name": "antirez/ds4",
-      "daily_gain": 385
+      "daily_gain": 384
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 217
+      "daily_gain": 200
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1052
+      "daily_gain": 1057
     },
     {
       "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 291
+      "daily_gain": 278
     },
     {
       "name": "iv-org/invidious",
-      "daily_gain": 403
+      "daily_gain": 402
     },
     {
       "name": "livekit/agents",
-      "daily_gain": 129
+      "daily_gain": 148
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 663
+      "daily_gain": 665
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 443
+      "daily_gain": 412
     }
   ]
 }
