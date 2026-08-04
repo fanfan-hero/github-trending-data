@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-04T06:14:05.830692Z",
+  "updated_at": "2026-08-04T11:49:21.495953Z",
   "projects": [
     {
-      "name": "lyogavin/airllm",
-      "daily_gain": 1085
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "daily_gain": 1090
     },
     {
       "name": "zhaoxuya520/reverse-skill",
@@ -14,56 +14,64 @@
       "daily_gain": 1699
     },
     {
-      "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 883
+      "name": "uber/ADR",
+      "daily_gain": 140
     },
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1090
-    },
-    {
-      "name": "microsoft/AI-For-Beginners",
-      "daily_gain": 1902
+      "name": "obra/superpowers",
+      "daily_gain": 617
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
       "daily_gain": 775
     },
     {
-      "name": "donnemartin/system-design-primer",
-      "daily_gain": 237
+      "name": "cypress-io/cypress",
+      "daily_gain": 6
     },
     {
-      "name": "antirez/ds4",
-      "daily_gain": 384
+      "name": "lyogavin/airllm",
+      "daily_gain": 1085
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 200
+      "name": "webpack/webpack",
+      "daily_gain": 8
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1057
+      "name": "gabime/spdlog",
+      "daily_gain": 9
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 278
-    },
-    {
-      "name": "iv-org/invidious",
-      "daily_gain": 402
-    },
-    {
-      "name": "livekit/agents",
-      "daily_gain": 148
+      "name": "denoland/deno",
+      "daily_gain": 27
     },
     {
       "name": "usekaneo/kaneo",
       "daily_gain": 665
     },
     {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 412
+      "name": "livekit/agents",
+      "daily_gain": 148
+    },
+    {
+      "name": "angular/angular",
+      "daily_gain": 8
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "daily_gain": 30
+    },
+    {
+      "name": "browser-use/video-use",
+      "daily_gain": 306
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "daily_gain": 883
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "daily_gain": 33
     }
   ]
 }
