@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-04T11:49:21.495953Z",
+  "updated_at": "2026-08-04T23:39:14.567647Z",
   "projects": [
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1090
+      "daily_gain": 1138
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 2446
+      "daily_gain": 2310
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1699
+      "daily_gain": 2524
     },
     {
       "name": "uber/ADR",
@@ -19,11 +19,11 @@
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 617
+      "daily_gain": 777
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 775
+      "daily_gain": 784
     },
     {
       "name": "cypress-io/cypress",
@@ -31,7 +31,7 @@
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 1085
+      "daily_gain": 1716
     },
     {
       "name": "webpack/webpack",
@@ -47,11 +47,11 @@
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 665
+      "daily_gain": 565
     },
     {
       "name": "livekit/agents",
-      "daily_gain": 148
+      "daily_gain": 432
     },
     {
       "name": "angular/angular",
@@ -67,7 +67,7 @@
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 883
+      "daily_gain": 924
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
