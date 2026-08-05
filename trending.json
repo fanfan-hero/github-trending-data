@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-04T23:39:14.567647Z",
+  "updated_at": "2026-08-05T06:10:26.982138Z",
   "projects": [
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1138
+      "daily_gain": 1111
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 2310
+      "daily_gain": 2297
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 2524
+      "daily_gain": 2540
     },
     {
       "name": "uber/ADR",
-      "daily_gain": 140
+      "daily_gain": 148
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 777
+      "daily_gain": 653
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
-      "daily_gain": 784
+      "daily_gain": 783
     },
     {
       "name": "cypress-io/cypress",
-      "daily_gain": 6
+      "daily_gain": 11
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 1716
+      "daily_gain": 1711
     },
     {
       "name": "webpack/webpack",
-      "daily_gain": 8
+      "daily_gain": 10
     },
     {
       "name": "gabime/spdlog",
-      "daily_gain": 9
+      "daily_gain": 10
     },
     {
       "name": "denoland/deno",
-      "daily_gain": 27
+      "daily_gain": 31
     },
     {
       "name": "usekaneo/kaneo",
-      "daily_gain": 565
+      "daily_gain": 559
     },
     {
       "name": "livekit/agents",
@@ -55,23 +55,23 @@
     },
     {
       "name": "angular/angular",
-      "daily_gain": 8
+      "daily_gain": 13
     },
     {
       "name": "tailwindlabs/tailwindcss",
-      "daily_gain": 30
+      "daily_gain": 52
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 306
+      "daily_gain": 320
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 924
+      "daily_gain": 922
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
-      "daily_gain": 33
+      "daily_gain": 40
     }
   ]
 }
