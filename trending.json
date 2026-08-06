@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T23:34:58.337958Z",
+  "updated_at": "2026-08-06T06:14:08.519974Z",
   "projects": [
     {
       "name": "cloudflare/computer",
-      "daily_gain": 796
+      "daily_gain": 891
     },
     {
       "name": "huangruiteng/loopx",
-      "daily_gain": 327
+      "daily_gain": 326
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1891
+      "daily_gain": 1892
     },
     {
       "name": "donnemartin/system-design-primer",
-      "daily_gain": 304
+      "daily_gain": 303
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1583
+      "daily_gain": 1582
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
@@ -27,7 +27,7 @@
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 203
+      "daily_gain": 226
     },
     {
       "name": "obra/superpowers",
@@ -35,11 +35,11 @@
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 132
+      "daily_gain": 146
     },
     {
       "name": "vercel/next.js",
-      "daily_gain": 144
+      "daily_gain": 68
     },
     {
       "name": "tailwindlabs/tailwindcss",
