@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-06T06:14:08.519974Z",
+  "updated_at": "2026-08-06T11:51:28.132651Z",
   "projects": [
-    {
-      "name": "cloudflare/computer",
-      "daily_gain": 891
-    },
-    {
-      "name": "huangruiteng/loopx",
-      "daily_gain": 326
-    },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "daily_gain": 1892
-    },
-    {
-      "name": "donnemartin/system-design-primer",
-      "daily_gain": 303
-    },
-    {
-      "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1582
-    },
-    {
-      "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 747
     },
     {
       "name": "addyosmani/agent-skills",
       "daily_gain": 226
     },
     {
+      "name": "cloudflare/computer",
+      "daily_gain": 891
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1695
+    },
+    {
+      "name": "goauthentik/authentik",
+      "daily_gain": 123
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "daily_gain": 326
+    },
+    {
+      "name": "google/guava",
+      "daily_gain": 9
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "daily_gain": 157
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "daily_gain": 28
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "daily_gain": 232
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "daily_gain": 747
+    },
+    {
       "name": "obra/superpowers",
       "daily_gain": 931
     },
     {
-      "name": "roboflow/supervision",
-      "daily_gain": 146
-    },
-    {
-      "name": "vercel/next.js",
-      "daily_gain": 68
-    },
-    {
-      "name": "tailwindlabs/tailwindcss",
-      "daily_gain": 408
-    },
-    {
-      "name": "uber/ADR",
-      "daily_gain": 354
-    },
-    {
-      "name": "lyogavin/airllm",
-      "daily_gain": 833
+      "name": "firecrawl/pdf-inspector",
+      "daily_gain": 1582
     }
   ]
 }
