@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-06T11:51:28.132651Z",
+  "updated_at": "2026-08-07T01:37:10.300549Z",
   "projects": [
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1892
+      "daily_gain": 1057
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 226
+      "daily_gain": 593
     },
     {
       "name": "cloudflare/computer",
-      "daily_gain": 891
+      "daily_gain": 2802
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1695
+      "daily_gain": 1873
     },
     {
       "name": "goauthentik/authentik",
-      "daily_gain": 123
+      "daily_gain": 138
     },
     {
       "name": "huangruiteng/loopx",
-      "daily_gain": 326
+      "daily_gain": 847
     },
     {
       "name": "google/guava",
-      "daily_gain": 9
+      "daily_gain": 13
     },
     {
       "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 157
+      "daily_gain": 134
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
-      "daily_gain": 28
+      "daily_gain": 37
     },
     {
       "name": "tirth8205/code-review-graph",
-      "daily_gain": 232
+      "daily_gain": 237
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 747
+      "daily_gain": 888
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 931
+      "daily_gain": 858
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1582
+      "daily_gain": 1190
     }
   ]
 }
