@@ -1,57 +1,73 @@
 {
-  "updated_at": "2026-08-07T10:36:05.563807Z",
+  "updated_at": "2026-08-07T23:15:18.250717Z",
   "projects": [
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "daily_gain": 1057
+      "name": "PrimeIntellect-ai/prime-agent",
+      "daily_gain": 2271
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 593
+      "daily_gain": 1131
     },
     {
       "name": "cloudflare/computer",
-      "daily_gain": 2802
+      "daily_gain": 894
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1873
-    },
-    {
-      "name": "goauthentik/authentik",
-      "daily_gain": 138
-    },
-    {
-      "name": "huangruiteng/loopx",
-      "daily_gain": 847
-    },
-    {
-      "name": "google/guava",
-      "daily_gain": 13
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 134
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "daily_gain": 37
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "daily_gain": 237
-    },
-    {
-      "name": "esengine/DeepSeek-Reasonix",
-      "daily_gain": 888
+      "daily_gain": 2180
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 858
+      "daily_gain": 794
     },
     {
-      "name": "firecrawl/pdf-inspector",
-      "daily_gain": 1190
+      "name": "goauthentik/authentik",
+      "daily_gain": 544
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "daily_gain": 118
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "daily_gain": 126
+    },
+    {
+      "name": "chenyme/grok2api",
+      "daily_gain": 62
+    },
+    {
+      "name": "jdx/mise",
+      "daily_gain": 130
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "daily_gain": 363
+    },
+    {
+      "name": "google/guava",
+      "daily_gain": 156
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "daily_gain": 85
+    },
+    {
+      "name": "denoland/celld",
+      "daily_gain": 546
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "daily_gain": 64
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "daily_gain": 308
+    },
+    {
+      "name": "google/skills",
+      "daily_gain": 305
     }
   ]
 }
