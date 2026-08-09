@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-09T10:16:25.649388Z",
+  "updated_at": "2026-08-09T23:03:46.651287Z",
   "projects": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 2483
+      "daily_gain": 2319
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "daily_gain": 59
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 932
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "daily_gain": 342
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "daily_gain": 105
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 779
+      "daily_gain": 670
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 118
-    },
-    {
-      "name": "google/skills",
-      "daily_gain": 481
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 1359
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 287
     },
     {
       "name": "goauthentik/authentik",
-      "daily_gain": 467
+      "daily_gain": 312
     },
     {
-      "name": "TauricResearch/TradingAgents",
-      "daily_gain": 153
+      "name": "google/skills",
+      "daily_gain": 532
     },
     {
-      "name": "google/guava",
-      "daily_gain": 93
+      "name": "Comfy-Org/ComfyUI",
+      "daily_gain": 333
     },
     {
-      "name": "LadybirdBrowser/ladybird",
-      "daily_gain": 48
+      "name": "harveyai/harvey-labs",
+      "daily_gain": 87
     },
     {
-      "name": "denoland/celld",
-      "daily_gain": 432
-    },
-    {
-      "name": "litu54/DevOps-Interview-Guide",
-      "daily_gain": 68
-    },
-    {
-      "name": "bannedbook/fanqiang",
-      "daily_gain": 101
+      "name": "pingdotgg/t3code",
+      "daily_gain": 208
     }
   ]
 }
