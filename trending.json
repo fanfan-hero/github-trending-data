@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:02:08.561513Z",
+  "updated_at": "2026-08-09T04:49:20.797014Z",
   "projects": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -7,11 +7,11 @@
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 778
+      "daily_gain": 779
     },
     {
       "name": "TapXWorld/ChinaTextbook",
-      "daily_gain": 591
+      "daily_gain": 118
     },
     {
       "name": "google/skills",
@@ -19,7 +19,7 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1354
+      "daily_gain": 1359
     },
     {
       "name": "goauthentik/authentik",
@@ -27,7 +27,7 @@
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 126
+      "daily_gain": 153
     },
     {
       "name": "google/guava",
@@ -35,7 +35,7 @@
     },
     {
       "name": "LadybirdBrowser/ladybird",
-      "daily_gain": 79
+      "daily_gain": 48
     },
     {
       "name": "denoland/celld",
@@ -43,11 +43,11 @@
     },
     {
       "name": "litu54/DevOps-Interview-Guide",
-      "daily_gain": 59
+      "daily_gain": 68
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 161
+      "daily_gain": 101
     }
   ]
 }
