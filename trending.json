@@ -1,53 +1,69 @@
 {
-  "updated_at": "2026-08-10T10:48:15.062123Z",
+  "updated_at": "2026-08-10T23:15:50.227308Z",
   "projects": [
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 2356
-    },
-    {
-      "name": "vitali87/code-graph-rag",
-      "daily_gain": 96
+      "name": "semantica-agi/semantica",
+      "daily_gain": 967
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 858
+      "daily_gain": 1352
     },
     {
-      "name": "pranshuparmar/witr",
-      "daily_gain": 210
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "daily_gain": 86
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 215
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 680
+      "daily_gain": 659
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 306
+      "name": "paperclipai/paperclip",
+      "daily_gain": 167
     },
     {
-      "name": "goauthentik/authentik",
-      "daily_gain": 310
+      "name": "PrimeIntellect-ai/prime-agent",
+      "daily_gain": 2655
     },
     {
-      "name": "google/skills",
-      "daily_gain": 528
+      "name": "LadybirdBrowser/ladybird",
+      "daily_gain": 106
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 365
+      "name": "ruvnet/RuView",
+      "daily_gain": 186
     },
     {
-      "name": "harveyai/harvey-labs",
-      "daily_gain": 47
+      "name": "danielmiessler/LifeOS",
+      "daily_gain": 357
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "daily_gain": 815
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 234
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "daily_gain": 327
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "daily_gain": 682
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 163
+      "daily_gain": 388
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "daily_gain": 921
+    },
+    {
+      "name": "opa334/Dopamine",
+      "daily_gain": 174
     }
   ]
 }
