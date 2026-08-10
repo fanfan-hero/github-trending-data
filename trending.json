@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-09T23:03:46.651287Z",
+  "updated_at": "2026-08-10T05:08:34.232039Z",
   "projects": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 2319
+      "daily_gain": 2356
     },
     {
       "name": "vitali87/code-graph-rag",
-      "daily_gain": 59
+      "daily_gain": 96
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 932
+      "daily_gain": 858
     },
     {
       "name": "pranshuparmar/witr",
-      "daily_gain": 342
+      "daily_gain": 210
     },
     {
       "name": "google-deepmind/weathernext",
-      "daily_gain": 105
+      "daily_gain": 86
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 670
+      "daily_gain": 680
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 287
+      "daily_gain": 306
     },
     {
       "name": "goauthentik/authentik",
-      "daily_gain": 312
+      "daily_gain": 310
     },
     {
       "name": "google/skills",
-      "daily_gain": 532
+      "daily_gain": 528
     },
     {
       "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 333
+      "daily_gain": 365
     },
     {
       "name": "harveyai/harvey-labs",
-      "daily_gain": 87
+      "daily_gain": 47
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 208
+      "daily_gain": 163
     }
   ]
 }
