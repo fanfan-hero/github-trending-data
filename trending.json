@@ -1,69 +1,73 @@
 {
-  "updated_at": "2026-08-11T10:35:26.491181Z",
+  "updated_at": "2026-08-11T23:21:29.865952Z",
   "projects": [
     {
-      "name": "semantica-agi/semantica",
-      "daily_gain": 970
-    },
-    {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1349
+      "daily_gain": 971
     },
     {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 259
+      "name": "semantica-agi/semantica",
+      "daily_gain": 884
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "daily_gain": 18
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 659
+      "daily_gain": 571
     },
     {
-      "name": "paperclipai/paperclip",
-      "daily_gain": 198
-    },
-    {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 2642
-    },
-    {
-      "name": "LadybirdBrowser/ladybird",
-      "daily_gain": 56
-    },
-    {
-      "name": "ruvnet/RuView",
-      "daily_gain": 154
-    },
-    {
-      "name": "danielmiessler/LifeOS",
-      "daily_gain": 315
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "daily_gain": 835
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "daily_gain": 177
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "daily_gain": 325
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 317
     },
     {
       "name": "vitali87/code-graph-rag",
-      "daily_gain": 682
+      "daily_gain": 339
     },
     {
-      "name": "pingdotgg/t3code",
-      "daily_gain": 389
+      "name": "anthropics/skills",
+      "daily_gain": 468
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 922
+      "name": "3b1b/manim",
+      "daily_gain": 246
     },
     {
-      "name": "opa334/Dopamine",
-      "daily_gain": 111
+      "name": "HKUDS/DeepTutor",
+      "daily_gain": 829
+    },
+    {
+      "name": "stablyai/orca",
+      "daily_gain": 881
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "daily_gain": 743
+    },
+    {
+      "name": "huggingface/transformers",
+      "daily_gain": 69
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "daily_gain": 24
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "daily_gain": 334
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 436
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "daily_gain": 394
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "daily_gain": 1148
     }
   ]
 }
