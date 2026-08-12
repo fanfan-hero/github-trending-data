@@ -1,77 +1,73 @@
 {
-  "updated_at": "2026-08-12T10:43:47.071197Z",
+  "updated_at": "2026-08-12T23:20:52.040835Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1616
+      "daily_gain": 2951
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 958
+      "name": "macro-inc/macro",
+      "daily_gain": 325
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 893
-    },
-    {
-      "name": "nvm-sh/nvm",
-      "daily_gain": 22
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 578
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 243
-    },
-    {
-      "name": "vitali87/code-graph-rag",
-      "daily_gain": 341
-    },
-    {
-      "name": "anthropics/skills",
-      "daily_gain": 485
-    },
-    {
-      "name": "3b1b/manim",
-      "daily_gain": 197
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "daily_gain": 812
+      "daily_gain": 834
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 875
+      "daily_gain": 1215
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 1969
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 277
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "daily_gain": 236
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "daily_gain": 364
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "daily_gain": 182
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 748
+      "daily_gain": 573
     },
     {
-      "name": "huggingface/transformers",
-      "daily_gain": 80
+      "name": "NVIDIA-NeMo/Switchyard",
+      "daily_gain": 370
     },
     {
-      "name": "harveyai/harvey-labs",
-      "daily_gain": 28
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "daily_gain": 53
     },
     {
-      "name": "jaywcjlove/awesome-mac",
-      "daily_gain": 298
+      "name": "smicallef/spiderfoot",
+      "daily_gain": 40
     },
     {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 458
+      "name": "localsend/localsend",
+      "daily_gain": 284
     },
     {
-      "name": "practical-tutorials/project-based-learning",
-      "daily_gain": 401
+      "name": "Lightricks/LTX-2",
+      "daily_gain": 40
     },
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 1138
+      "name": "embabel/embabel-agent",
+      "daily_gain": 29
+    },
+    {
+      "name": "cactus-compute/needle",
+      "daily_gain": 346
     }
   ]
 }
