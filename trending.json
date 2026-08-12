@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-11T23:21:29.865952Z",
+  "updated_at": "2026-08-12T05:17:11.912544Z",
   "projects": [
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 971
+      "daily_gain": 958
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 884
+      "daily_gain": 893
     },
     {
       "name": "nvm-sh/nvm",
-      "daily_gain": 18
+      "daily_gain": 22
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 571
+      "daily_gain": 578
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 317
+      "daily_gain": 243
     },
     {
       "name": "vitali87/code-graph-rag",
-      "daily_gain": 339
+      "daily_gain": 341
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 468
+      "daily_gain": 485
     },
     {
       "name": "3b1b/manim",
-      "daily_gain": 246
+      "daily_gain": 197
     },
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 829
+      "daily_gain": 812
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 881
+      "daily_gain": 875
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 743
+      "daily_gain": 748
     },
     {
       "name": "huggingface/transformers",
-      "daily_gain": 69
+      "daily_gain": 80
     },
     {
       "name": "harveyai/harvey-labs",
-      "daily_gain": 24
+      "daily_gain": 28
     },
     {
       "name": "jaywcjlove/awesome-mac",
-      "daily_gain": 334
+      "daily_gain": 298
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 436
+      "daily_gain": 458
     },
     {
       "name": "practical-tutorials/project-based-learning",
-      "daily_gain": 394
+      "daily_gain": 401
     },
     {
       "name": "PrimeIntellect-ai/prime-agent",
-      "daily_gain": 1148
+      "daily_gain": 1138
     }
   ]
 }
