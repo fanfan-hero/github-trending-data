@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-13T10:45:16.659252Z",
+  "updated_at": "2026-08-13T23:22:30.166780Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 2855
-    },
-    {
-      "name": "macro-inc/macro",
-      "daily_gain": 227
+      "daily_gain": 4504
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 845
+      "daily_gain": 727
     },
     {
-      "name": "stablyai/orca",
-      "daily_gain": 1235
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 1873
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 266
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 215
-    },
-    {
-      "name": "hugohe3/ppt-master",
-      "daily_gain": 476
-    },
-    {
-      "name": "infiniflow/ragflow",
-      "daily_gain": 139
-    },
-    {
-      "name": "paperclipai/paperclip",
-      "daily_gain": 571
-    },
-    {
-      "name": "NVIDIA-NeMo/Switchyard",
-      "daily_gain": 421
-    },
-    {
-      "name": "ZuodaoTech/everyone-can-use-english",
-      "daily_gain": 86
-    },
-    {
-      "name": "smicallef/spiderfoot",
-      "daily_gain": 74
-    },
-    {
-      "name": "localsend/localsend",
-      "daily_gain": 213
-    },
-    {
-      "name": "Lightricks/LTX-2",
-      "daily_gain": 65
-    },
-    {
-      "name": "embabel/embabel-agent",
-      "daily_gain": 40
+      "name": "anthropics/skills",
+      "daily_gain": 383
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 315
+      "daily_gain": 768
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "daily_gain": 187
+    },
+    {
+      "name": "unslothai/unsloth",
+      "daily_gain": 354
+    },
+    {
+      "name": "macro-inc/macro",
+      "daily_gain": 1180
+    },
+    {
+      "name": "megadose/holehe",
+      "daily_gain": 166
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "daily_gain": 278
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "daily_gain": 408
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "daily_gain": 380
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "daily_gain": 411
+    },
+    {
+      "name": "3b1b/manim",
+      "daily_gain": 204
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 762
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "daily_gain": 201
+    },
+    {
+      "name": "lightningpixel/modly",
+      "daily_gain": 221
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "daily_gain": 473
     }
   ]
 }
