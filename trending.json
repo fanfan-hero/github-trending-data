@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-12T23:20:52.040835Z",
+  "updated_at": "2026-08-13T05:21:09.382243Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 2951
+      "daily_gain": 2855
     },
     {
       "name": "macro-inc/macro",
-      "daily_gain": 325
+      "daily_gain": 227
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 834
+      "daily_gain": 845
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1215
+      "daily_gain": 1235
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 1969
+      "daily_gain": 1873
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 277
+      "daily_gain": 266
     },
     {
       "name": "NanmiCoder/MediaCrawler",
-      "daily_gain": 236
+      "daily_gain": 215
     },
     {
       "name": "hugohe3/ppt-master",
-      "daily_gain": 364
+      "daily_gain": 476
     },
     {
       "name": "infiniflow/ragflow",
-      "daily_gain": 182
+      "daily_gain": 139
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 573
+      "daily_gain": 571
     },
     {
       "name": "NVIDIA-NeMo/Switchyard",
-      "daily_gain": 370
+      "daily_gain": 421
     },
     {
       "name": "ZuodaoTech/everyone-can-use-english",
-      "daily_gain": 53
+      "daily_gain": 86
     },
     {
       "name": "smicallef/spiderfoot",
-      "daily_gain": 40
+      "daily_gain": 74
     },
     {
       "name": "localsend/localsend",
-      "daily_gain": 284
+      "daily_gain": 213
     },
     {
       "name": "Lightricks/LTX-2",
-      "daily_gain": 40
+      "daily_gain": 65
     },
     {
       "name": "embabel/embabel-agent",
-      "daily_gain": 29
+      "daily_gain": 40
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 346
+      "daily_gain": 315
     }
   ]
 }
