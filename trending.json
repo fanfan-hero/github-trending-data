@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-13T23:22:30.166780Z",
+  "updated_at": "2026-08-14T05:17:47.217843Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 4504
+      "daily_gain": 4475
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 727
+      "daily_gain": 713
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 383
+      "daily_gain": 312
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 768
+      "daily_gain": 769
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 187
+      "daily_gain": 76
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 354
+      "daily_gain": 328
     },
     {
       "name": "macro-inc/macro",
-      "daily_gain": 1180
+      "daily_gain": 1239
     },
     {
       "name": "megadose/holehe",
-      "daily_gain": 166
+      "daily_gain": 195
     },
     {
       "name": "smicallef/spiderfoot",
-      "daily_gain": 278
+      "daily_gain": 283
     },
     {
       "name": "NVIDIA-NeMo/Switchyard",
@@ -43,31 +43,31 @@
     },
     {
       "name": "holaboss-ai/holaOS",
-      "daily_gain": 380
+      "daily_gain": 241
     },
     {
       "name": "kepano/obsidian-skills",
-      "daily_gain": 411
+      "daily_gain": 292
     },
     {
       "name": "3b1b/manim",
-      "daily_gain": 204
+      "daily_gain": 176
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 762
+      "daily_gain": 778
     },
     {
       "name": "Lightricks/LTX-2",
-      "daily_gain": 201
+      "daily_gain": 205
     },
     {
       "name": "lightningpixel/modly",
-      "daily_gain": 221
+      "daily_gain": 118
     },
     {
       "name": "infiniflow/ragflow",
-      "daily_gain": 473
+      "daily_gain": 465
     }
   ]
 }
