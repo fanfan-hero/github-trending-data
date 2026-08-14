@@ -1,73 +1,69 @@
 {
-  "updated_at": "2026-08-14T10:41:07.330109Z",
+  "updated_at": "2026-08-14T22:56:32.561208Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 4475
-    },
-    {
-      "name": "semantica-agi/semantica",
-      "daily_gain": 713
-    },
-    {
-      "name": "anthropics/skills",
-      "daily_gain": 312
+      "daily_gain": 3651
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 769
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "daily_gain": 76
-    },
-    {
-      "name": "unslothai/unsloth",
-      "daily_gain": 328
-    },
-    {
-      "name": "macro-inc/macro",
-      "daily_gain": 1239
+      "daily_gain": 661
     },
     {
       "name": "megadose/holehe",
-      "daily_gain": 195
+      "daily_gain": 427
+    },
+    {
+      "name": "macro-inc/macro",
+      "daily_gain": 435
     },
     {
       "name": "smicallef/spiderfoot",
-      "daily_gain": 283
-    },
-    {
-      "name": "NVIDIA-NeMo/Switchyard",
-      "daily_gain": 408
-    },
-    {
-      "name": "holaboss-ai/holaOS",
-      "daily_gain": 241
-    },
-    {
-      "name": "kepano/obsidian-skills",
       "daily_gain": 292
     },
     {
-      "name": "3b1b/manim",
-      "daily_gain": 176
+      "name": "citrolabs/ego-lite",
+      "daily_gain": 153
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 778
-    },
-    {
-      "name": "Lightricks/LTX-2",
-      "daily_gain": 205
+      "name": "holaboss-ai/holaOS",
+      "daily_gain": 769
     },
     {
       "name": "lightningpixel/modly",
-      "daily_gain": 118
+      "daily_gain": 1147
     },
     {
       "name": "infiniflow/ragflow",
-      "daily_gain": 465
+      "daily_gain": 580
+    },
+    {
+      "name": "cursor/plugins",
+      "daily_gain": 474
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "daily_gain": 69
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "daily_gain": 203
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "daily_gain": 1183
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "daily_gain": 182
+    },
+    {
+      "name": "unslothai/unsloth",
+      "daily_gain": 238
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "daily_gain": 502
     }
   ]
 }
