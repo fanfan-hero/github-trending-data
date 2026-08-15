@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-14T22:56:32.561208Z",
+  "updated_at": "2026-08-15T04:06:31.596890Z",
   "projects": [
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 3651
+      "daily_gain": 3646
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 661
+      "daily_gain": 662
     },
     {
       "name": "megadose/holehe",
@@ -15,15 +15,15 @@
     },
     {
       "name": "macro-inc/macro",
-      "daily_gain": 435
+      "daily_gain": 436
     },
     {
       "name": "smicallef/spiderfoot",
-      "daily_gain": 292
+      "daily_gain": 293
     },
     {
       "name": "citrolabs/ego-lite",
-      "daily_gain": 153
+      "daily_gain": 165
     },
     {
       "name": "holaboss-ai/holaOS",
@@ -31,39 +31,39 @@
     },
     {
       "name": "lightningpixel/modly",
-      "daily_gain": 1147
+      "daily_gain": 1160
     },
     {
       "name": "infiniflow/ragflow",
-      "daily_gain": 580
+      "daily_gain": 579
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 474
+      "daily_gain": 473
     },
     {
       "name": "deepseek-ai/awesome-deepseek-agent",
-      "daily_gain": 69
+      "daily_gain": 41
     },
     {
       "name": "semantica-agi/semantica",
-      "daily_gain": 203
+      "daily_gain": 222
     },
     {
       "name": "rustdesk/rustdesk",
-      "daily_gain": 1183
+      "daily_gain": 1181
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 182
+      "daily_gain": 143
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 238
+      "daily_gain": 255
     },
     {
       "name": "ToolJet/ToolJet",
-      "daily_gain": 502
+      "daily_gain": 501
     }
   ]
 }
