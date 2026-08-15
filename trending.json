@@ -1,69 +1,53 @@
 {
-  "updated_at": "2026-08-15T09:59:59.741914Z",
+  "updated_at": "2026-08-15T22:55:00.407640Z",
   "projects": [
     {
+      "name": "cordiverse/cordis",
+      "daily_gain": 616
+    },
+    {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 3646
-    },
-    {
-      "name": "cactus-compute/needle",
-      "daily_gain": 662
-    },
-    {
-      "name": "megadose/holehe",
-      "daily_gain": 427
-    },
-    {
-      "name": "macro-inc/macro",
-      "daily_gain": 436
-    },
-    {
-      "name": "smicallef/spiderfoot",
-      "daily_gain": 293
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "daily_gain": 165
-    },
-    {
-      "name": "holaboss-ai/holaOS",
-      "daily_gain": 769
-    },
-    {
-      "name": "lightningpixel/modly",
-      "daily_gain": 1160
-    },
-    {
-      "name": "infiniflow/ragflow",
-      "daily_gain": 579
+      "daily_gain": 1619
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 473
+      "daily_gain": 152
     },
     {
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "daily_gain": 41
-    },
-    {
-      "name": "semantica-agi/semantica",
-      "daily_gain": 222
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "daily_gain": 1181
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 143
+      "name": "cactus-compute/needle",
+      "daily_gain": 551
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 255
+      "daily_gain": 435
+    },
+    {
+      "name": "public-apis/public-apis",
+      "daily_gain": 2476
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "daily_gain": 303
+    },
+    {
+      "name": "megadose/holehe",
+      "daily_gain": 901
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "daily_gain": 389
     },
     {
       "name": "ToolJet/ToolJet",
-      "daily_gain": 501
+      "daily_gain": 165
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "daily_gain": 553
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "daily_gain": 100
     }
   ]
 }
