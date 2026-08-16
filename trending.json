@@ -1,53 +1,33 @@
 {
-  "updated_at": "2026-08-16T10:00:50.223957Z",
+  "updated_at": "2026-08-16T22:54:22.567778Z",
   "projects": [
     {
       "name": "cordiverse/cordis",
-      "daily_gain": 599
+      "daily_gain": 719
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1607
-    },
-    {
-      "name": "cursor/plugins",
-      "daily_gain": 149
-    },
-    {
-      "name": "cactus-compute/needle",
-      "daily_gain": 547
+      "name": "basecamp/omarchy",
+      "daily_gain": 225
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 434
+      "daily_gain": 580
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "daily_gain": 134
     },
     {
       "name": "public-apis/public-apis",
-      "daily_gain": 2260
-    },
-    {
-      "name": "MakazhanAlpamys/Soup",
-      "daily_gain": 297
-    },
-    {
-      "name": "megadose/holehe",
-      "daily_gain": 892
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "daily_gain": 382
+      "daily_gain": 1583
     },
     {
       "name": "ToolJet/ToolJet",
-      "daily_gain": 104
+      "daily_gain": 446
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "daily_gain": 544
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "daily_gain": 118
+      "name": "cactus-compute/needle",
+      "daily_gain": 447
     }
   ]
 }
