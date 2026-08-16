@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-15T22:55:00.407640Z",
+  "updated_at": "2026-08-16T04:18:44.171603Z",
   "projects": [
     {
       "name": "cordiverse/cordis",
-      "daily_gain": 616
+      "daily_gain": 599
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1619
+      "daily_gain": 1607
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 152
+      "daily_gain": 149
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 551
+      "daily_gain": 547
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 435
+      "daily_gain": 434
     },
     {
       "name": "public-apis/public-apis",
-      "daily_gain": 2476
+      "daily_gain": 2260
     },
     {
       "name": "MakazhanAlpamys/Soup",
-      "daily_gain": 303
+      "daily_gain": 297
     },
     {
       "name": "megadose/holehe",
-      "daily_gain": 901
+      "daily_gain": 892
     },
     {
       "name": "altic-dev/FluidVoice",
-      "daily_gain": 389
+      "daily_gain": 382
     },
     {
       "name": "ToolJet/ToolJet",
-      "daily_gain": 165
+      "daily_gain": 104
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 553
+      "daily_gain": 544
     },
     {
       "name": "citrolabs/ego-lite",
-      "daily_gain": 100
+      "daily_gain": 118
     }
   ]
 }
