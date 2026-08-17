@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-16T22:54:22.567778Z",
+  "updated_at": "2026-08-17T04:23:35.115258Z",
   "projects": [
     {
       "name": "cordiverse/cordis",
-      "daily_gain": 719
+      "daily_gain": 720
     },
     {
       "name": "basecamp/omarchy",
-      "daily_gain": 225
+      "daily_gain": 270
     },
     {
       "name": "unslothai/unsloth",
-      "daily_gain": 580
+      "daily_gain": 572
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 134
+      "daily_gain": 150
     },
     {
       "name": "public-apis/public-apis",
-      "daily_gain": 1583
+      "daily_gain": 1588
     },
     {
       "name": "ToolJet/ToolJet",
-      "daily_gain": 446
+      "daily_gain": 452
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 447
+      "daily_gain": 443
     }
   ]
 }
