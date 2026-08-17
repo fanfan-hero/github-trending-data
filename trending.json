@@ -1,33 +1,49 @@
 {
-  "updated_at": "2026-08-17T10:15:54.974733Z",
+  "updated_at": "2026-08-17T22:56:55.046654Z",
   "projects": [
     {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 1275
+    },
+    {
+      "name": "usestrix/strix",
+      "daily_gain": 656
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "daily_gain": 115
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "daily_gain": 207
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "daily_gain": 156
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "daily_gain": 239
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 147
+    },
+    {
+      "name": "jundot/omlx",
+      "daily_gain": 96
+    },
+    {
+      "name": "immich-app/immich",
+      "daily_gain": 337
+    },
+    {
       "name": "cordiverse/cordis",
-      "daily_gain": 720
+      "daily_gain": 959
     },
     {
-      "name": "basecamp/omarchy",
-      "daily_gain": 270
-    },
-    {
-      "name": "unslothai/unsloth",
-      "daily_gain": 572
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 150
-    },
-    {
-      "name": "public-apis/public-apis",
-      "daily_gain": 1588
-    },
-    {
-      "name": "ToolJet/ToolJet",
-      "daily_gain": 452
-    },
-    {
-      "name": "cactus-compute/needle",
-      "daily_gain": 443
+      "name": "agalwood/Motrix",
+      "daily_gain": 295
     }
   ]
 }
