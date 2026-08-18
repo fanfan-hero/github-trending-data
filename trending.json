@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-17T22:56:55.046654Z",
+  "updated_at": "2026-08-18T04:18:44.907408Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 1275
+      "daily_gain": 1189
     },
     {
       "name": "usestrix/strix",
-      "daily_gain": 656
+      "daily_gain": 598
     },
     {
       "name": "nautechsystems/nautilus_trader",
-      "daily_gain": 115
+      "daily_gain": 120
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -19,31 +19,31 @@
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 156
+      "daily_gain": 198
     },
     {
       "name": "AlexsJones/llmfit",
-      "daily_gain": 239
+      "daily_gain": 198
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 147
+      "daily_gain": 218
     },
     {
       "name": "jundot/omlx",
-      "daily_gain": 96
+      "daily_gain": 78
     },
     {
       "name": "immich-app/immich",
-      "daily_gain": 337
+      "daily_gain": 175
     },
     {
       "name": "cordiverse/cordis",
-      "daily_gain": 959
+      "daily_gain": 957
     },
     {
       "name": "agalwood/Motrix",
-      "daily_gain": 295
+      "daily_gain": 344
     }
   ]
 }
