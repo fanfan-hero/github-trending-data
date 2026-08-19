@@ -1,53 +1,57 @@
 {
-  "updated_at": "2026-08-19T10:05:42.425918Z",
+  "updated_at": "2026-08-19T22:57:09.595698Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2304
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 306
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 648
+      "daily_gain": 2221
     },
     {
       "name": "volcengine/OpenViking",
-      "daily_gain": 213
+      "daily_gain": 803
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "daily_gain": 797
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 730
+      "daily_gain": 767
     },
     {
-      "name": "public-apis/public-apis",
-      "daily_gain": 1005
+      "name": "nautechsystems/nautilus_trader",
+      "daily_gain": 79
     },
     {
-      "name": "basecamp/omarchy",
-      "daily_gain": 356
+      "name": "mattpocock/skills",
+      "daily_gain": 1214
     },
     {
-      "name": "agalwood/Motrix",
-      "daily_gain": 609
-    },
-    {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "daily_gain": 192
+      "name": "obra/superpowers",
+      "daily_gain": 514
     },
     {
       "name": "jundot/omlx",
-      "daily_gain": 370
+      "daily_gain": 467
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 193
+    },
+    {
+      "name": "immich-app/immich",
+      "daily_gain": 137
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "daily_gain": 1415
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "daily_gain": 58
     },
     {
       "name": "genlayerlabs/genlayer-project-boilerplate",
-      "daily_gain": 535
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 192
+      "daily_gain": 421
     }
   ]
 }
