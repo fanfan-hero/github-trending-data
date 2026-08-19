@@ -1,57 +1,53 @@
 {
-  "updated_at": "2026-08-18T22:57:18.453298Z",
+  "updated_at": "2026-08-19T04:19:46.752207Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2306
+      "daily_gain": 2304
     },
     {
       "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 256
+      "daily_gain": 306
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 730
+      "daily_gain": 648
     },
     {
       "name": "volcengine/OpenViking",
-      "daily_gain": 298
+      "daily_gain": 213
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 726
+      "daily_gain": 730
     },
     {
       "name": "public-apis/public-apis",
-      "daily_gain": 1139
+      "daily_gain": 1005
     },
     {
       "name": "basecamp/omarchy",
-      "daily_gain": 411
+      "daily_gain": 356
     },
     {
       "name": "agalwood/Motrix",
-      "daily_gain": 607
+      "daily_gain": 609
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
-      "daily_gain": 204
+      "daily_gain": 192
     },
     {
       "name": "jundot/omlx",
-      "daily_gain": 366
-    },
-    {
-      "name": "bojieli/ai-agent-book",
-      "daily_gain": 556
+      "daily_gain": 370
     },
     {
       "name": "genlayerlabs/genlayer-project-boilerplate",
-      "daily_gain": 543
+      "daily_gain": 535
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 288
+      "daily_gain": 192
     }
   ]
 }
