@@ -1,61 +1,73 @@
 {
-  "updated_at": "2026-08-20T10:12:37.007810Z",
+  "updated_at": "2026-08-20T22:59:37.134557Z",
   "projects": [
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2221
-    },
-    {
-      "name": "volcengine/OpenViking",
-      "daily_gain": 804
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 795
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 766
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 606
-    },
-    {
-      "name": "nautechsystems/nautilus_trader",
-      "daily_gain": 80
+      "name": "modular/modular",
+      "daily_gain": 340
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1894
+      "daily_gain": 2267
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "daily_gain": 1540
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 557
+      "daily_gain": 749
     },
     {
-      "name": "jundot/omlx",
-      "daily_gain": 472
+      "name": "cursor/plugins",
+      "daily_gain": 473
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 198
+      "daily_gain": 855
     },
     {
-      "name": "immich-app/immich",
-      "daily_gain": 128
+      "name": "akitaonrails/ai-memory",
+      "daily_gain": 335
     },
     {
-      "name": "amadeusprotocol/node",
-      "daily_gain": 1397
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 2774
     },
     {
-      "name": "marceloprates/prettymaps",
-      "daily_gain": 63
+      "name": "agent-substrate/substrate",
+      "daily_gain": 66
     },
     {
-      "name": "genlayerlabs/genlayer-project-boilerplate",
-      "daily_gain": 430
+      "name": "chaitanyagiri/munder-difflin",
+      "daily_gain": 517
+    },
+    {
+      "name": "PostHog/posthog",
+      "daily_gain": 100
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "daily_gain": 575
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "daily_gain": 955
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "daily_gain": 309
+    },
+    {
+      "name": "makeplane/plane",
+      "daily_gain": 206
+    },
+    {
+      "name": "Tencent/AI-Infra-Guard",
+      "daily_gain": 28
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "daily_gain": 251
     }
   ]
 }
