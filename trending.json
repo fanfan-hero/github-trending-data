@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:57:09.595698Z",
+  "updated_at": "2026-08-20T04:19:22.189930Z",
   "projects": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -7,51 +7,51 @@
     },
     {
       "name": "volcengine/OpenViking",
-      "daily_gain": 803
+      "daily_gain": 804
     },
     {
       "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 797
+      "daily_gain": 795
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "daily_gain": 767
+      "daily_gain": 766
     },
     {
       "name": "nautechsystems/nautilus_trader",
-      "daily_gain": 79
+      "daily_gain": 80
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1214
+      "daily_gain": 1894
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 514
+      "daily_gain": 557
     },
     {
       "name": "jundot/omlx",
-      "daily_gain": 467
+      "daily_gain": 472
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 193
+      "daily_gain": 198
     },
     {
       "name": "immich-app/immich",
-      "daily_gain": 137
+      "daily_gain": 128
     },
     {
       "name": "amadeusprotocol/node",
-      "daily_gain": 1415
+      "daily_gain": 1397
     },
     {
       "name": "marceloprates/prettymaps",
-      "daily_gain": 58
+      "daily_gain": 63
     },
     {
       "name": "genlayerlabs/genlayer-project-boilerplate",
-      "daily_gain": 421
+      "daily_gain": 430
     }
   ]
 }
