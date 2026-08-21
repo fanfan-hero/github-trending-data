@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-20T22:59:37.134557Z",
+  "updated_at": "2026-08-21T04:20:58.003552Z",
   "projects": [
     {
       "name": "modular/modular",
-      "daily_gain": 340
+      "daily_gain": 268
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2267
+      "daily_gain": 2192
     },
     {
       "name": "AprilNEA/OpenLogi",
-      "daily_gain": 1540
+      "daily_gain": 1545
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 749
+      "daily_gain": 727
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 473
+      "daily_gain": 449
     },
     {
       "name": "santifer/career-ops",
-      "daily_gain": 855
+      "daily_gain": 816
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 335
+      "daily_gain": 332
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2774
+      "daily_gain": 2761
     },
     {
       "name": "agent-substrate/substrate",
-      "daily_gain": 66
+      "daily_gain": 22
     },
     {
       "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 517
+      "daily_gain": 507
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 100
+      "daily_gain": 60
     },
     {
       "name": "mahlernim/google-timeline-visualizer",
-      "daily_gain": 575
+      "daily_gain": 657
     },
     {
       "name": "volcengine/OpenViking",
-      "daily_gain": 955
+      "daily_gain": 950
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 309
+      "daily_gain": 258
     },
     {
       "name": "makeplane/plane",
-      "daily_gain": 206
+      "daily_gain": 98
     },
     {
       "name": "Tencent/AI-Infra-Guard",
-      "daily_gain": 28
+      "daily_gain": 50
     },
     {
       "name": "RyanCodrai/turbovec",
-      "daily_gain": 251
+      "daily_gain": 230
     }
   ]
 }
