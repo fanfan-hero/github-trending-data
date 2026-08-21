@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-08-21T10:12:55.937609Z",
+  "updated_at": "2026-08-21T22:57:00.088180Z",
   "projects": [
     {
-      "name": "modular/modular",
-      "daily_gain": 268
-    },
-    {
       "name": "mattpocock/skills",
-      "daily_gain": 2192
-    },
-    {
-      "name": "AprilNEA/OpenLogi",
-      "daily_gain": 1545
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 727
-    },
-    {
-      "name": "cursor/plugins",
-      "daily_gain": 449
-    },
-    {
-      "name": "santifer/career-ops",
-      "daily_gain": 816
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 332
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 2761
-    },
-    {
-      "name": "agent-substrate/substrate",
-      "daily_gain": 22
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "daily_gain": 507
-    },
-    {
-      "name": "PostHog/posthog",
-      "daily_gain": 60
+      "daily_gain": 3368
     },
     {
       "name": "mahlernim/google-timeline-visualizer",
-      "daily_gain": 657
+      "daily_gain": 1040
     },
     {
-      "name": "volcengine/OpenViking",
-      "daily_gain": 950
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 1187
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 258
+      "name": "AprilNEA/OpenLogi",
+      "daily_gain": 1372
     },
     {
-      "name": "makeplane/plane",
-      "daily_gain": 98
+      "name": "PostHog/posthog",
+      "daily_gain": 334
     },
     {
-      "name": "Tencent/AI-Infra-Guard",
-      "daily_gain": 50
+      "name": "microsoft/TypeScript",
+      "daily_gain": 65
     },
     {
-      "name": "RyanCodrai/turbovec",
-      "daily_gain": 230
+      "name": "obra/superpowers",
+      "daily_gain": 789
+    },
+    {
+      "name": "santifer/career-ops",
+      "daily_gain": 918
+    },
+    {
+      "name": "cursor/plugins",
+      "daily_gain": 391
+    },
+    {
+      "name": "modular/modular",
+      "daily_gain": 905
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 348
+    },
+    {
+      "name": "TryGhost/Ghost",
+      "daily_gain": 32
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "daily_gain": 140
+    },
+    {
+      "name": "apache/maka",
+      "daily_gain": 141
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "daily_gain": 4
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "daily_gain": 63
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "daily_gain": 5
     }
   ]
 }
