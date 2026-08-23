@@ -1,73 +1,77 @@
 {
-  "updated_at": "2026-08-23T10:01:27.799719Z",
+  "updated_at": "2026-08-23T22:55:09.470135Z",
   "projects": [
     {
       "name": "openai/codex",
-      "daily_gain": 1544
+      "daily_gain": 2729
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "daily_gain": 440
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2683
+      "daily_gain": 2448
     },
     {
-      "name": "affaan-m/ECC",
-      "daily_gain": 411
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 592
-    },
-    {
-      "name": "Wei-Shaw/sub2api",
-      "daily_gain": 278
-    },
-    {
-      "name": "makeplane/plane",
-      "daily_gain": 263
-    },
-    {
-      "name": "n8n-io/n8n",
-      "daily_gain": 149
-    },
-    {
-      "name": "anthropics/claude-code",
-      "daily_gain": 127
+      "name": "basecamp/omarchy",
+      "daily_gain": 814
     },
     {
       "name": "AprilNEA/OpenLogi",
-      "daily_gain": 959
+      "daily_gain": 1008
     },
     {
-      "name": "modular/modular",
-      "daily_gain": 395
+      "name": "block/buzz",
+      "daily_gain": 349
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 315
+      "name": "apache/maka",
+      "daily_gain": 49
     },
     {
-      "name": "mahlernim/google-timeline-visualizer",
-      "daily_gain": 441
+      "name": "Alishahryar1/free-claude-code",
+      "daily_gain": 1040
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "daily_gain": 106
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 427
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "daily_gain": 134
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "daily_gain": 223
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "daily_gain": 423
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "daily_gain": 95
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "daily_gain": 257
     },
     {
       "name": "ripienaar/free-for-dev",
-      "daily_gain": 829
+      "daily_gain": 593
     },
     {
-      "name": "microsoft/TypeScript",
-      "daily_gain": 104
+      "name": "Comfy-Org/ComfyUI",
+      "daily_gain": 179
     },
     {
-      "name": "cursor/plugins",
-      "daily_gain": 286
-    },
-    {
-      "name": "PostHog/posthog",
-      "daily_gain": 286
-    },
-    {
-      "name": "Tencent/AI-Infra-Guard",
-      "daily_gain": 150
+      "name": "NousResearch/hermes-agent",
+      "daily_gain": 519
     }
   ]
 }
