@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-08-24T10:22:11.116813Z",
+  "updated_at": "2026-08-24T22:58:22.694262Z",
   "projects": [
     {
-      "name": "openai/codex",
-      "daily_gain": 2715
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 401
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 2447
-    },
-    {
-      "name": "basecamp/omarchy",
-      "daily_gain": 750
-    },
-    {
-      "name": "AprilNEA/OpenLogi",
-      "daily_gain": 1009
-    },
-    {
-      "name": "block/buzz",
-      "daily_gain": 410
-    },
-    {
-      "name": "apache/maka",
-      "daily_gain": 51
-    },
-    {
       "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 1081
+      "daily_gain": 889
     },
     {
-      "name": "tinyhumansai/openhuman",
-      "daily_gain": 39
+      "name": "openai/codex",
+      "daily_gain": 1990
     },
     {
-      "name": "affaan-m/ECC",
-      "daily_gain": 427
+      "name": "MadsLorentzen/ai-job-search",
+      "daily_gain": 378
     },
     {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 131
+      "name": "multica-ai/andrej-karpathy-skills",
+      "daily_gain": 491
     },
     {
-      "name": "VoltAgent/awesome-agent-skills",
-      "daily_gain": 156
-    },
-    {
-      "name": "virgiliojr94/book-to-skill",
-      "daily_gain": 417
-    },
-    {
-      "name": "dani-garcia/vaultwarden",
-      "daily_gain": 78
-    },
-    {
-      "name": "anthropics/claude-plugins-community",
-      "daily_gain": 225
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "daily_gain": 615
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 201
+      "name": "makeplane/plane",
+      "daily_gain": 268
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 454
+      "daily_gain": 899
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "daily_gain": 490
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "daily_gain": 1102
+    },
+    {
+      "name": "apache/maka",
+      "daily_gain": 408
+    },
+    {
+      "name": "PostHog/posthog",
+      "daily_gain": 106
+    },
+    {
+      "name": "openclaw/openclaw",
+      "daily_gain": 160
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "daily_gain": 272
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 330
+    },
+    {
+      "name": "basecamp/omarchy",
+      "daily_gain": 1055
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "daily_gain": 153
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "daily_gain": 176
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "daily_gain": 2442
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "daily_gain": 600
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "daily_gain": 515
     }
   ]
 }
