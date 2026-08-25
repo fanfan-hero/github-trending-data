@@ -1,81 +1,65 @@
 {
-  "updated_at": "2026-08-25T10:13:52.594806Z",
+  "updated_at": "2026-08-25T23:00:01.310032Z",
   "projects": [
     {
-      "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 891
-    },
-    {
-      "name": "openai/codex",
-      "daily_gain": 1994
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 434
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 588
-    },
-    {
-      "name": "makeplane/plane",
-      "daily_gain": 243
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "daily_gain": 896
+      "name": "freestylefly/awesome-gpt-image-2",
+      "daily_gain": 1698
     },
     {
       "name": "anthropics/claude-plugins-community",
-      "daily_gain": 489
-    },
-    {
-      "name": "AprilNEA/OpenLogi",
-      "daily_gain": 1097
+      "daily_gain": 350
     },
     {
       "name": "apache/maka",
-      "daily_gain": 411
+      "daily_gain": 538
     },
     {
-      "name": "PostHog/posthog",
-      "daily_gain": 83
-    },
-    {
-      "name": "openclaw/openclaw",
-      "daily_gain": 173
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 191
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 310
+      "daily_gain": 810
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 349
-    },
-    {
-      "name": "basecamp/omarchy",
-      "daily_gain": 1056
-    },
-    {
-      "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 174
-    },
-    {
-      "name": "dani-garcia/vaultwarden",
-      "daily_gain": 175
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 2449
-    },
-    {
-      "name": "VoltAgent/awesome-agent-skills",
-      "daily_gain": 602
+      "daily_gain": 572
     },
     {
       "name": "tinyhumansai/openhuman",
-      "daily_gain": 515
+      "daily_gain": 541
+    },
+    {
+      "name": "basecamp/omarchy",
+      "daily_gain": 1080
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "daily_gain": 161
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "daily_gain": 828
+    },
+    {
+      "name": "openai/codex",
+      "daily_gain": 1183
+    },
+    {
+      "name": "marin-community/marin",
+      "daily_gain": 277
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 944
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 47
+    },
+    {
+      "name": "asciimoo/hister",
+      "daily_gain": 166
     }
   ]
 }
