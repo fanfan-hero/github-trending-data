@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-08-24T22:58:22.694262Z",
+  "updated_at": "2026-08-25T04:20:59.818512Z",
   "projects": [
     {
       "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 889
+      "daily_gain": 891
     },
     {
       "name": "openai/codex",
-      "daily_gain": 1990
+      "daily_gain": 1994
     },
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 378
+      "daily_gain": 434
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 491
+      "daily_gain": 588
     },
     {
       "name": "makeplane/plane",
-      "daily_gain": 268
+      "daily_gain": 243
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 899
+      "daily_gain": 896
     },
     {
       "name": "anthropics/claude-plugins-community",
-      "daily_gain": 490
+      "daily_gain": 489
     },
     {
       "name": "AprilNEA/OpenLogi",
-      "daily_gain": 1102
+      "daily_gain": 1097
     },
     {
       "name": "apache/maka",
-      "daily_gain": 408
+      "daily_gain": 411
     },
     {
       "name": "PostHog/posthog",
-      "daily_gain": 106
+      "daily_gain": 83
     },
     {
       "name": "openclaw/openclaw",
-      "daily_gain": 160
+      "daily_gain": 173
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 272
+      "daily_gain": 310
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 330
+      "daily_gain": 349
     },
     {
       "name": "basecamp/omarchy",
-      "daily_gain": 1055
+      "daily_gain": 1056
     },
     {
       "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 153
+      "daily_gain": 174
     },
     {
       "name": "dani-garcia/vaultwarden",
-      "daily_gain": 176
+      "daily_gain": 175
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 2442
+      "daily_gain": 2449
     },
     {
       "name": "VoltAgent/awesome-agent-skills",
-      "daily_gain": 600
+      "daily_gain": 602
     },
     {
       "name": "tinyhumansai/openhuman",
