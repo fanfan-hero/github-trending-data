@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:00:01.310032Z",
+  "updated_at": "2026-08-26T04:21:16.777776Z",
   "projects": [
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -7,31 +7,35 @@
     },
     {
       "name": "anthropics/claude-plugins-community",
-      "daily_gain": 350
+      "daily_gain": 351
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "daily_gain": 1265
     },
     {
       "name": "apache/maka",
-      "daily_gain": 538
+      "daily_gain": 543
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 191
+      "daily_gain": 218
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 810
+      "daily_gain": 813
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 572
+      "daily_gain": 569
     },
     {
       "name": "tinyhumansai/openhuman",
-      "daily_gain": 541
+      "daily_gain": 542
     },
     {
       "name": "basecamp/omarchy",
-      "daily_gain": 1080
+      "daily_gain": 1083
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -39,27 +43,27 @@
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 828
+      "daily_gain": 830
     },
     {
       "name": "openai/codex",
-      "daily_gain": 1183
+      "daily_gain": 1181
     },
     {
       "name": "marin-community/marin",
-      "daily_gain": 277
+      "daily_gain": 231
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 944
+      "daily_gain": 982
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 47
+      "daily_gain": 55
     },
     {
       "name": "asciimoo/hister",
-      "daily_gain": 166
+      "daily_gain": 98
     }
   ]
 }
