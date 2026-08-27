@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-08-26T10:18:14.519443Z",
+  "updated_at": "2026-08-27T03:32:52.683407Z",
   "projects": [
     {
+      "name": "tt-a1i/archify",
+      "daily_gain": 1035
+    },
+    {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 1698
-    },
-    {
-      "name": "anthropics/claude-plugins-community",
-      "daily_gain": 351
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 1265
-    },
-    {
-      "name": "apache/maka",
-      "daily_gain": 543
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "daily_gain": 218
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 813
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 569
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "daily_gain": 542
-    },
-    {
-      "name": "basecamp/omarchy",
-      "daily_gain": 1083
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 161
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 830
-    },
-    {
-      "name": "openai/codex",
-      "daily_gain": 1181
-    },
-    {
-      "name": "marin-community/marin",
-      "daily_gain": 231
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 982
+      "daily_gain": 4050
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 55
+      "daily_gain": 308
     },
     {
-      "name": "asciimoo/hister",
-      "daily_gain": 98
+      "name": "Alishahryar1/free-claude-code",
+      "daily_gain": 536
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "daily_gain": 1300
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "daily_gain": 810
+    },
+    {
+      "name": "basecamp/omarchy",
+      "daily_gain": 1024
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 838
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "daily_gain": 525
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 1598
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "daily_gain": 538
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "daily_gain": 113
+    },
+    {
+      "name": "browser-use/browser-use",
+      "daily_gain": 149
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "daily_gain": 138
+    },
+    {
+      "name": "marin-community/marin",
+      "daily_gain": 441
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "daily_gain": 242
     }
   ]
 }
