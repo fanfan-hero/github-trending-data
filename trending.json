@@ -1,69 +1,73 @@
 {
-  "updated_at": "2026-08-27T03:32:52.683407Z",
+  "updated_at": "2026-08-27T14:38:05.182096Z",
   "projects": [
     {
-      "name": "tt-a1i/archify",
-      "daily_gain": 1035
+      "name": "zedeus/nitter",
+      "daily_gain": 63
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 4050
+      "daily_gain": 2093
+    },
+    {
+      "name": "tt-a1i/archify",
+      "daily_gain": 4260
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "daily_gain": 314
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 308
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 536
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 1300
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 810
-    },
-    {
-      "name": "basecamp/omarchy",
-      "daily_gain": 1024
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 838
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "daily_gain": 525
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 1598
-    },
-    {
-      "name": "anthropics/claude-plugins-community",
-      "daily_gain": 538
-    },
-    {
-      "name": "ConardLi/garden-skills",
-      "daily_gain": 113
-    },
-    {
-      "name": "browser-use/browser-use",
-      "daily_gain": 149
+      "daily_gain": 290
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 138
+      "daily_gain": 494
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 1610
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 1284
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 547
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "daily_gain": 413
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "daily_gain": 133
+    },
+    {
+      "name": "google/googletest",
+      "daily_gain": 4
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "daily_gain": 631
     },
     {
       "name": "marin-community/marin",
-      "daily_gain": 441
+      "daily_gain": 255
     },
     {
-      "name": "VoltAgent/awesome-agent-skills",
-      "daily_gain": 242
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 125
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "daily_gain": 4
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 1040
     }
   ]
 }
