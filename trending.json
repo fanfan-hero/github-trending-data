@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-08-27T14:38:05.182096Z",
+  "updated_at": "2026-08-27T20:00:17.325999Z",
   "projects": [
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "daily_gain": 1984
+    },
     {
       "name": "zedeus/nitter",
       "daily_gain": 63
@@ -43,7 +47,7 @@
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 133
+      "daily_gain": 260
     },
     {
       "name": "google/googletest",
@@ -67,7 +71,7 @@
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 1040
+      "daily_gain": 460
     }
   ]
 }
