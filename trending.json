@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T15:39:05.426734Z",
+  "updated_at": "2026-08-28T20:59:10.519932Z",
   "projects": [
     {
       "name": "tt-a1i/archify",
@@ -15,7 +15,7 @@
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1984
+      "daily_gain": 3398
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -50,12 +50,16 @@
       "daily_gain": 205
     },
     {
+      "name": "swoole/typephp",
+      "daily_gain": 188
+    },
+    {
       "name": "marin-community/marin",
       "daily_gain": 236
     },
     {
       "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 405
+      "daily_gain": 477
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
