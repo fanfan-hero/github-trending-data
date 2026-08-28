@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-08-28T06:19:18.086622Z",
+  "updated_at": "2026-08-28T15:39:05.426734Z",
   "projects": [
+    {
+      "name": "tt-a1i/archify",
+      "daily_gain": 4561
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "daily_gain": 720
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 457
+    },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "daily_gain": 1984
     },
     {
-      "name": "zedeus/nitter",
-      "daily_gain": 71
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 2096
-    },
-    {
-      "name": "tt-a1i/archify",
-      "daily_gain": 4239
+      "name": "abhigyanpatwari/GitNexus",
+      "daily_gain": 189
     },
     {
       "name": "JetBrains/go-modern-guidelines",
-      "daily_gain": 300
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 292
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 498
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 1613
+      "daily_gain": 574
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 1292
+      "daily_gain": 1144
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 552
+      "name": "abi/screenshot-to-code",
+      "daily_gain": 309
     },
     {
-      "name": "ConardLi/garden-skills",
-      "daily_gain": 415
+      "name": "cursor/plugins",
+      "daily_gain": 257
     },
     {
-      "name": "thedotmack/claude-mem",
-      "daily_gain": 143
+      "name": "freestylefly/awesome-gpt-image-2",
+      "daily_gain": 1687
     },
     {
-      "name": "google/googletest",
-      "daily_gain": 9
+      "name": "tailscale/tailcat",
+      "daily_gain": 986
     },
     {
-      "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 634
+      "name": "NationalSecurityAgency/ghidra",
+      "daily_gain": 205
     },
     {
       "name": "marin-community/marin",
-      "daily_gain": 255
+      "daily_gain": 236
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 130
+      "name": "tashfeenahmed/freellmapi",
+      "daily_gain": 405
     },
     {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 8
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "daily_gain": 61
     },
     {
-      "name": "TauricResearch/TradingAgents",
-      "daily_gain": 478
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 703
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 1396
+    },
+    {
+      "name": "google/googletest",
+      "daily_gain": 156
+    },
+    {
+      "name": "livekit/agents",
+      "daily_gain": 14
     }
   ]
 }
