@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T20:00:17.325999Z",
+  "updated_at": "2026-08-28T06:19:18.086622Z",
   "projects": [
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -7,55 +7,55 @@
     },
     {
       "name": "zedeus/nitter",
-      "daily_gain": 63
+      "daily_gain": 71
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 2093
+      "daily_gain": 2096
     },
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 4260
+      "daily_gain": 4239
     },
     {
       "name": "JetBrains/go-modern-guidelines",
-      "daily_gain": 314
+      "daily_gain": 300
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 290
+      "daily_gain": 292
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 494
+      "daily_gain": 498
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1610
+      "daily_gain": 1613
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 1284
+      "daily_gain": 1292
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 547
+      "daily_gain": 552
     },
     {
       "name": "ConardLi/garden-skills",
-      "daily_gain": 413
+      "daily_gain": 415
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 260
+      "daily_gain": 143
     },
     {
       "name": "google/googletest",
-      "daily_gain": 4
+      "daily_gain": 9
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
-      "daily_gain": 631
+      "daily_gain": 634
     },
     {
       "name": "marin-community/marin",
@@ -63,15 +63,15 @@
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 125
+      "daily_gain": 130
     },
     {
       "name": "OpenCut-app/OpenCut",
-      "daily_gain": 4
+      "daily_gain": 8
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 460
+      "daily_gain": 478
     }
   ]
 }
