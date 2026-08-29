@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-28T20:59:10.519932Z",
+  "updated_at": "2026-08-29T03:50:59.812428Z",
   "projects": [
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 4561
+      "daily_gain": 4562
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -15,11 +15,11 @@
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 3398
+      "daily_gain": 3829
     },
     {
       "name": "abhigyanpatwari/GitNexus",
-      "daily_gain": 189
+      "daily_gain": 202
     },
     {
       "name": "JetBrains/go-modern-guidelines",
@@ -31,11 +31,11 @@
     },
     {
       "name": "abi/screenshot-to-code",
-      "daily_gain": 309
+      "daily_gain": 326
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 257
+      "daily_gain": 246
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -43,11 +43,11 @@
     },
     {
       "name": "tailscale/tailcat",
-      "daily_gain": 986
+      "daily_gain": 965
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 205
+      "daily_gain": 191
     },
     {
       "name": "swoole/typephp",
@@ -59,11 +59,11 @@
     },
     {
       "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 477
+      "daily_gain": 433
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 61
+      "daily_gain": 67
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -79,7 +79,7 @@
     },
     {
       "name": "livekit/agents",
-      "daily_gain": 14
+      "daily_gain": 22
     }
   ]
 }
