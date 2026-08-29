@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-29T10:24:57.050372Z",
+  "updated_at": "2026-08-29T14:42:02.429640Z",
   "projects": [
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 4562
+      "daily_gain": 3927
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 720
+      "daily_gain": 1604
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 457
+      "daily_gain": 356
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 3829
+      "daily_gain": 1870
     },
     {
       "name": "abhigyanpatwari/GitNexus",
-      "daily_gain": 202
+      "daily_gain": 273
     },
     {
       "name": "JetBrains/go-modern-guidelines",
-      "daily_gain": 574
+      "daily_gain": 294
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 1144
+      "daily_gain": 809
     },
     {
       "name": "abi/screenshot-to-code",
-      "daily_gain": 326
+      "daily_gain": 558
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 246
+      "daily_gain": 257
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 1687
+      "daily_gain": 767
     },
     {
       "name": "tailscale/tailcat",
-      "daily_gain": 965
+      "daily_gain": 790
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 191
+      "daily_gain": 375
     },
     {
       "name": "swoole/typephp",
@@ -55,31 +55,31 @@
     },
     {
       "name": "marin-community/marin",
-      "daily_gain": 236
+      "daily_gain": 163
     },
     {
       "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 433
+      "daily_gain": 612
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 67
+      "daily_gain": 215
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 703
+      "daily_gain": 359
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1396
+      "daily_gain": 1171
     },
     {
       "name": "google/googletest",
-      "daily_gain": 156
+      "daily_gain": 125
     },
     {
       "name": "livekit/agents",
-      "daily_gain": 22
+      "daily_gain": 256
     }
   ]
 }
