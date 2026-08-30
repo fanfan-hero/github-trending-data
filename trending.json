@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-08-30T09:27:24.121410Z",
+  "updated_at": "2026-08-30T14:31:10.895858Z",
   "projects": [
-    {
-      "name": "tt-a1i/archify",
-      "daily_gain": 3902
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1855
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1587
-    },
-    {
-      "name": "tailscale/tailcat",
-      "daily_gain": 789
-    },
     {
       "name": "THU-MAIC/OpenMAIC",
       "daily_gain": 907
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "daily_gain": 1113
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "daily_gain": 633
+    },
+    {
+      "name": "tt-a1i/archify",
+      "daily_gain": 3730
     },
     {
       "name": "p-e-w/heretic",
       "daily_gain": 150
     },
     {
-      "name": "bigskysoftware/htmx",
-      "daily_gain": 32
+      "name": "unclecode/crawl4ai",
+      "daily_gain": 229
     },
     {
-      "name": "JetBrains/go-modern-guidelines",
-      "daily_gain": 303
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 272
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 73
+      "name": "majd/ipatool",
+      "daily_gain": 56
     },
     {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 806
+      "name": "punkpeye/awesome-mcp-servers",
+      "daily_gain": 65
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "daily_gain": 78
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "daily_gain": 196
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "daily_gain": 147
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "daily_gain": 38
+    },
+    {
+      "name": "corsairdev/corsair",
+      "daily_gain": 99
     },
     {
       "name": "every-app/open-seo",
       "daily_gain": 517
     },
     {
-      "name": "Osmantic/ODS",
-      "daily_gain": 35
+      "name": "colinhacks/zod",
+      "daily_gain": 17
     },
     {
-      "name": "abi/screenshot-to-code",
-      "daily_gain": 550
+      "name": "tashfeenahmed/freellmapi",
+      "daily_gain": 505
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 358
+      "name": "livekit/agents",
+      "daily_gain": 131
     },
     {
-      "name": "google/googletest",
-      "daily_gain": 128
-    },
-    {
-      "name": "kaifcodec/user-scanner",
-      "daily_gain": 5
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 39
-    },
-    {
-      "name": "workweave/router",
-      "daily_gain": 196
+      "name": "abhigyanpatwari/GitNexus",
+      "daily_gain": 181
     }
   ]
 }
