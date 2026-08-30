@@ -1,85 +1,77 @@
 {
-  "updated_at": "2026-08-29T14:42:02.429640Z",
+  "updated_at": "2026-08-30T00:40:16.674032Z",
   "projects": [
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 3927
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1604
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 356
+      "daily_gain": 3902
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1870
+      "daily_gain": 1855
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "daily_gain": 273
-    },
-    {
-      "name": "JetBrains/go-modern-guidelines",
-      "daily_gain": 294
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 809
-    },
-    {
-      "name": "abi/screenshot-to-code",
-      "daily_gain": 558
-    },
-    {
-      "name": "cursor/plugins",
-      "daily_gain": 257
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 767
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "daily_gain": 1587
     },
     {
       "name": "tailscale/tailcat",
-      "daily_gain": 790
+      "daily_gain": 789
     },
     {
-      "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 375
+      "name": "THU-MAIC/OpenMAIC",
+      "daily_gain": 907
     },
     {
-      "name": "swoole/typephp",
-      "daily_gain": 188
+      "name": "p-e-w/heretic",
+      "daily_gain": 150
     },
     {
-      "name": "marin-community/marin",
-      "daily_gain": 163
+      "name": "bigskysoftware/htmx",
+      "daily_gain": 32
     },
     {
-      "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 612
+      "name": "JetBrains/go-modern-guidelines",
+      "daily_gain": 303
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 215
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 73
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 359
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 806
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 1171
+      "name": "every-app/open-seo",
+      "daily_gain": 517
+    },
+    {
+      "name": "Osmantic/ODS",
+      "daily_gain": 35
+    },
+    {
+      "name": "abi/screenshot-to-code",
+      "daily_gain": 550
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 358
     },
     {
       "name": "google/googletest",
-      "daily_gain": 125
+      "daily_gain": 128
     },
     {
-      "name": "livekit/agents",
-      "daily_gain": 256
+      "name": "kaifcodec/user-scanner",
+      "daily_gain": 5
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 39
+    },
+    {
+      "name": "workweave/router",
+      "daily_gain": 196
     }
   ]
 }
