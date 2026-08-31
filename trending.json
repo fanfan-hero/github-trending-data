@@ -1,81 +1,81 @@
 {
-  "updated_at": "2026-08-30T14:31:10.895858Z",
+  "updated_at": "2026-08-31T00:48:39.361233Z",
   "projects": [
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 907
+      "daily_gain": 1370
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1113
+      "daily_gain": 1114
     },
     {
       "name": "Lakr233/vphone-cli",
-      "daily_gain": 633
+      "daily_gain": 361
     },
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 3730
+      "daily_gain": 3722
     },
     {
       "name": "p-e-w/heretic",
-      "daily_gain": 150
+      "daily_gain": 369
     },
     {
       "name": "unclecode/crawl4ai",
-      "daily_gain": 229
+      "daily_gain": 221
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 272
+      "daily_gain": 230
     },
     {
       "name": "majd/ipatool",
-      "daily_gain": 56
+      "daily_gain": 58
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
-      "daily_gain": 65
+      "daily_gain": 96
     },
     {
       "name": "checkstyle/checkstyle",
-      "daily_gain": 78
+      "daily_gain": 115
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 196
+      "daily_gain": 198
     },
     {
       "name": "pollen-robotics/microduck_rl",
-      "daily_gain": 147
+      "daily_gain": 168
     },
     {
       "name": "handsomestWei/patent-disclosure-skill",
-      "daily_gain": 38
+      "daily_gain": 62
     },
     {
       "name": "corsairdev/corsair",
-      "daily_gain": 99
+      "daily_gain": 126
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 517
+      "daily_gain": 469
     },
     {
       "name": "colinhacks/zod",
-      "daily_gain": 17
+      "daily_gain": 31
     },
     {
       "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 505
+      "daily_gain": 504
     },
     {
       "name": "livekit/agents",
-      "daily_gain": 131
+      "daily_gain": 132
     },
     {
       "name": "abhigyanpatwari/GitNexus",
-      "daily_gain": 181
+      "daily_gain": 182
     }
   ]
 }
