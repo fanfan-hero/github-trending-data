@@ -1,81 +1,69 @@
 {
-  "updated_at": "2026-08-31T10:04:11.335944Z",
+  "updated_at": "2026-08-31T17:14:35.300130Z",
   "projects": [
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 1370
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1114
-    },
-    {
-      "name": "Lakr233/vphone-cli",
-      "daily_gain": 361
+      "daily_gain": 2819
     },
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 3722
+      "daily_gain": 3993
     },
     {
-      "name": "p-e-w/heretic",
-      "daily_gain": 369
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "daily_gain": 1968
     },
     {
-      "name": "unclecode/crawl4ai",
-      "daily_gain": 221
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 230
+      "name": "k1tbyte/Wand-Enhancer",
+      "daily_gain": 718
     },
     {
       "name": "majd/ipatool",
-      "daily_gain": 58
+      "daily_gain": 376
     },
     {
-      "name": "punkpeye/awesome-mcp-servers",
-      "daily_gain": 96
+      "name": "jingyaogong/minimind",
+      "daily_gain": 472
+    },
+    {
+      "name": "Osmantic/ODS",
+      "daily_gain": 163
     },
     {
       "name": "checkstyle/checkstyle",
-      "daily_gain": 115
+      "daily_gain": 199
     },
     {
-      "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 198
+      "name": "zhaoxuya520/reverse-skill",
+      "daily_gain": 1439
     },
     {
-      "name": "pollen-robotics/microduck_rl",
-      "daily_gain": 168
+      "name": "affaan-m/ECC",
+      "daily_gain": 548
     },
     {
-      "name": "handsomestWei/patent-disclosure-skill",
-      "daily_gain": 62
-    },
-    {
-      "name": "corsairdev/corsair",
-      "daily_gain": 126
+      "name": "kaifcodec/user-scanner",
+      "daily_gain": 184
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 469
+      "daily_gain": 608
     },
     {
-      "name": "colinhacks/zod",
-      "daily_gain": 31
+      "name": "p-e-w/heretic",
+      "daily_gain": 536
     },
     {
-      "name": "tashfeenahmed/freellmapi",
-      "daily_gain": 504
+      "name": "handsomestWei/patent-disclosure-skill",
+      "daily_gain": 571
     },
     {
-      "name": "livekit/agents",
-      "daily_gain": 132
+      "name": "firecrawl/pdf-inspector",
+      "daily_gain": 199
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "daily_gain": 182
+      "name": "pollen-robotics/microduck_rl",
+      "daily_gain": 384
     }
   ]
 }
