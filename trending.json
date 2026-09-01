@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-31T17:14:35.300130Z",
+  "updated_at": "2026-09-01T01:22:57.004796Z",
   "projects": [
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 2819
+      "daily_gain": 2824
     },
     {
       "name": "tt-a1i/archify",
-      "daily_gain": 3993
+      "daily_gain": 3991
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1968
+      "daily_gain": 1980
     },
     {
       "name": "k1tbyte/Wand-Enhancer",
-      "daily_gain": 718
+      "daily_gain": 582
     },
     {
       "name": "majd/ipatool",
-      "daily_gain": 376
+      "daily_gain": 373
     },
     {
       "name": "jingyaogong/minimind",
-      "daily_gain": 472
+      "daily_gain": 495
     },
     {
       "name": "Osmantic/ODS",
-      "daily_gain": 163
+      "daily_gain": 77
     },
     {
       "name": "checkstyle/checkstyle",
-      "daily_gain": 199
+      "daily_gain": 198
     },
     {
       "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 1439
+      "daily_gain": 1401
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 548
+      "daily_gain": 512
     },
     {
       "name": "kaifcodec/user-scanner",
-      "daily_gain": 184
+      "daily_gain": 93
     },
     {
       "name": "every-app/open-seo",
-      "daily_gain": 608
+      "daily_gain": 610
     },
     {
       "name": "p-e-w/heretic",
-      "daily_gain": 536
+      "daily_gain": 537
     },
     {
       "name": "handsomestWei/patent-disclosure-skill",
@@ -59,11 +59,11 @@
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 199
+      "daily_gain": 228
     },
     {
       "name": "pollen-robotics/microduck_rl",
-      "daily_gain": 384
+      "daily_gain": 385
     }
   ]
 }
