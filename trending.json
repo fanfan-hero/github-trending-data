@@ -1,65 +1,61 @@
 {
-  "updated_at": "2026-09-01T14:18:51.226795Z",
+  "updated_at": "2026-09-02T00:30:34.920143Z",
   "projects": [
     {
       "name": "Gitlawb/openclaude",
-      "daily_gain": 37
+      "daily_gain": 80
     },
     {
       "name": "Imbad0202/academic-research-skills",
-      "daily_gain": 161
+      "daily_gain": 193
     },
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 3122
+      "daily_gain": 3128
     },
     {
       "name": "iv-org/invidious",
-      "daily_gain": 583
+      "daily_gain": 577
     },
     {
       "name": "jingyaogong/minimind",
       "daily_gain": 1005
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 509
-    },
-    {
       "name": "3b1b/manim",
-      "daily_gain": 74
+      "daily_gain": 86
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 545
+      "daily_gain": 541
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 591
+      "daily_gain": 472
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 914
+      "daily_gain": 912
     },
     {
       "name": "handsomestWei/patent-disclosure-skill",
-      "daily_gain": 502
+      "daily_gain": 501
     },
     {
       "name": "VoltAgent/awesome-design-md",
-      "daily_gain": 487
+      "daily_gain": 323
     },
     {
       "name": "averygan/reclip",
-      "daily_gain": 21
+      "daily_gain": 56
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 621
+      "daily_gain": 623
     },
     {
       "name": "unclecode/crawl4ai",
-      "daily_gain": 516
+      "daily_gain": 145
     }
   ]
 }
