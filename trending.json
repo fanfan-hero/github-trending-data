@@ -1,45 +1,49 @@
 {
-  "updated_at": "2026-09-02T13:53:06.811667Z",
+  "updated_at": "2026-09-03T00:37:48.383340Z",
   "projects": [
     {
       "name": "fmtlib/fmt",
-      "daily_gain": 3
+      "daily_gain": 14
     },
     {
       "name": "google-research/timesfm",
-      "daily_gain": 326
+      "daily_gain": 343
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1364
+      "daily_gain": 1354
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 832
     },
     {
       "name": "sngyai/Sequoia-X",
-      "daily_gain": 195
+      "daily_gain": 63
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 140
+      "daily_gain": 148
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 529
+      "daily_gain": 533
     },
     {
       "name": "superlinked/sie",
-      "daily_gain": 61
+      "daily_gain": 60
     },
     {
       "name": "pacifio/atlas",
-      "daily_gain": 895
+      "daily_gain": 888
     },
     {
       "name": "zyronon/TypeWords",
-      "daily_gain": 68
+      "daily_gain": 21
     },
     {
       "name": "Imbad0202/academic-research-skills",
-      "daily_gain": 801
+      "daily_gain": 799
     },
     {
       "name": "affaan-m/ECC",
@@ -47,31 +51,31 @@
     },
     {
       "name": "protocolbuffers/protobuf",
-      "daily_gain": 16
+      "daily_gain": 18
     },
     {
       "name": "vercel-labs/portless",
-      "daily_gain": 69
+      "daily_gain": 73
     },
     {
       "name": "blader/humanizer",
-      "daily_gain": 366
+      "daily_gain": 374
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 234
+      "daily_gain": 238
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1103
+      "daily_gain": 1166
     },
     {
       "name": "Gitlawb/openclaude",
-      "daily_gain": 776
+      "daily_gain": 775
     },
     {
       "name": "firecrawl/pdf-inspector",
-      "daily_gain": 589
+      "daily_gain": 586
     }
   ]
 }
