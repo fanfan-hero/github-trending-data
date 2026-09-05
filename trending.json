@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-09-04T13:48:10.910465Z",
+  "updated_at": "2026-09-05T00:22:01.622386Z",
   "projects": [
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2757
+      "daily_gain": 2758
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1683
+      "daily_gain": 1679
     },
     {
       "name": "fmtlib/fmt",
-      "daily_gain": 681
+      "daily_gain": 688
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1139
+      "daily_gain": 1135
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 512
+      "daily_gain": 511
     },
     {
       "name": "blader/humanizer",
-      "daily_gain": 1132
+      "daily_gain": 1130
     },
     {
       "name": "NousResearch/hermes-agent",
-      "daily_gain": 721
+      "daily_gain": 720
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 503
+      "daily_gain": 501
     },
     {
       "name": "magnitudedev/magnitude",
-      "daily_gain": 395
+      "daily_gain": 391
     },
     {
       "name": "bikini/exploitarium",
-      "daily_gain": 68
+      "daily_gain": 74
     },
     {
       "name": "bannedbook/fanqiang",
-      "daily_gain": 735
+      "daily_gain": 730
     },
     {
       "name": "debpalash/VoiceStudio",
@@ -51,23 +51,23 @@
     },
     {
       "name": "google-research/timesfm",
-      "daily_gain": 340
+      "daily_gain": 342
     },
     {
       "name": "radixark/miles",
-      "daily_gain": 55
+      "daily_gain": 64
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 314
+      "daily_gain": 345
     },
     {
       "name": "clshortfuse/renodx",
-      "daily_gain": 759
+      "daily_gain": 261
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 426
+      "daily_gain": 437
     }
   ]
 }
