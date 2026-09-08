@@ -1,61 +1,69 @@
 {
-  "updated_at": "2026-09-08T08:19:27.860269Z",
+  "updated_at": "2026-09-08T13:54:00.403974Z",
   "projects": [
     {
-      "name": "heygen-com/hyperframes",
-      "daily_gain": 474
+      "name": "ayghri/i-have-adhd",
+      "daily_gain": 422
     },
     {
-      "name": "microsoft/markitdown",
-      "daily_gain": 886
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 96
-    },
-    {
-      "name": "jo-inc/camofox-browser",
-      "daily_gain": 135
-    },
-    {
-      "name": "MoonTechLab/LunaTV",
-      "daily_gain": 197
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1897
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "daily_gain": 580
-    },
-    {
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "daily_gain": 517
-    },
-    {
-      "name": "BraveOPotato/FckSignups",
-      "daily_gain": 501
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "daily_gain": 195
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 1070
     },
     {
       "name": "openai/skills",
-      "daily_gain": 351
+      "daily_gain": 490
     },
     {
-      "name": "lightpanda-io/browser",
-      "daily_gain": 58
+      "name": "affaan-m/ECC",
+      "daily_gain": 1426
     },
     {
-      "name": "pascalorg/editor",
-      "daily_gain": 168
+      "name": "heygen-com/hyperframes",
+      "daily_gain": 2628
     },
     {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 394
+      "name": "coreyhaines31/marketingskills",
+      "daily_gain": 666
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 446
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "daily_gain": 325
+    },
+    {
+      "name": "microsoft/markitdown",
+      "daily_gain": 2045
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "daily_gain": 872
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "daily_gain": 505
+    },
+    {
+      "name": "browser-use/browser-use",
+      "daily_gain": 330
+    },
+    {
+      "name": "mksglu/context-mode",
+      "daily_gain": 652
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "daily_gain": 494
+    },
+    {
+      "name": "viarotel-org/escrcpy",
+      "daily_gain": 173
+    },
+    {
+      "name": "openai/plugins",
+      "daily_gain": 45
     }
   ]
 }
