@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:34:37.429237Z",
+  "updated_at": "2026-09-09T08:22:04.856403Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
@@ -56,6 +56,10 @@
     {
       "name": "The-Swarm-Corporation/AutoHedge",
       "daily_gain": 494
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "daily_gain": 910
     },
     {
       "name": "viarotel-org/escrcpy",
