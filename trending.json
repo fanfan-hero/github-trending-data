@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-08T13:54:00.403974Z",
+  "updated_at": "2026-09-09T00:34:37.429237Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 422
+      "daily_gain": 656
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1070
+      "daily_gain": 710
     },
     {
       "name": "openai/skills",
@@ -15,11 +15,11 @@
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1426
+      "daily_gain": 1427
     },
     {
       "name": "heygen-com/hyperframes",
-      "daily_gain": 2628
+      "daily_gain": 2627
     },
     {
       "name": "coreyhaines31/marketingskills",
@@ -27,19 +27,19 @@
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 446
+      "daily_gain": 452
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 325
+      "daily_gain": 333
     },
     {
       "name": "microsoft/markitdown",
-      "daily_gain": 2045
+      "daily_gain": 2047
     },
     {
       "name": "jo-inc/camofox-browser",
-      "daily_gain": 872
+      "daily_gain": 871
     },
     {
       "name": "MoonTechLab/LunaTV",
@@ -47,11 +47,11 @@
     },
     {
       "name": "browser-use/browser-use",
-      "daily_gain": 330
+      "daily_gain": 228
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 652
+      "daily_gain": 651
     },
     {
       "name": "The-Swarm-Corporation/AutoHedge",
@@ -59,11 +59,11 @@
     },
     {
       "name": "viarotel-org/escrcpy",
-      "daily_gain": 173
+      "daily_gain": 178
     },
     {
       "name": "openai/plugins",
-      "daily_gain": 45
+      "daily_gain": 105
     }
   ]
 }
