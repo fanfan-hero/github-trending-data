@@ -1,73 +1,57 @@
 {
-  "updated_at": "2026-09-09T08:22:04.856403Z",
+  "updated_at": "2026-09-09T13:56:33.008978Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 656
+      "daily_gain": 4624
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 710
-    },
-    {
-      "name": "openai/skills",
-      "daily_gain": 490
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1427
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "daily_gain": 2627
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "daily_gain": 666
+      "name": "Tencent/teamai-cli",
+      "daily_gain": 1083
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 452
+      "daily_gain": 690
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 333
+      "name": "pascalorg/editor",
+      "daily_gain": 442
     },
     {
-      "name": "microsoft/markitdown",
-      "daily_gain": 2047
+      "name": "earthtojake/text-to-cad",
+      "daily_gain": 97
     },
     {
-      "name": "jo-inc/camofox-browser",
-      "daily_gain": 871
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 2286
     },
     {
-      "name": "MoonTechLab/LunaTV",
-      "daily_gain": 505
-    },
-    {
-      "name": "browser-use/browser-use",
-      "daily_gain": 228
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 651
-    },
-    {
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "daily_gain": 494
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 506
     },
     {
       "name": "liquidslr/system-design-notes",
       "daily_gain": 910
     },
     {
-      "name": "viarotel-org/escrcpy",
-      "daily_gain": 178
+      "name": "openai/plugins",
+      "daily_gain": 505
     },
     {
-      "name": "openai/plugins",
-      "daily_gain": 105
+      "name": "freestylefly/awesome-gpt-image-2",
+      "daily_gain": 612
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 356
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "daily_gain": 393
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 1151
     }
   ]
 }
