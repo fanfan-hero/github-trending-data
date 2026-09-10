@@ -1,57 +1,69 @@
 {
-  "updated_at": "2026-09-10T08:22:50.212743Z",
+  "updated_at": "2026-09-10T13:51:08.281924Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 4650
+      "daily_gain": 3854
     },
     {
-      "name": "Tencent/teamai-cli",
-      "daily_gain": 556
+      "name": "bilawalsidhu/gods-eye-view",
+      "daily_gain": 1588
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 688
+      "daily_gain": 731
     },
     {
-      "name": "pascalorg/editor",
-      "daily_gain": 107
+      "name": "alsk1992/CloddsBot",
+      "daily_gain": 299
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "daily_gain": 124
+      "name": "Tencent/teamai-cli",
+      "daily_gain": 837
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 2249
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "daily_gain": 367
+      "name": "AlexsJones/llmfit",
+      "daily_gain": 247
     },
     {
       "name": "liquidslr/system-design-notes",
-      "daily_gain": 1397
+      "daily_gain": 891
     },
     {
-      "name": "openai/plugins",
-      "daily_gain": 498
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 1287
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 705
+      "daily_gain": 957
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 343
+      "name": "armory3d/armorpaint",
+      "daily_gain": 73
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "daily_gain": 591
+    },
+    {
+      "name": "JustVugg/colibri",
+      "daily_gain": 157
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "daily_gain": 806
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "daily_gain": 94
+    },
+    {
+      "name": "vercel-labs/skills",
+      "daily_gain": 125
     },
     {
       "name": "vastsa/PI-Desktop",
-      "daily_gain": 417
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1133
+      "daily_gain": 636
     }
   ]
 }
