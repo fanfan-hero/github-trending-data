@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-09T13:56:33.008978Z",
+  "updated_at": "2026-09-10T00:33:28.819090Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 4624
+      "daily_gain": 4650
     },
     {
       "name": "Tencent/teamai-cli",
-      "daily_gain": 1083
+      "daily_gain": 556
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 690
+      "daily_gain": 688
     },
     {
       "name": "pascalorg/editor",
-      "daily_gain": 442
+      "daily_gain": 107
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 97
+      "daily_gain": 124
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 2286
+      "daily_gain": 2249
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 506
+      "daily_gain": 367
     },
     {
       "name": "liquidslr/system-design-notes",
-      "daily_gain": 910
+      "daily_gain": 1397
     },
     {
       "name": "openai/plugins",
-      "daily_gain": 505
+      "daily_gain": 498
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 612
+      "daily_gain": 705
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 356
+      "daily_gain": 343
     },
     {
       "name": "vastsa/PI-Desktop",
-      "daily_gain": 393
+      "daily_gain": 417
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1151
+      "daily_gain": 1133
     }
   ]
 }
