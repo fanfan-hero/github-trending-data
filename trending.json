@@ -1,69 +1,65 @@
 {
-  "updated_at": "2026-09-11T08:17:31.757302Z",
+  "updated_at": "2026-09-11T13:50:47.361928Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 3882
+      "daily_gain": 3440
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1762
+      "daily_gain": 3642
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 732
+      "name": "nab138/iloader",
+      "daily_gain": 36
     },
     {
-      "name": "alsk1992/CloddsBot",
-      "daily_gain": 277
-    },
-    {
-      "name": "Tencent/teamai-cli",
-      "daily_gain": 841
-    },
-    {
-      "name": "AlexsJones/llmfit",
-      "daily_gain": 258
-    },
-    {
-      "name": "liquidslr/system-design-notes",
-      "daily_gain": 900
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1294
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 962
-    },
-    {
-      "name": "armory3d/armorpaint",
-      "daily_gain": 72
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 626
-    },
-    {
-      "name": "JustVugg/colibri",
-      "daily_gain": 98
-    },
-    {
-      "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 837
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "daily_gain": 142
-    },
-    {
-      "name": "vercel-labs/skills",
-      "daily_gain": 122
+      "name": "melgarafael/DeskcommCRM",
+      "daily_gain": 126
     },
     {
       "name": "vastsa/PI-Desktop",
-      "daily_gain": 624
+      "daily_gain": 545
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "daily_gain": 354
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "daily_gain": 627
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "daily_gain": 640
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 731
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "daily_gain": 174
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "daily_gain": 132
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "daily_gain": 201
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "daily_gain": 118
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "daily_gain": 210
+    },
+    {
+      "name": "pascalorg/editor",
+      "daily_gain": 985
     }
   ]
 }
