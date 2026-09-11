@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-09-10T13:51:08.281924Z",
+  "updated_at": "2026-09-11T00:31:33.862076Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 3854
+      "daily_gain": 3882
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1588
+      "daily_gain": 1762
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 731
+      "daily_gain": 732
     },
     {
       "name": "alsk1992/CloddsBot",
-      "daily_gain": 299
+      "daily_gain": 277
     },
     {
       "name": "Tencent/teamai-cli",
-      "daily_gain": 837
+      "daily_gain": 841
     },
     {
       "name": "AlexsJones/llmfit",
-      "daily_gain": 247
+      "daily_gain": 258
     },
     {
       "name": "liquidslr/system-design-notes",
-      "daily_gain": 891
+      "daily_gain": 900
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1287
+      "daily_gain": 1294
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "daily_gain": 957
+      "daily_gain": 962
     },
     {
       "name": "armory3d/armorpaint",
-      "daily_gain": 73
+      "daily_gain": 72
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "daily_gain": 591
+      "daily_gain": 626
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 157
+      "daily_gain": 98
     },
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 806
+      "daily_gain": 837
     },
     {
       "name": "nashsu/llm_wiki",
-      "daily_gain": 94
+      "daily_gain": 142
     },
     {
       "name": "vercel-labs/skills",
-      "daily_gain": 125
+      "daily_gain": 122
     },
     {
       "name": "vastsa/PI-Desktop",
-      "daily_gain": 636
+      "daily_gain": 624
     }
   ]
 }
