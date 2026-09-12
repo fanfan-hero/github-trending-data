@@ -1,65 +1,69 @@
 {
-  "updated_at": "2026-09-12T08:07:14.828577Z",
+  "updated_at": "2026-09-12T13:09:54.073126Z",
   "projects": [
     {
-      "name": "ayghri/i-have-adhd",
-      "daily_gain": 3463
-    },
-    {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 3680
-    },
-    {
-      "name": "nab138/iloader",
-      "daily_gain": 50
+      "daily_gain": 2265
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 152
+      "daily_gain": 505
     },
     {
-      "name": "vastsa/PI-Desktop",
-      "daily_gain": 552
+      "name": "asgeirtj/system_prompts_leaks",
+      "daily_gain": 216
     },
     {
-      "name": "armory3d/armorpaint",
-      "daily_gain": 350
+      "name": "nab138/iloader",
+      "daily_gain": 209
     },
     {
-      "name": "alsk1992/CloddsBot",
-      "daily_gain": 626
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "daily_gain": 647
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 729
-    },
-    {
-      "name": "Sonarr/Sonarr",
-      "daily_gain": 191
+      "name": "Flowseal/zapret-discord-youtube",
+      "daily_gain": 52
     },
     {
       "name": "jihe520/MathModelAgent",
-      "daily_gain": 129
+      "daily_gain": 264
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "daily_gain": 228
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "daily_gain": 377
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "daily_gain": 247
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "daily_gain": 237
     },
     {
       "name": "p1neappleXpress/OpenFlux",
-      "daily_gain": 198
+      "daily_gain": 355
     },
     {
-      "name": "jordan-gibbs/hyperresearch",
-      "daily_gain": 153
+      "name": "armory3d/armorpaint",
+      "daily_gain": 237
     },
     {
-      "name": "alphaXiv/OpenResearch",
-      "daily_gain": 120
+      "name": "SnailSploit/Claude-Red",
+      "daily_gain": 99
     },
     {
-      "name": "pascalorg/editor",
-      "daily_gain": 1015
+      "name": "multimodal-art-projection/YuE",
+      "daily_gain": 193
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "daily_gain": 44
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "daily_gain": 193
     }
   ]
 }
