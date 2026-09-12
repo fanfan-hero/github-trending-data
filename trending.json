@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-09-11T13:50:47.361928Z",
+  "updated_at": "2026-09-12T00:36:25.440128Z",
   "projects": [
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 3440
+      "daily_gain": 3463
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 3642
+      "daily_gain": 3680
     },
     {
       "name": "nab138/iloader",
-      "daily_gain": 36
+      "daily_gain": 50
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 126
+      "daily_gain": 152
     },
     {
       "name": "vastsa/PI-Desktop",
-      "daily_gain": 545
+      "daily_gain": 552
     },
     {
       "name": "armory3d/armorpaint",
-      "daily_gain": 354
+      "daily_gain": 350
     },
     {
       "name": "alsk1992/CloddsBot",
-      "daily_gain": 627
+      "daily_gain": 626
     },
     {
       "name": "nashsu/llm_wiki",
-      "daily_gain": 640
+      "daily_gain": 647
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 731
+      "daily_gain": 729
     },
     {
       "name": "Sonarr/Sonarr",
-      "daily_gain": 174
+      "daily_gain": 191
     },
     {
       "name": "jihe520/MathModelAgent",
-      "daily_gain": 132
+      "daily_gain": 129
     },
     {
       "name": "p1neappleXpress/OpenFlux",
-      "daily_gain": 201
+      "daily_gain": 198
     },
     {
       "name": "jordan-gibbs/hyperresearch",
-      "daily_gain": 118
+      "daily_gain": 153
     },
     {
       "name": "alphaXiv/OpenResearch",
-      "daily_gain": 210
+      "daily_gain": 120
     },
     {
       "name": "pascalorg/editor",
-      "daily_gain": 985
+      "daily_gain": 1015
     }
   ]
 }
