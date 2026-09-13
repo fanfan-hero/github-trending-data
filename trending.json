@@ -1,69 +1,81 @@
 {
-  "updated_at": "2026-09-13T08:31:47.611872Z",
+  "updated_at": "2026-09-13T13:54:39.703560Z",
   "projects": [
     {
+      "name": "JustVugg/colibri",
+      "daily_gain": 652
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "daily_gain": 58
+    },
+    {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 2265
+      "daily_gain": 2898
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "daily_gain": 215
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 504
+      "daily_gain": 444
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 383
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 217
-    },
-    {
-      "name": "nab138/iloader",
-      "daily_gain": 209
-    },
-    {
-      "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 65
-    },
-    {
-      "name": "jihe520/MathModelAgent",
-      "daily_gain": 262
-    },
-    {
-      "name": "Sonarr/Sonarr",
-      "daily_gain": 227
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "daily_gain": 376
-    },
-    {
-      "name": "yuliskov/SmartTube",
-      "daily_gain": 136
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 230
-    },
-    {
-      "name": "p1neappleXpress/OpenFlux",
-      "daily_gain": 355
-    },
-    {
-      "name": "armory3d/armorpaint",
-      "daily_gain": 237
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "daily_gain": 113
-    },
-    {
-      "name": "multimodal-art-projection/YuE",
-      "daily_gain": 210
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "daily_gain": 54
+      "daily_gain": 727
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 189
+      "daily_gain": 613
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "daily_gain": 500
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "daily_gain": 238
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "daily_gain": 452
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 2546
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "daily_gain": 507
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 264
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "daily_gain": 268
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "daily_gain": 839
+    },
+    {
+      "name": "jiji262/douyin-downloader",
+      "daily_gain": 473
+    },
+    {
+      "name": "Swordfish90/cool-retro-term",
+      "daily_gain": 98
+    },
+    {
+      "name": "huggingface/transformers",
+      "daily_gain": 102
     }
   ]
 }
