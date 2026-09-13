@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:09:54.073126Z",
+  "updated_at": "2026-09-13T00:17:25.374593Z",
   "projects": [
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -7,11 +7,11 @@
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 505
+      "daily_gain": 504
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 216
+      "daily_gain": 217
     },
     {
       "name": "nab138/iloader",
@@ -19,27 +19,27 @@
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
-      "daily_gain": 52
+      "daily_gain": 65
     },
     {
       "name": "jihe520/MathModelAgent",
-      "daily_gain": 264
+      "daily_gain": 262
     },
     {
       "name": "Sonarr/Sonarr",
-      "daily_gain": 228
+      "daily_gain": 227
     },
     {
       "name": "alsk1992/CloddsBot",
-      "daily_gain": 377
+      "daily_gain": 376
     },
     {
       "name": "yuliskov/SmartTube",
-      "daily_gain": 247
+      "daily_gain": 136
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "daily_gain": 237
+      "daily_gain": 230
     },
     {
       "name": "p1neappleXpress/OpenFlux",
@@ -51,19 +51,19 @@
     },
     {
       "name": "SnailSploit/Claude-Red",
-      "daily_gain": 99
+      "daily_gain": 113
     },
     {
       "name": "multimodal-art-projection/YuE",
-      "daily_gain": 193
+      "daily_gain": 210
     },
     {
       "name": "max-sixty/worktrunk",
-      "daily_gain": 44
+      "daily_gain": 54
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 193
+      "daily_gain": 189
     }
   ]
 }
