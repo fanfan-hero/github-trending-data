@@ -1,81 +1,81 @@
 {
-  "updated_at": "2026-09-13T13:54:39.703560Z",
+  "updated_at": "2026-09-14T00:24:23.344020Z",
   "projects": [
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 652
+      "daily_gain": 868
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 58
+      "daily_gain": 191
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 2898
+      "daily_gain": 2680
     },
     {
       "name": "tech-leads-club/agent-skills",
-      "daily_gain": 215
+      "daily_gain": 265
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 444
+      "daily_gain": 432
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 383
+      "daily_gain": 380
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 727
+      "daily_gain": 706
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 613
+      "daily_gain": 590
     },
     {
       "name": "multimodal-art-projection/YuE",
-      "daily_gain": 500
+      "daily_gain": 487
     },
     {
       "name": "yuliskov/SmartTube",
-      "daily_gain": 238
+      "daily_gain": 233
     },
     {
       "name": "alphaXiv/OpenResearch",
-      "daily_gain": 452
+      "daily_gain": 289
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2546
+      "daily_gain": 2632
     },
     {
       "name": "SnailSploit/Claude-Red",
-      "daily_gain": 507
+      "daily_gain": 506
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 264
+      "daily_gain": 443
     },
     {
       "name": "jihe520/MathModelAgent",
-      "daily_gain": 268
+      "daily_gain": 246
     },
     {
       "name": "tonhowtf/omniget",
-      "daily_gain": 839
+      "daily_gain": 507
     },
     {
       "name": "jiji262/douyin-downloader",
-      "daily_gain": 473
+      "daily_gain": 452
     },
     {
       "name": "Swordfish90/cool-retro-term",
-      "daily_gain": 98
+      "daily_gain": 57
     },
     {
       "name": "huggingface/transformers",
-      "daily_gain": 102
+      "daily_gain": 152
     }
   ]
 }
