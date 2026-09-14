@@ -1,81 +1,85 @@
 {
-  "updated_at": "2026-09-14T09:14:44.739533Z",
+  "updated_at": "2026-09-14T16:00:10.880075Z",
   "projects": [
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 868
-    },
-    {
-      "name": "ever-co/ever-gauzy",
-      "daily_gain": 191
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 2680
-    },
-    {
-      "name": "tech-leads-club/agent-skills",
-      "daily_gain": 265
-    },
-    {
-      "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 432
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 380
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 706
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "daily_gain": 590
-    },
-    {
-      "name": "multimodal-art-projection/YuE",
-      "daily_gain": 487
-    },
-    {
-      "name": "yuliskov/SmartTube",
-      "daily_gain": 233
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "daily_gain": 289
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 2632
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "daily_gain": 506
+      "daily_gain": 2233
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 443
+      "daily_gain": 1796
     },
     {
-      "name": "jihe520/MathModelAgent",
-      "daily_gain": 246
+      "name": "multimodal-art-projection/YuE",
+      "daily_gain": 578
     },
     {
-      "name": "tonhowtf/omniget",
-      "daily_gain": 507
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 2774
     },
     {
-      "name": "jiji262/douyin-downloader",
-      "daily_gain": 452
+      "name": "666ghj/MiroFish",
+      "daily_gain": 524
     },
     {
-      "name": "Swordfish90/cool-retro-term",
-      "daily_gain": 57
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 640
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "daily_gain": 770
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "daily_gain": 52
+    },
+    {
+      "name": "localsend/localsend",
+      "daily_gain": 213
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "daily_gain": 110
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 756
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 370
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "daily_gain": 506
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "daily_gain": 204
     },
     {
       "name": "huggingface/transformers",
-      "daily_gain": 152
+      "daily_gain": 528
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "daily_gain": 1095
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "daily_gain": 26
+    },
+    {
+      "name": "reconurge/flowsint",
+      "daily_gain": 279
+    },
+    {
+      "name": "peetzweg/opendisplay",
+      "daily_gain": 314
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "daily_gain": 606
     }
   ]
 }
