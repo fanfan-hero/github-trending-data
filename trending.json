@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-09-14T16:00:10.880075Z",
+  "updated_at": "2026-09-15T00:52:58.591458Z",
   "projects": [
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 2233
+      "daily_gain": 2173
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 1796
+      "daily_gain": 1571
     },
     {
       "name": "multimodal-art-projection/YuE",
-      "daily_gain": 578
+      "daily_gain": 559
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2774
+      "daily_gain": 2776
     },
     {
       "name": "666ghj/MiroFish",
-      "daily_gain": 524
+      "daily_gain": 560
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 640
+      "daily_gain": 651
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
-      "daily_gain": 770
+      "daily_gain": 764
     },
     {
       "name": "rlaope/oh-my-hermes",
-      "daily_gain": 52
+      "daily_gain": 77
     },
     {
       "name": "localsend/localsend",
-      "daily_gain": 213
+      "daily_gain": 251
     },
     {
       "name": "dani-garcia/vaultwarden",
-      "daily_gain": 110
+      "daily_gain": 115
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 756
+      "daily_gain": 745
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 370
+      "daily_gain": 383
     },
     {
       "name": "tech-leads-club/agent-skills",
-      "daily_gain": 506
+      "daily_gain": 512
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 204
+      "daily_gain": 216
     },
     {
       "name": "huggingface/transformers",
-      "daily_gain": 528
+      "daily_gain": 536
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 1095
+      "daily_gain": 1130
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 26
+      "daily_gain": 40
     },
     {
       "name": "reconurge/flowsint",
-      "daily_gain": 279
+      "daily_gain": 280
     },
     {
       "name": "peetzweg/opendisplay",
-      "daily_gain": 314
+      "daily_gain": 229
     },
     {
       "name": "SnailSploit/Claude-Red",
-      "daily_gain": 606
+      "daily_gain": 579
     }
   ]
 }
