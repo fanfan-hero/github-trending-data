@@ -1,61 +1,89 @@
 {
-  "updated_at": "2026-09-16T08:49:37.885796Z",
+  "updated_at": "2026-09-16T14:22:10.506508Z",
   "projects": [
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 2756
+      "daily_gain": 3215
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "daily_gain": 1434
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 2026
+      "daily_gain": 1532
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "daily_gain": 1076
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "daily_gain": 409
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "daily_gain": 907
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 96
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 634
+      "daily_gain": 771
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 2072
-    },
-    {
-      "name": "Homebrew/BrewUI",
-      "daily_gain": 271
-    },
-    {
-      "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 193
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "daily_gain": 531
+      "name": "ankitects/anki",
+      "daily_gain": 50
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 725
+      "daily_gain": 1059
     },
     {
-      "name": "danny-avila/LibreChat",
-      "daily_gain": 254
+      "name": "anthropics/claude-code",
+      "daily_gain": 155
     },
     {
-      "name": "pacifio/atlas",
-      "daily_gain": 91
+      "name": "roboflow/supervision",
+      "daily_gain": 217
     },
     {
-      "name": "MG1937/ASC",
-      "daily_gain": 129
+      "name": "alphaXiv/OpenResearch",
+      "daily_gain": 1036
+    },
+    {
+      "name": "supabase/supabase",
+      "daily_gain": 118
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "daily_gain": 74
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "daily_gain": 696
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "daily_gain": 699
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "daily_gain": 701
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 307
+      "daily_gain": 656
     },
     {
-      "name": "tonhowtf/omniget",
-      "daily_gain": 258
+      "name": "cline/cline",
+      "daily_gain": 102
     },
     {
-      "name": "earendil-works/pi",
-      "daily_gain": 458
+      "name": "affaan-m/ECC",
+      "daily_gain": 1046
     }
   ]
 }
