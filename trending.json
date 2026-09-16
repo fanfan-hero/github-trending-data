@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-15T14:29:01.051145Z",
+  "updated_at": "2026-09-16T00:46:32.314271Z",
   "projects": [
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 2751
+      "daily_gain": 2756
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 2035
+      "daily_gain": 2026
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 632
+      "daily_gain": 634
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2081
+      "daily_gain": 2072
     },
     {
       "name": "Homebrew/BrewUI",
-      "daily_gain": 388
+      "daily_gain": 271
     },
     {
       "name": "melgarafael/DeskcommCRM",
-      "daily_gain": 205
+      "daily_gain": 193
     },
     {
       "name": "alphaXiv/OpenResearch",
-      "daily_gain": 593
+      "daily_gain": 531
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 755
+      "daily_gain": 725
     },
     {
       "name": "danny-avila/LibreChat",
-      "daily_gain": 261
+      "daily_gain": 254
     },
     {
       "name": "pacifio/atlas",
-      "daily_gain": 102
+      "daily_gain": 91
     },
     {
       "name": "MG1937/ASC",
-      "daily_gain": 122
+      "daily_gain": 129
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 354
+      "daily_gain": 307
     },
     {
       "name": "tonhowtf/omniget",
-      "daily_gain": 318
+      "daily_gain": 258
     },
     {
       "name": "earendil-works/pi",
-      "daily_gain": 437
+      "daily_gain": 458
     }
   ]
 }
