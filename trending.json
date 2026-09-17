@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-16T14:22:10.506508Z",
+  "updated_at": "2026-09-17T00:52:03.248753Z",
   "projects": [
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 3215
+      "daily_gain": 3231
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 1434
+      "daily_gain": 927
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 1532
+      "daily_gain": 1546
     },
     {
       "name": "abue-ammar/tinycast",
-      "daily_gain": 1076
+      "daily_gain": 1179
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 409
+      "daily_gain": 417
     },
     {
       "name": "Lakr233/vphone-cli",
-      "daily_gain": 907
+      "daily_gain": 547
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 96
+      "daily_gain": 110
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 771
+      "daily_gain": 778
     },
     {
       "name": "ankitects/anki",
-      "daily_gain": 50
+      "daily_gain": 58
     },
     {
       "name": "NationalSecurityAgency/ghidra",
@@ -43,47 +43,47 @@
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 155
+      "daily_gain": 165
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 217
+      "daily_gain": 260
     },
     {
       "name": "alphaXiv/OpenResearch",
-      "daily_gain": 1036
+      "daily_gain": 1017
     },
     {
       "name": "supabase/supabase",
-      "daily_gain": 118
+      "daily_gain": 120
     },
     {
       "name": "rlaope/oh-my-hermes",
-      "daily_gain": 74
+      "daily_gain": 80
     },
     {
       "name": "Tencent/WeKnora",
-      "daily_gain": 696
+      "daily_gain": 1197
     },
     {
       "name": "SnailSploit/Claude-Red",
-      "daily_gain": 699
+      "daily_gain": 367
     },
     {
       "name": "multimodal-art-projection/YuE",
-      "daily_gain": 701
+      "daily_gain": 332
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 656
+      "daily_gain": 658
     },
     {
       "name": "cline/cline",
-      "daily_gain": 102
+      "daily_gain": 112
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1046
+      "daily_gain": 1057
     }
   ]
 }
