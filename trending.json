@@ -1,85 +1,73 @@
 {
-  "updated_at": "2026-09-18T08:29:28.160009Z",
+  "updated_at": "2026-09-18T13:52:52.380645Z",
   "projects": [
     {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 3286
-    },
-    {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 3607
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 680
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "daily_gain": 1302
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "daily_gain": 939
+      "daily_gain": 3019
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 538
+      "daily_gain": 442
     },
     {
-      "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 912
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 287
-    },
-    {
-      "name": "Tencent/WeKnora",
-      "daily_gain": 1125
-    },
-    {
-      "name": "abue-ammar/tinycast",
-      "daily_gain": 739
-    },
-    {
-      "name": "cilium/cilium",
-      "daily_gain": 111
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "daily_gain": 667
+      "name": "alibaba/open-code-review",
+      "daily_gain": 2724
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1171
+      "daily_gain": 965
     },
     {
-      "name": "roboflow/supervision",
-      "daily_gain": 329
+      "name": "Tencent/BrowserSkill",
+      "daily_gain": 1319
     },
     {
-      "name": "JustVugg/colibri",
-      "daily_gain": 873
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 677
     },
     {
       "name": "TencentCloud/Octop",
-      "daily_gain": 367
+      "daily_gain": 571
     },
     {
-      "name": "ever-co/ever-gauzy",
-      "daily_gain": 470
+      "name": "Fission-AI/OpenSpec",
+      "daily_gain": 298
     },
     {
-      "name": "cline/cline",
-      "daily_gain": 380
+      "name": "ankitects/anki",
+      "daily_gain": 430
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 300
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "daily_gain": 140
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "daily_gain": 64
+    },
+    {
+      "name": "rustfs/rustfs",
+      "daily_gain": 559
+    },
+    {
+      "name": "supabase/supabase",
+      "daily_gain": 128
     },
     {
       "name": "coder/coder",
+      "daily_gain": 478
+    },
+    {
+      "name": "ahmedkhaleel2004/gitdiagram",
       "daily_gain": 145
     },
     {
-      "name": "n8n-io/n8n",
-      "daily_gain": 281
+      "name": "asciimoo/hister",
+      "daily_gain": 842
     }
   ]
 }
