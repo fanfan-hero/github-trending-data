@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-17T14:27:43.488785Z",
+  "updated_at": "2026-09-18T00:45:43.141433Z",
   "projects": [
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 3290
+      "daily_gain": 3286
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 3606
+      "daily_gain": 3607
     },
     {
       "name": "addyosmani/agent-skills",
@@ -15,11 +15,11 @@
     },
     {
       "name": "Tencent/BrowserSkill",
-      "daily_gain": 1350
+      "daily_gain": 1302
     },
     {
       "name": "alphaXiv/OpenResearch",
-      "daily_gain": 940
+      "daily_gain": 939
     },
     {
       "name": "anthropics/claude-code",
@@ -35,51 +35,51 @@
     },
     {
       "name": "Tencent/WeKnora",
-      "daily_gain": 1123
+      "daily_gain": 1125
     },
     {
       "name": "abue-ammar/tinycast",
-      "daily_gain": 738
+      "daily_gain": 739
     },
     {
       "name": "cilium/cilium",
-      "daily_gain": 20
+      "daily_gain": 111
     },
     {
       "name": "jamiepine/voicebox",
-      "daily_gain": 665
+      "daily_gain": 667
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1173
+      "daily_gain": 1171
     },
     {
       "name": "roboflow/supervision",
-      "daily_gain": 327
+      "daily_gain": 329
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 872
+      "daily_gain": 873
     },
     {
       "name": "TencentCloud/Octop",
-      "daily_gain": 386
+      "daily_gain": 367
     },
     {
       "name": "ever-co/ever-gauzy",
-      "daily_gain": 469
+      "daily_gain": 470
     },
     {
       "name": "cline/cline",
-      "daily_gain": 381
+      "daily_gain": 380
     },
     {
       "name": "coder/coder",
-      "daily_gain": 204
+      "daily_gain": 145
     },
     {
       "name": "n8n-io/n8n",
-      "daily_gain": 319
+      "daily_gain": 281
     }
   ]
 }
