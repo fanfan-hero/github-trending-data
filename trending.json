@@ -1,73 +1,65 @@
 {
-  "updated_at": "2026-09-19T08:16:35.701259Z",
+  "updated_at": "2026-09-19T13:28:28.582129Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 3006
+      "daily_gain": 3162
     },
     {
-      "name": "anthropics/claude-code",
-      "daily_gain": 444
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 2704
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 958
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "daily_gain": 1306
+      "name": "trycua/cua",
+      "daily_gain": 383
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 675
-    },
-    {
-      "name": "TencentCloud/Octop",
-      "daily_gain": 569
-    },
-    {
-      "name": "Fission-AI/OpenSpec",
-      "daily_gain": 296
-    },
-    {
-      "name": "ankitects/anki",
-      "daily_gain": 174
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 299
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "daily_gain": 140
-    },
-    {
-      "name": "tradesdontlie/tradingview-mcp",
-      "daily_gain": 79
-    },
-    {
-      "name": "rustfs/rustfs",
-      "daily_gain": 267
-    },
-    {
-      "name": "supabase/supabase",
-      "daily_gain": 120
+      "daily_gain": 547
     },
     {
       "name": "coder/coder",
-      "daily_gain": 478
+      "daily_gain": 406
     },
     {
-      "name": "ahmedkhaleel2004/gitdiagram",
-      "daily_gain": 152
+      "name": "anthropics/claude-code",
+      "daily_gain": 482
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "daily_gain": 477
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "daily_gain": 325
+    },
+    {
+      "name": "docling-project/docling",
+      "daily_gain": 94
+    },
+    {
+      "name": "cloudflare/quiche",
+      "daily_gain": 5
     },
     {
       "name": "asciimoo/hister",
-      "daily_gain": 889
+      "daily_gain": 430
+    },
+    {
+      "name": "ruanyf/weekly",
+      "daily_gain": 144
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "daily_gain": 31
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 280
+    },
+    {
+      "name": "cactus-compute/needle",
+      "daily_gain": 207
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "daily_gain": 64
     }
   ]
 }
