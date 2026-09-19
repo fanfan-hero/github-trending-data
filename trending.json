@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-09-18T13:52:52.380645Z",
+  "updated_at": "2026-09-19T00:36:21.061118Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 3019
+      "daily_gain": 3006
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 442
+      "daily_gain": 444
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 2724
+      "daily_gain": 2704
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 965
+      "daily_gain": 958
     },
     {
       "name": "Tencent/BrowserSkill",
-      "daily_gain": 1319
+      "daily_gain": 1306
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 677
+      "daily_gain": 675
     },
     {
       "name": "TencentCloud/Octop",
-      "daily_gain": 571
+      "daily_gain": 569
     },
     {
       "name": "Fission-AI/OpenSpec",
-      "daily_gain": 298
+      "daily_gain": 296
     },
     {
       "name": "ankitects/anki",
-      "daily_gain": 430
+      "daily_gain": 174
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 300
+      "daily_gain": 299
     },
     {
       "name": "supermemoryai/supermemory",
@@ -47,15 +47,15 @@
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
-      "daily_gain": 64
+      "daily_gain": 79
     },
     {
       "name": "rustfs/rustfs",
-      "daily_gain": 559
+      "daily_gain": 267
     },
     {
       "name": "supabase/supabase",
-      "daily_gain": 128
+      "daily_gain": 120
     },
     {
       "name": "coder/coder",
@@ -63,11 +63,11 @@
     },
     {
       "name": "ahmedkhaleel2004/gitdiagram",
-      "daily_gain": 145
+      "daily_gain": 152
     },
     {
       "name": "asciimoo/hister",
-      "daily_gain": 842
+      "daily_gain": 889
     }
   ]
 }
