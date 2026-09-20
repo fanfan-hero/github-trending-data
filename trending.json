@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-09-19T13:28:28.582129Z",
+  "updated_at": "2026-09-20T00:22:05.880477Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 3162
+      "daily_gain": 3155
     },
     {
       "name": "trycua/cua",
-      "daily_gain": 383
+      "daily_gain": 859
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 547
+      "daily_gain": 556
     },
     {
       "name": "coder/coder",
-      "daily_gain": 406
+      "daily_gain": 402
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 482
+      "daily_gain": 483
     },
     {
       "name": "Open-Dev-Society/OpenStock",
-      "daily_gain": 477
+      "daily_gain": 472
     },
     {
       "name": "higgsfield-ai/higgsfield",
-      "daily_gain": 325
+      "daily_gain": 196
     },
     {
       "name": "docling-project/docling",
-      "daily_gain": 94
+      "daily_gain": 129
     },
     {
       "name": "cloudflare/quiche",
-      "daily_gain": 5
-    },
-    {
-      "name": "asciimoo/hister",
-      "daily_gain": 430
-    },
-    {
-      "name": "ruanyf/weekly",
-      "daily_gain": 144
-    },
-    {
-      "name": "ZuodaoTech/everyone-can-use-english",
       "daily_gain": 31
     },
     {
+      "name": "asciimoo/hister",
+      "daily_gain": 420
+    },
+    {
+      "name": "ruanyf/weekly",
+      "daily_gain": 98
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "daily_gain": 48
+    },
+    {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 280
+      "daily_gain": 281
     },
     {
       "name": "cactus-compute/needle",
-      "daily_gain": 207
+      "daily_gain": 234
     },
     {
       "name": "yynxxxxx/Codex-X",
-      "daily_gain": 64
+      "daily_gain": 32
     }
   ]
 }
