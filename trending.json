@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-20T13:43:02.653208Z",
+  "updated_at": "2026-09-21T00:28:44.306707Z",
   "projects": [
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1012
+      "daily_gain": 826
     },
     {
       "name": "BuilderIO/agent-native",
-      "daily_gain": 89
+      "daily_gain": 98
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2375
+      "daily_gain": 2428
     },
     {
       "name": "trycua/cua",
-      "daily_gain": 1012
+      "daily_gain": 1018
     },
     {
       "name": "anthropics/financial-services",
-      "daily_gain": 236
+      "daily_gain": 260
     },
     {
       "name": "paperless-ngx/paperless-ngx",
-      "daily_gain": 32
+      "daily_gain": 57
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 415
+      "daily_gain": 419
     },
     {
       "name": "mihail911/modern-software-dev-assignments",
-      "daily_gain": 174
+      "daily_gain": 172
     },
     {
       "name": "higgsfield-ai/higgsfield",
-      "daily_gain": 461
+      "daily_gain": 465
     },
     {
       "name": "Open-Dev-Society/OpenStock",
-      "daily_gain": 752
+      "daily_gain": 755
     },
     {
       "name": "coder/coder",
-      "daily_gain": 382
+      "daily_gain": 379
     },
     {
       "name": "vercel-labs/json-render",
-      "daily_gain": 585
+      "daily_gain": 291
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 729
+      "daily_gain": 736
     }
   ]
 }
