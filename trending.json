@@ -1,53 +1,37 @@
 {
-  "updated_at": "2026-09-22T08:47:42.135702Z",
+  "updated_at": "2026-09-22T14:11:56.204010Z",
   "projects": [
     {
-      "name": "BuilderIO/agent-native",
-      "daily_gain": 607
-    },
-    {
-      "name": "trycua/cua",
-      "daily_gain": 609
-    },
-    {
-      "name": "Open-Dev-Society/OpenStock",
-      "daily_gain": 844
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 167
-    },
-    {
-      "name": "coder/coder",
-      "daily_gain": 460
-    },
-    {
       "name": "anthropics/financial-services",
-      "daily_gain": 424
+      "daily_gain": 436
     },
     {
-      "name": "cloudflare/quiche",
-      "daily_gain": 32
+      "name": "agent-substrate/substrate",
+      "daily_gain": 498
+    },
+    {
+      "name": "dream-num/univer",
+      "daily_gain": 202
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "daily_gain": 33
+    },
+    {
+      "name": "google/ax",
+      "daily_gain": 2324
     },
     {
       "name": "mvt-project/mvt",
-      "daily_gain": 169
+      "daily_gain": 441
     },
     {
-      "name": "zhouxiaoka/autoclip",
-      "daily_gain": 250
+      "name": "superdesigndev/treg",
+      "daily_gain": 197
     },
     {
-      "name": "ruanyf/weekly",
-      "daily_gain": 182
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "daily_gain": 394
-    },
-    {
-      "name": "yynxxxxx/Codex-X",
-      "daily_gain": 50
+      "name": "browser-use/video-use",
+      "daily_gain": 155
     }
   ]
 }
