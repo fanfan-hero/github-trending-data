@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T14:11:56.204010Z",
+  "updated_at": "2026-09-23T00:54:42.335900Z",
   "projects": [
     {
       "name": "anthropics/financial-services",
-      "daily_gain": 436
+      "daily_gain": 438
     },
     {
       "name": "agent-substrate/substrate",
-      "daily_gain": 498
+      "daily_gain": 245
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 202
+      "daily_gain": 255
     },
     {
       "name": "davila7/claude-code-templates",
-      "daily_gain": 33
+      "daily_gain": 64
     },
     {
       "name": "google/ax",
-      "daily_gain": 2324
+      "daily_gain": 2305
     },
     {
       "name": "mvt-project/mvt",
@@ -27,11 +27,11 @@
     },
     {
       "name": "superdesigndev/treg",
-      "daily_gain": 197
+      "daily_gain": 230
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 155
+      "daily_gain": 191
     }
   ]
 }
