@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-09-23T14:27:17.324006Z",
+  "updated_at": "2026-09-24T00:51:57.062850Z",
   "projects": [
     {
       "name": "anthropics/financial-services",
-      "daily_gain": 665
+      "daily_gain": 664
     },
     {
       "name": "google/ax",
-      "daily_gain": 1542
+      "daily_gain": 1543
     },
     {
       "name": "davila7/claude-code-templates",
-      "daily_gain": 393
+      "daily_gain": 389
     },
     {
       "name": "BuilderIO/agent-native",
-      "daily_gain": 609
+      "daily_gain": 87
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 528
+      "daily_gain": 474
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 1140
+      "daily_gain": 1142
     },
     {
       "name": "Open-Dev-Society/OpenStock",
-      "daily_gain": 832
+      "daily_gain": 344
     },
     {
       "name": "agent-substrate/substrate",
-      "daily_gain": 560
+      "daily_gain": 558
     },
     {
       "name": "strands-agents/harness-sdk",
-      "daily_gain": 96
+      "daily_gain": 115
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 41
+      "daily_gain": 57
     },
     {
       "name": "superdesigndev/treg",
-      "daily_gain": 502
+      "daily_gain": 506
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 287
+      "daily_gain": 304
     },
     {
       "name": "mvt-project/mvt",
-      "daily_gain": 546
+      "daily_gain": 543
     },
     {
       "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 201
+      "daily_gain": 190
     },
     {
       "name": "harry7557558/spirula-studio",
-      "daily_gain": 86
+      "daily_gain": 69
     },
     {
       "name": "browser-use/video-use",
-      "daily_gain": 745
+      "daily_gain": 746
     },
     {
       "name": "TNT-Likely/PanWatch",
-      "daily_gain": 175
+      "daily_gain": 95
     }
   ]
 }
