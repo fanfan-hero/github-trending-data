@@ -1,73 +1,61 @@
 {
-  "updated_at": "2026-09-24T08:44:16.600141Z",
+  "updated_at": "2026-09-24T14:27:23.919810Z",
   "projects": [
     {
-      "name": "anthropics/financial-services",
-      "daily_gain": 664
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 310
     },
     {
-      "name": "google/ax",
-      "daily_gain": 1543
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "daily_gain": 389
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "daily_gain": 87
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 474
+      "name": "vectorize-io/hindsight",
+      "daily_gain": 1607
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 1142
+      "daily_gain": 1060
     },
     {
-      "name": "Open-Dev-Society/OpenStock",
-      "daily_gain": 344
+      "name": "google/ax",
+      "daily_gain": 1376
     },
     {
-      "name": "agent-substrate/substrate",
-      "daily_gain": 558
+      "name": "NVIDIA/Model-Optimizer",
+      "daily_gain": 22
     },
     {
-      "name": "strands-agents/harness-sdk",
-      "daily_gain": 115
+      "name": "FxEmbed/FxEmbed",
+      "daily_gain": 165
+    },
+    {
+      "name": "anthropics/financial-services",
+      "daily_gain": 510
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 57
-    },
-    {
-      "name": "superdesigndev/treg",
-      "daily_gain": 506
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 304
+      "daily_gain": 415
     },
     {
       "name": "mvt-project/mvt",
-      "daily_gain": 543
+      "daily_gain": 275
     },
     {
-      "name": "DeusData/codebase-memory-mcp",
-      "daily_gain": 190
+      "name": "obra/superpowers",
+      "daily_gain": 606
     },
     {
-      "name": "harry7557558/spirula-studio",
-      "daily_gain": 69
+      "name": "strands-agents/harness-sdk",
+      "daily_gain": 463
     },
     {
-      "name": "browser-use/video-use",
-      "daily_gain": 746
+      "name": "julyx10/lap",
+      "daily_gain": 71
     },
     {
-      "name": "TNT-Likely/PanWatch",
-      "daily_gain": 95
+      "name": "superdesigndev/treg",
+      "daily_gain": 470
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "daily_gain": 33
     }
   ]
 }
