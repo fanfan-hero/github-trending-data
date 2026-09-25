@@ -1,61 +1,69 @@
 {
-  "updated_at": "2026-09-25T09:04:40.506291Z",
+  "updated_at": "2026-09-25T14:45:07.796264Z",
   "projects": [
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 347
+      "name": "paperclipai/paperclip",
+      "daily_gain": 1853
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 62
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 1668
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 1082
-    },
-    {
-      "name": "google/ax",
-      "daily_gain": 1373
-    },
-    {
-      "name": "NVIDIA/Model-Optimizer",
-      "daily_gain": 44
-    },
-    {
-      "name": "FxEmbed/FxEmbed",
-      "daily_gain": 182
-    },
-    {
-      "name": "anthropics/financial-services",
-      "daily_gain": 509
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "daily_gain": 413
-    },
-    {
-      "name": "mvt-project/mvt",
-      "daily_gain": 272
+      "daily_gain": 1652
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 611
+      "daily_gain": 465
     },
     {
-      "name": "strands-agents/harness-sdk",
-      "daily_gain": 455
+      "name": "mattpocock/skills",
+      "daily_gain": 671
     },
     {
-      "name": "julyx10/lap",
-      "daily_gain": 122
+      "name": "dream-num/univer",
+      "daily_gain": 1048
     },
     {
-      "name": "superdesigndev/treg",
-      "daily_gain": 468
+      "name": "anthropics/skills",
+      "daily_gain": 155
     },
     {
-      "name": "leejet/stable-diffusion.cpp",
-      "daily_gain": 36
+      "name": "androoAGI/starnet",
+      "daily_gain": 113
+    },
+    {
+      "name": "derv82/wifit3",
+      "daily_gain": 168
+    },
+    {
+      "name": "kelseyhightower/kubernetes-the-hard-way",
+      "daily_gain": 105
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 1181
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "daily_gain": 31
+    },
+    {
+      "name": "google/ax",
+      "daily_gain": 1386
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "daily_gain": 360
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "daily_gain": 527
+    },
+    {
+      "name": "openbao/openbao",
+      "daily_gain": 16
     }
   ]
 }
