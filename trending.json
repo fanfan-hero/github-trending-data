@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-24T14:27:23.919810Z",
+  "updated_at": "2026-09-25T00:47:00.401388Z",
   "projects": [
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 310
+      "daily_gain": 347
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 1607
+      "daily_gain": 1668
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 1060
+      "daily_gain": 1082
     },
     {
       "name": "google/ax",
-      "daily_gain": 1376
+      "daily_gain": 1373
     },
     {
       "name": "NVIDIA/Model-Optimizer",
-      "daily_gain": 22
+      "daily_gain": 44
     },
     {
       "name": "FxEmbed/FxEmbed",
-      "daily_gain": 165
+      "daily_gain": 182
     },
     {
       "name": "anthropics/financial-services",
-      "daily_gain": 510
+      "daily_gain": 509
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 415
+      "daily_gain": 413
     },
     {
       "name": "mvt-project/mvt",
-      "daily_gain": 275
+      "daily_gain": 272
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 606
+      "daily_gain": 611
     },
     {
       "name": "strands-agents/harness-sdk",
-      "daily_gain": 463
+      "daily_gain": 455
     },
     {
       "name": "julyx10/lap",
-      "daily_gain": 71
+      "daily_gain": 122
     },
     {
       "name": "superdesigndev/treg",
-      "daily_gain": 470
+      "daily_gain": 468
     },
     {
       "name": "leejet/stable-diffusion.cpp",
-      "daily_gain": 33
+      "daily_gain": 36
     }
   ]
 }
