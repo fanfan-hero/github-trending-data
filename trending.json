@@ -1,69 +1,61 @@
 {
-  "updated_at": "2026-09-26T08:48:52.184264Z",
+  "updated_at": "2026-09-26T13:53:31.979622Z",
   "projects": [
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 2109
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 83
+      "daily_gain": 2589
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 1653
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 468
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 583
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 1050
-    },
-    {
-      "name": "anthropics/skills",
-      "daily_gain": 189
-    },
-    {
-      "name": "androoAGI/starnet",
-      "daily_gain": 93
-    },
-    {
-      "name": "derv82/wifit3",
-      "daily_gain": 183
-    },
-    {
-      "name": "kelseyhightower/kubernetes-the-hard-way",
-      "daily_gain": 119
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 1177
-    },
-    {
-      "name": "shy3130/tick-stock-panel",
-      "daily_gain": 44
-    },
-    {
-      "name": "google/ax",
-      "daily_gain": 1379
+      "daily_gain": 2152
     },
     {
       "name": "NVIDIA/Model-Optimizer",
-      "daily_gain": 359
+      "daily_gain": 354
     },
     {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 306
+      "name": "dream-num/univer",
+      "daily_gain": 845
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "daily_gain": 31
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "daily_gain": 828
     },
     {
       "name": "openbao/openbao",
-      "daily_gain": 49
+      "daily_gain": 360
+    },
+    {
+      "name": "block/buzz",
+      "daily_gain": 175
+    },
+    {
+      "name": "microsoft/vscode",
+      "daily_gain": 78
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "daily_gain": 409
+    },
+    {
+      "name": "llvm/llvm-project",
+      "daily_gain": 29
+    },
+    {
+      "name": "anthropics/claude-code-action",
+      "daily_gain": 15
+    },
+    {
+      "name": "mobile-next/mobile-mcp",
+      "daily_gain": 13
+    },
+    {
+      "name": "vercel/next.js",
+      "daily_gain": 143
     }
   ]
 }
