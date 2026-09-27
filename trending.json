@@ -1,61 +1,41 @@
 {
-  "updated_at": "2026-09-27T09:30:33.029369Z",
+  "updated_at": "2026-09-27T14:49:48.622146Z",
   "projects": [
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 2608
+      "daily_gain": 2527
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 2147
+      "daily_gain": 4463
     },
     {
-      "name": "NVIDIA/Model-Optimizer",
-      "daily_gain": 357
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 849
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "daily_gain": 46
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 3060
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 827
+      "daily_gain": 848
     },
     {
-      "name": "openbao/openbao",
-      "daily_gain": 364
+      "name": "InfinityLoop1308/PipePipe",
+      "daily_gain": 139
     },
     {
-      "name": "block/buzz",
-      "daily_gain": 339
+      "name": "vercel-labs/scriptc",
+      "daily_gain": 76
     },
     {
-      "name": "microsoft/vscode",
-      "daily_gain": 95
+      "name": "mvschwarz/openrig",
+      "daily_gain": 114
     },
     {
-      "name": "zhaoxuya520/reverse-skill",
-      "daily_gain": 361
+      "name": "dream-num/univer",
+      "daily_gain": 920
     },
     {
-      "name": "llvm/llvm-project",
-      "daily_gain": 41
-    },
-    {
-      "name": "anthropics/claude-code-action",
-      "daily_gain": 31
-    },
-    {
-      "name": "mobile-next/mobile-mcp",
-      "daily_gain": 19
-    },
-    {
-      "name": "vercel/next.js",
-      "daily_gain": 168
+      "name": "willfaust/Madeira",
+      "daily_gain": 171
     }
   ]
 }
