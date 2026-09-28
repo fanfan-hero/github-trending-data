@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-27T14:49:48.622146Z",
+  "updated_at": "2026-09-28T01:09:51.150098Z",
   "projects": [
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 2527
+      "daily_gain": 2401
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 4463
+      "daily_gain": 4520
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 3060
+      "daily_gain": 3086
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 848
+      "daily_gain": 790
     },
     {
       "name": "InfinityLoop1308/PipePipe",
-      "daily_gain": 139
+      "daily_gain": 242
     },
     {
       "name": "vercel-labs/scriptc",
-      "daily_gain": 76
+      "daily_gain": 102
     },
     {
       "name": "mvschwarz/openrig",
@@ -31,11 +31,11 @@
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 920
+      "daily_gain": 895
     },
     {
       "name": "willfaust/Madeira",
-      "daily_gain": 171
+      "daily_gain": 83
     }
   ]
 }
