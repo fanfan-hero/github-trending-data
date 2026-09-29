@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-09-28T17:49:23.199857Z",
+  "updated_at": "2026-09-29T02:16:59.160777Z",
   "projects": [
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 3274
+      "daily_gain": 3221
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 3185
+      "daily_gain": 3197
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 4413
+      "daily_gain": 4561
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
-      "daily_gain": 145
+      "daily_gain": 158
     },
     {
       "name": "cs341-illinois/coursebook",
-      "daily_gain": 316
+      "daily_gain": 195
     },
     {
       "name": "byoungd/up",
-      "daily_gain": 310
+      "daily_gain": 327
     },
     {
       "name": "mvschwarz/openrig",
-      "daily_gain": 781
+      "daily_gain": 734
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 1105
+      "daily_gain": 1099
     }
   ]
 }
