@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-29T16:09:18.467162Z",
+  "updated_at": "2026-09-30T01:32:16.552477Z",
   "projects": [
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 4712
+      "daily_gain": 4758
     },
     {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 978
+      "daily_gain": 990
     },
     {
       "name": "vectorize-io/hindsight",
-      "daily_gain": 2541
+      "daily_gain": 2575
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 2412
+      "daily_gain": 2458
     },
     {
       "name": "t8y2/dbx",
-      "daily_gain": 460
+      "daily_gain": 232
     },
     {
       "name": "mvschwarz/openrig",
-      "daily_gain": 733
+      "daily_gain": 737
     },
     {
       "name": "oblien/openship",
-      "daily_gain": 436
+      "daily_gain": 437
     },
     {
       "name": "averygan/reclip",
-      "daily_gain": 114
+      "daily_gain": 113
     },
     {
       "name": "cs341-illinois/coursebook",
-      "daily_gain": 569
+      "daily_gain": 572
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 855
+      "daily_gain": 786
     },
     {
       "name": "VectifyAI/PageIndex",
-      "daily_gain": 822
+      "daily_gain": 835
     },
     {
       "name": "willfaust/Madeira",
-      "daily_gain": 229
+      "daily_gain": 81
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 692
+      "daily_gain": 696
     },
     {
       "name": "rakyll/hey",
-      "daily_gain": 31
+      "daily_gain": 34
     }
   ]
 }
