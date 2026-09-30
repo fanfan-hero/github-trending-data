@@ -1,61 +1,73 @@
 {
-  "updated_at": "2026-09-30T09:59:16.428982Z",
+  "updated_at": "2026-09-30T16:06:00.526431Z",
   "projects": [
     {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 4758
-    },
-    {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 990
+      "daily_gain": 1280
     },
     {
-      "name": "vectorize-io/hindsight",
-      "daily_gain": 2575
-    },
-    {
-      "name": "paperclipai/paperclip",
-      "daily_gain": 2458
-    },
-    {
-      "name": "t8y2/dbx",
-      "daily_gain": 232
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 3481
     },
     {
       "name": "mvschwarz/openrig",
-      "daily_gain": 737
+      "daily_gain": 622
     },
     {
-      "name": "oblien/openship",
-      "daily_gain": 437
+      "name": "mksglu/context-mode",
+      "daily_gain": 88
     },
     {
-      "name": "averygan/reclip",
-      "daily_gain": 113
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 675
     },
     {
-      "name": "cs341-illinois/coursebook",
-      "daily_gain": 572
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 338
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "daily_gain": 786
+      "name": "openclaw/openclaw",
+      "daily_gain": 136
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "daily_gain": 118
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 736
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "daily_gain": 352
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "daily_gain": 4
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "daily_gain": 48
+    },
+    {
+      "name": "byoungd/up",
+      "daily_gain": 1102
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "daily_gain": 159
+    },
+    {
+      "name": "t8y2/dbx",
+      "daily_gain": 1133
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "daily_gain": 466
     },
     {
       "name": "VectifyAI/PageIndex",
-      "daily_gain": 835
-    },
-    {
-      "name": "willfaust/Madeira",
-      "daily_gain": 81
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 696
-    },
-    {
-      "name": "rakyll/hey",
-      "daily_gain": 34
+      "daily_gain": 1095
     }
   ]
 }
