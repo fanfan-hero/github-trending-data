@@ -1,73 +1,65 @@
 {
-  "updated_at": "2026-10-01T10:26:22.464386Z",
+  "updated_at": "2026-10-01T16:42:13.635218Z",
   "projects": [
     {
-      "name": "NVIDIA/OpenShell",
-      "daily_gain": 1281
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 3483
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "daily_gain": 624
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 90
-    },
-    {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 743
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 431
-    },
-    {
-      "name": "openclaw/openclaw",
-      "daily_gain": 136
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "daily_gain": 123
+      "daily_gain": 1179
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 876
+      "daily_gain": 888
     },
     {
-      "name": "heygen-com/hyperframes",
-      "daily_gain": 349
+      "name": "NVIDIA/OpenShell",
+      "daily_gain": 2503
     },
     {
       "name": "firebase/firebase-ios-sdk",
-      "daily_gain": 8
+      "daily_gain": 112
     },
     {
-      "name": "modelcontextprotocol/servers",
-      "daily_gain": 50
+      "name": "mvschwarz/openrig",
+      "daily_gain": 640
     },
     {
-      "name": "byoungd/up",
-      "daily_gain": 743
+      "name": "cursor/plugins",
+      "daily_gain": 157
     },
     {
-      "name": "colbymchenry/codegraph",
-      "daily_gain": 118
+      "name": "obra/superpowers",
+      "daily_gain": 476
     },
     {
-      "name": "t8y2/dbx",
-      "daily_gain": 1138
+      "name": "mksglu/context-mode",
+      "daily_gain": 357
     },
     {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "daily_gain": 263
+      "name": "heygen-com/hyperframes",
+      "daily_gain": 624
     },
     {
-      "name": "VectifyAI/PageIndex",
-      "daily_gain": 1097
+      "name": "earendil-works/pi",
+      "daily_gain": 294
+    },
+    {
+      "name": "tile-ai/tilelang",
+      "daily_gain": 157
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "daily_gain": 356
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "daily_gain": 369
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "daily_gain": 463
+    },
+    {
+      "name": "Friedrich-M/UniMate",
+      "daily_gain": 225
     }
   ]
 }
