@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-02T15:58:17.858335Z",
+  "updated_at": "2026-10-03T01:24:48.319218Z",
   "projects": [
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 683
+      "daily_gain": 696
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 271
+      "daily_gain": 209
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 561
+      "daily_gain": 556
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1429
+      "daily_gain": 1435
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 717
+      "daily_gain": 722
     },
     {
       "name": "mattpocock/skills",
@@ -27,47 +27,47 @@
     },
     {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 584
+      "daily_gain": 594
     },
     {
       "name": "coreyhaines31/marketingskills",
-      "daily_gain": 139
+      "daily_gain": 140
     },
     {
       "name": "heygen-com/hyperframes",
-      "daily_gain": 584
+      "daily_gain": 580
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 276
+      "daily_gain": 282
     },
     {
       "name": "google/skills",
-      "daily_gain": 78
+      "daily_gain": 39
     },
     {
       "name": "getsentry/sentry",
-      "daily_gain": 12
+      "daily_gain": 16
     },
     {
       "name": "colbymchenry/codegraph",
-      "daily_gain": 241
+      "daily_gain": 98
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 168
+      "daily_gain": 163
     },
     {
       "name": "mvschwarz/openrig",
-      "daily_gain": 691
+      "daily_gain": 683
     },
     {
       "name": "Effect-TS/effect",
-      "daily_gain": 76
+      "daily_gain": 80
     },
     {
       "name": "pablostanley/yoinks",
-      "daily_gain": 629
+      "daily_gain": 623
     }
   ]
 }
