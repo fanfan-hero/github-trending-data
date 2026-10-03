@@ -1,73 +1,81 @@
 {
-  "updated_at": "2026-10-03T09:25:12.831103Z",
+  "updated_at": "2026-10-03T14:25:25.905249Z",
   "projects": [
     {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 696
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 209
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 556
-    },
-    {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1435
+      "daily_gain": 1289
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 722
+      "daily_gain": 705
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 955
-    },
-    {
-      "name": "NVIDIA/OpenShell",
-      "daily_gain": 594
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "daily_gain": 140
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "daily_gain": 580
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 282
-    },
-    {
-      "name": "google/skills",
-      "daily_gain": 39
-    },
-    {
-      "name": "getsentry/sentry",
-      "daily_gain": 16
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "daily_gain": 98
-    },
-    {
-      "name": "cursor/plugins",
-      "daily_gain": 163
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "daily_gain": 683
+      "name": "affaan-m/ECC",
+      "daily_gain": 578
     },
     {
       "name": "Effect-TS/effect",
-      "daily_gain": 80
+      "daily_gain": 302
     },
     {
-      "name": "pablostanley/yoinks",
-      "daily_gain": 623
+      "name": "JuliusBrussee/caveman",
+      "daily_gain": 505
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 1683
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "daily_gain": 251
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "daily_gain": 115
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "daily_gain": 84
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 189
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 578
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 750
+    },
+    {
+      "name": "mksglu/context-mode",
+      "daily_gain": 256
+    },
+    {
+      "name": "earendil-works/pi",
+      "daily_gain": 408
+    },
+    {
+      "name": "getsentry/sentry",
+      "daily_gain": 211
+    },
+    {
+      "name": "anthropics/claude-code",
+      "daily_gain": 127
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "daily_gain": 192
+    },
+    {
+      "name": "meituan-longcat/LongCat-Video",
+      "daily_gain": 43
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "daily_gain": 234
     }
   ]
 }
