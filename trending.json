@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-04T14:59:13.145374Z",
+  "updated_at": "2026-10-05T01:15:21.137025Z",
   "projects": [
     {
       "name": "tester-army/e2e",
-      "daily_gain": 344
+      "daily_gain": 345
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1170
+      "daily_gain": 1171
     },
     {
       "name": "coreyhaines31/marketingskills",
-      "daily_gain": 345
+      "daily_gain": 197
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -19,11 +19,11 @@
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 75
+      "daily_gain": 83
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 979
+      "daily_gain": 980
     },
     {
       "name": "getsentry/sentry",
@@ -31,15 +31,19 @@
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 292
+      "daily_gain": 245
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 492
+      "daily_gain": 490
     },
     {
       "name": "caddyserver/caddy",
-      "daily_gain": 31
+      "daily_gain": 24
+    },
+    {
+      "name": "michael-denyer/pstack-claude",
+      "daily_gain": 232
     },
     {
       "name": "addyosmani/agent-skills",
@@ -47,11 +51,11 @@
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 627
+      "daily_gain": 628
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 121
+      "daily_gain": 125
     },
     {
       "name": "OpenCut-app/OpenCut",
