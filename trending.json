@@ -1,69 +1,57 @@
 {
-  "updated_at": "2026-10-05T10:49:51.367952Z",
+  "updated_at": "2026-10-05T18:51:10.740523Z",
   "projects": [
     {
       "name": "tester-army/e2e",
-      "daily_gain": 345
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 1171
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "daily_gain": 197
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 1894
-    },
-    {
-      "name": "earthtojake/text-to-cad",
-      "daily_gain": 83
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "daily_gain": 980
-    },
-    {
-      "name": "getsentry/sentry",
-      "daily_gain": 152
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "daily_gain": 245
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "daily_gain": 490
-    },
-    {
-      "name": "caddyserver/caddy",
-      "daily_gain": 24
-    },
-    {
-      "name": "michael-denyer/pstack-claude",
-      "daily_gain": 232
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 336
+      "daily_gain": 1430
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 628
+      "daily_gain": 534
     },
     {
-      "name": "garrytan/gstack",
-      "daily_gain": 125
+      "name": "michael-denyer/pstack-claude",
+      "daily_gain": 222
     },
     {
-      "name": "OpenCut-app/OpenCut",
-      "daily_gain": 512
+      "name": "earthtojake/text-to-cad",
+      "daily_gain": 456
     },
     {
-      "name": "antirez/ds4",
-      "daily_gain": 211
+      "name": "pingdotgg/t3code",
+      "daily_gain": 487
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "daily_gain": 994
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "daily_gain": 1156
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "daily_gain": 758
+    },
+    {
+      "name": "caddyserver/caddy",
+      "daily_gain": 526
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "daily_gain": 1444
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "daily_gain": 102
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "daily_gain": 111
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 595
     }
   ]
 }
