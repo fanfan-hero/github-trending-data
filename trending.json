@@ -1,49 +1,45 @@
 {
-  "updated_at": "2026-10-05T18:51:10.740523Z",
+  "updated_at": "2026-10-06T02:29:30.121377Z",
   "projects": [
     {
       "name": "tester-army/e2e",
-      "daily_gain": 1430
+      "daily_gain": 1398
     },
     {
       "name": "thedotmack/claude-mem",
       "daily_gain": 534
     },
     {
-      "name": "michael-denyer/pstack-claude",
-      "daily_gain": 222
-    },
-    {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 456
+      "daily_gain": 437
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 487
+      "daily_gain": 485
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 994
+      "daily_gain": 997
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 1156
+      "daily_gain": 1155
     },
     {
       "name": "calesthio/OpenMontage",
-      "daily_gain": 758
+      "daily_gain": 742
     },
     {
       "name": "caddyserver/caddy",
-      "daily_gain": 526
+      "daily_gain": 515
     },
     {
       "name": "DuarteSantos8/openGym",
-      "daily_gain": 1444
+      "daily_gain": 1433
     },
     {
       "name": "cloudflare/cloudflare-os",
-      "daily_gain": 102
+      "daily_gain": 101
     },
     {
       "name": "Stremio/stremio-web",
@@ -51,7 +47,11 @@
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 595
+      "daily_gain": 744
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "daily_gain": 196
     }
   ]
 }
