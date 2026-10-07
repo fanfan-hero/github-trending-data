@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-06T16:17:02.835373Z",
+  "updated_at": "2026-10-07T01:47:30.860810Z",
   "projects": [
     {
       "name": "tester-army/e2e",
-      "daily_gain": 1720
+      "daily_gain": 1725
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1028
+      "daily_gain": 889
     },
     {
       "name": "earthtojake/text-to-cad",
-      "daily_gain": 620
+      "daily_gain": 619
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 943
+      "daily_gain": 949
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 609
+      "daily_gain": 616
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 536
+      "daily_gain": 534
     },
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 318
+      "daily_gain": 326
     },
     {
       "name": "morluto/rea",
-      "daily_gain": 2963
+      "daily_gain": 2956
     },
     {
       "name": "deepseek-ai/DeepGEMM",
-      "daily_gain": 363
+      "daily_gain": 199
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 621
+      "daily_gain": 623
     },
     {
       "name": "DuarteSantos8/openGym",
@@ -47,7 +47,7 @@
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 227
+      "daily_gain": 228
     }
   ]
 }
