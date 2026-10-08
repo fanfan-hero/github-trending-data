@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-08T02:15:02.856148Z",
+  "updated_at": "2026-10-08T10:54:38.752766Z",
   "projects": [
+    {
+      "name": "boykopovar/AnyPS5",
+      "daily_gain": 2716
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 825
+    },
     {
       "name": "morluto/rea",
       "daily_gain": 4655
@@ -10,48 +18,24 @@
       "daily_gain": 1403
     },
     {
-      "name": "boykopovar/AnyPS5",
-      "daily_gain": 2716
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "daily_gain": 619
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 825
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 677
+      "name": "thedotmack/claude-mem",
+      "daily_gain": 578
     },
     {
       "name": "EpicGames/raddebugger",
       "daily_gain": 90
     },
     {
-      "name": "thedotmack/claude-mem",
-      "daily_gain": 578
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 766
     },
     {
-      "name": "manaflow-ai/cmux",
-      "daily_gain": 44
+      "name": "storytold/artcraft",
+      "daily_gain": 1465
     },
     {
-      "name": "trycua/cua",
-      "daily_gain": 228
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "daily_gain": 576
-    },
-    {
-      "name": "tester-army/e2e",
-      "daily_gain": 1390
-    },
-    {
-      "name": "DuarteSantos8/openGym",
-      "daily_gain": 1493
+      "name": "liquidslr/system-design-notes",
+      "daily_gain": 398
     }
   ]
 }
