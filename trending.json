@@ -1,53 +1,57 @@
 {
-  "updated_at": "2026-10-07T10:33:33.274206Z",
+  "updated_at": "2026-10-08T02:15:02.856148Z",
   "projects": [
     {
-      "name": "tester-army/e2e",
-      "daily_gain": 1725
+      "name": "morluto/rea",
+      "daily_gain": 4655
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 889
-    },
-    {
-      "name": "earthtojake/text-to-cad",
-      "daily_gain": 619
+      "daily_gain": 1403
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 949
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 616
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "daily_gain": 534
+      "daily_gain": 2716
     },
     {
       "name": "ayghri/i-have-adhd",
-      "daily_gain": 326
-    },
-    {
-      "name": "morluto/rea",
-      "daily_gain": 2956
-    },
-    {
-      "name": "deepseek-ai/DeepGEMM",
-      "daily_gain": 199
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 623
-    },
-    {
-      "name": "DuarteSantos8/openGym",
-      "daily_gain": 1419
+      "daily_gain": 619
     },
     {
       "name": "cathrynlavery/diagram-design",
+      "daily_gain": 825
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "daily_gain": 677
+    },
+    {
+      "name": "EpicGames/raddebugger",
+      "daily_gain": 90
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "daily_gain": 578
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "daily_gain": 44
+    },
+    {
+      "name": "trycua/cua",
       "daily_gain": 228
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "daily_gain": 576
+    },
+    {
+      "name": "tester-army/e2e",
+      "daily_gain": 1390
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "daily_gain": 1493
     }
   ]
 }
