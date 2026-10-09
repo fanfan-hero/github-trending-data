@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-08T16:58:11.086243Z",
+  "updated_at": "2026-10-09T02:32:38.836582Z",
   "projects": [
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 4640
+      "daily_gain": 4669
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1163
+      "daily_gain": 1160
     },
     {
       "name": "morluto/rea",
-      "daily_gain": 7744
+      "daily_gain": 7738
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1770
+      "daily_gain": 1774
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 662
+      "daily_gain": 670
     },
     {
       "name": "EpicGames/raddebugger",
-      "daily_gain": 283
+      "daily_gain": 279
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 309
+      "daily_gain": 392
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 2510
+      "daily_gain": 2103
     },
     {
       "name": "liquidslr/system-design-notes",
-      "daily_gain": 398
+      "daily_gain": 393
     }
   ]
 }
