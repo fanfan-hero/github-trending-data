@@ -1,49 +1,57 @@
 {
-  "updated_at": "2026-10-10T10:06:43.544281Z",
+  "updated_at": "2026-10-10T15:34:36.828256Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 14927
+      "daily_gain": 25784
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 5868
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 1687
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1739
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 326
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 709
-    },
-    {
-      "name": "BerriAI/litellm",
-      "daily_gain": 95
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 436
+      "daily_gain": 5831
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 3752
+      "daily_gain": 3217
     },
     {
-      "name": "Robbyant/lingbot-map",
-      "daily_gain": 110
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 1189
     },
     {
-      "name": "twostraws/SwiftUI-Agent-Skill",
-      "daily_gain": 65
+      "name": "mksglu/context-mode",
+      "daily_gain": 178
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1737
+    },
+    {
+      "name": "flutter/flutter",
+      "daily_gain": 39
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "daily_gain": 24
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "daily_gain": 372
+    },
+    {
+      "name": "pytorch/pytorch",
+      "daily_gain": 81
+    },
+    {
+      "name": "huggingface/transformers",
+      "daily_gain": 94
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 626
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "daily_gain": 279
     }
   ]
 }
