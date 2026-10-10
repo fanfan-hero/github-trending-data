@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-09T16:37:27.876093Z",
+  "updated_at": "2026-10-10T01:54:00.595608Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 15335
+      "daily_gain": 14927
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 5925
+      "daily_gain": 5868
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1696
+      "daily_gain": 1687
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1744
+      "daily_gain": 1739
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 323
+      "daily_gain": 326
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 714
+      "daily_gain": 709
     },
     {
       "name": "BerriAI/litellm",
@@ -31,19 +31,19 @@
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 523
+      "daily_gain": 436
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 3723
+      "daily_gain": 3752
     },
     {
       "name": "Robbyant/lingbot-map",
-      "daily_gain": 109
+      "daily_gain": 110
     },
     {
       "name": "twostraws/SwiftUI-Agent-Skill",
-      "daily_gain": 88
+      "daily_gain": 65
     }
   ]
 }
