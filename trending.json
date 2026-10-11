@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-10T15:34:36.828256Z",
+  "updated_at": "2026-10-11T01:13:32.301953Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 25784
+      "daily_gain": 25793
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 5831
+      "daily_gain": 5805
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 3217
+      "daily_gain": 3222
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1189
+      "daily_gain": 1190
     },
     {
       "name": "mksglu/context-mode",
@@ -23,35 +23,35 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1737
+      "daily_gain": 1736
     },
     {
       "name": "flutter/flutter",
-      "daily_gain": 39
+      "daily_gain": 88
     },
     {
       "name": "tensorflow/tensorflow",
-      "daily_gain": 24
+      "daily_gain": 26
     },
     {
       "name": "hugohe3/ppt-master",
-      "daily_gain": 372
+      "daily_gain": 461
     },
     {
       "name": "pytorch/pytorch",
-      "daily_gain": 81
+      "daily_gain": 84
     },
     {
       "name": "huggingface/transformers",
-      "daily_gain": 94
+      "daily_gain": 96
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 626
+      "daily_gain": 625
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 279
+      "daily_gain": 278
     }
   ]
 }
