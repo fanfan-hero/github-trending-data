@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-12T11:18:27.960086Z",
+  "updated_at": "2026-10-12T19:22:03.930797Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 25599
+      "daily_gain": 45495
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 886
+      "daily_gain": 1903
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 485
+      "daily_gain": 394
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 2957
+      "daily_gain": 4106
     },
     {
       "name": "open-webui/open-webui",
@@ -23,19 +23,19 @@
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1083
+      "daily_gain": 2100
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 548
+      "daily_gain": 886
     },
     {
       "name": "microsoft/BitNet",
-      "daily_gain": 195
+      "daily_gain": 134
     },
     {
       "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 506
+      "daily_gain": 705
     }
   ]
 }
