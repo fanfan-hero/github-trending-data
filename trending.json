@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-11T15:58:16.084394Z",
+  "updated_at": "2026-10-12T01:44:54.698858Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 25585
+      "daily_gain": 25599
     },
     {
       "name": "boykopovar/AnyPS5",
-      "daily_gain": 3977
+      "daily_gain": 3952
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 2956
+      "daily_gain": 2957
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -19,19 +19,19 @@
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 872
+      "daily_gain": 886
     },
     {
       "name": "pytorch/pytorch",
-      "daily_gain": 314
+      "daily_gain": 315
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 541
+      "daily_gain": 548
     },
     {
       "name": "chrislgarry/Apollo-11",
-      "daily_gain": 496
+      "daily_gain": 466
     }
   ]
 }
