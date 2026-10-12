@@ -1,37 +1,41 @@
 {
-  "updated_at": "2026-10-12T01:44:54.698858Z",
+  "updated_at": "2026-10-12T11:18:27.960086Z",
   "projects": [
     {
       "name": "morluto/rea",
       "daily_gain": 25599
     },
     {
-      "name": "boykopovar/AnyPS5",
-      "daily_gain": 3952
+      "name": "bilawalsidhu/gods-eye-view",
+      "daily_gain": 886
+    },
+    {
+      "name": "mksglu/context-mode",
+      "daily_gain": 485
     },
     {
       "name": "storytold/artcraft",
       "daily_gain": 2957
     },
     {
+      "name": "open-webui/open-webui",
+      "daily_gain": 142
+    },
+    {
       "name": "cathrynlavery/diagram-design",
       "daily_gain": 1083
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 886
-    },
-    {
-      "name": "pytorch/pytorch",
-      "daily_gain": 315
     },
     {
       "name": "lyogavin/airllm",
       "daily_gain": 548
     },
     {
-      "name": "chrislgarry/Apollo-11",
-      "daily_gain": 466
+      "name": "microsoft/BitNet",
+      "daily_gain": 195
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "daily_gain": 506
     }
   ]
 }
