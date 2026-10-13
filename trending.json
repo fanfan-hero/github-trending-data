@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T11:04:04.927716Z",
+  "updated_at": "2026-10-13T17:08:44.961081Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 45327
+      "daily_gain": 54706
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
-      "daily_gain": 1895
+      "daily_gain": 1961
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 1691
+      "daily_gain": 2277
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 246
+      "daily_gain": 978
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 2081
+      "daily_gain": 1813
     },
     {
       "name": "vercel-labs/skills",
@@ -27,15 +27,15 @@
     },
     {
       "name": "lyogavin/airllm",
-      "daily_gain": 879
+      "daily_gain": 1004
     },
     {
       "name": "storytold/artcraft",
-      "daily_gain": 4095
+      "daily_gain": 4078
     },
     {
       "name": "xtool-org/xtool",
-      "daily_gain": 936
+      "daily_gain": 1182
     }
   ]
 }
