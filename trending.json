@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-10-15T08:34:23.829827Z",
+  "updated_at": "2026-10-15T14:25:40.083565Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 41034
+      "daily_gain": 32282
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 3538
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 947
-    },
-    {
-      "name": "nvm-sh/nvm",
-      "daily_gain": 52
+      "name": "anthropics/claude-plugins-official",
+      "daily_gain": 525
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 163
+      "daily_gain": 1091
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "daily_gain": 103
+      "name": "JuliusBrussee/caveman",
+      "daily_gain": 398
     },
     {
-      "name": "ifixai-ai/iFixAi",
-      "daily_gain": 2109
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 3027
     },
     {
-      "name": "vxcontrol/pentagi",
-      "daily_gain": 1025
+      "name": "obra/superpowers",
+      "daily_gain": 534
     },
     {
-      "name": "rust-lang/rust",
-      "daily_gain": 207
+      "name": "ruvnet/ruflo",
+      "daily_gain": 224
     },
     {
-      "name": "xtool-org/xtool",
-      "daily_gain": 1502
-    },
-    {
-      "name": "ntdevlabs/tiny11builder",
-      "daily_gain": 139
+      "name": "mksglu/context-mode",
+      "daily_gain": 902
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 1008
+      "daily_gain": 1366
+    },
+    {
+      "name": "affaan-m/ECC",
+      "daily_gain": 1015
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "daily_gain": 25
+    },
+    {
+      "name": "xerj-org/xerj",
+      "daily_gain": 725
     }
   ]
 }
