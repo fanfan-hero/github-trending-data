@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-10-14T14:40:49.343429Z",
+  "updated_at": "2026-10-15T00:49:48.940159Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 41187
+      "daily_gain": 41034
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 3547
+      "daily_gain": 3538
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 946
+      "daily_gain": 947
     },
     {
       "name": "nvm-sh/nvm",
-      "daily_gain": 45
+      "daily_gain": 52
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 146
+      "daily_gain": 163
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 94
+      "daily_gain": 103
     },
     {
       "name": "ifixai-ai/iFixAi",
-      "daily_gain": 2143
+      "daily_gain": 2109
     },
     {
       "name": "vxcontrol/pentagi",
-      "daily_gain": 1819
+      "daily_gain": 1025
     },
     {
       "name": "rust-lang/rust",
-      "daily_gain": 205
+      "daily_gain": 207
     },
     {
       "name": "xtool-org/xtool",
-      "daily_gain": 1510
+      "daily_gain": 1502
     },
     {
       "name": "ntdevlabs/tiny11builder",
-      "daily_gain": 132
+      "daily_gain": 139
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 1002
+      "daily_gain": 1008
     }
   ]
 }
