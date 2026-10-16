@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-15T14:25:40.083565Z",
+  "updated_at": "2026-10-16T00:43:43.235426Z",
   "projects": [
     {
       "name": "morluto/rea",
-      "daily_gain": 32282
+      "daily_gain": 32314
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 525
+      "daily_gain": 307
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -15,39 +15,39 @@
     },
     {
       "name": "JuliusBrussee/caveman",
-      "daily_gain": 398
+      "daily_gain": 433
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 3027
+      "daily_gain": 3024
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 534
+      "daily_gain": 582
     },
     {
       "name": "ruvnet/ruflo",
-      "daily_gain": 224
+      "daily_gain": 147
     },
     {
       "name": "mksglu/context-mode",
-      "daily_gain": 902
+      "daily_gain": 904
     },
     {
       "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 1366
+      "daily_gain": 1369
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1015
+      "daily_gain": 1013
     },
     {
       "name": "lightseekorg/tokenspeed",
-      "daily_gain": 25
+      "daily_gain": 30
     },
     {
       "name": "xerj-org/xerj",
-      "daily_gain": 725
+      "daily_gain": 715
     }
   ]
 }
