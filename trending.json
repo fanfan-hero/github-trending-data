@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:43:43.235426Z",
+  "updated_at": "2026-10-16T08:28:57.545010Z",
   "projects": [
     {
       "name": "morluto/rea",
@@ -48,6 +48,10 @@
     {
       "name": "xerj-org/xerj",
       "daily_gain": 715
+    },
+    {
+      "name": "LibreSpark/LibreTV",
+      "daily_gain": 978
     }
   ]
 }
