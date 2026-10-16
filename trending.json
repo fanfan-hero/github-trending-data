@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-16T08:28:57.545010Z",
+  "updated_at": "2026-10-16T14:18:58.008330Z",
   "projects": [
     {
-      "name": "morluto/rea",
-      "daily_gain": 32314
-    },
-    {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 307
+      "daily_gain": 1552
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 1091
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 433
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 3024
-    },
-    {
-      "name": "obra/superpowers",
-      "daily_gain": 582
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 147
-    },
-    {
-      "name": "mksglu/context-mode",
-      "daily_gain": 904
-    },
-    {
-      "name": "NationalSecurityAgency/ghidra",
-      "daily_gain": 1369
+      "daily_gain": 1158
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1013
+      "daily_gain": 1057
     },
     {
-      "name": "lightseekorg/tokenspeed",
-      "daily_gain": 30
+      "name": "HKUDS/CLI-Anything",
+      "daily_gain": 716
+    },
+    {
+      "name": "mksglu/context-mode",
+      "daily_gain": 449
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "daily_gain": 672
+    },
+    {
+      "name": "android/skills",
+      "daily_gain": 35
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 973
+    },
+    {
+      "name": "cursor/plugins",
+      "daily_gain": 214
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 2301
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "daily_gain": 879
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "daily_gain": 592
     },
     {
       "name": "xerj-org/xerj",
-      "daily_gain": 715
-    },
-    {
-      "name": "LibreSpark/LibreTV",
-      "daily_gain": 978
+      "daily_gain": 1647
     }
   ]
 }
