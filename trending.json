@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:18:58.008330Z",
+  "updated_at": "2026-10-17T00:45:26.438537Z",
   "projects": [
     {
       "name": "anthropics/claude-plugins-official",
@@ -15,7 +15,7 @@
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 716
+      "daily_gain": 281
     },
     {
       "name": "mksglu/context-mode",
@@ -27,7 +27,7 @@
     },
     {
       "name": "android/skills",
-      "daily_gain": 35
+      "daily_gain": 36
     },
     {
       "name": "obra/superpowers",
@@ -35,7 +35,7 @@
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 214
+      "daily_gain": 278
     },
     {
       "name": "debpalash/VoiceStudio",
@@ -43,15 +43,15 @@
     },
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 879
+      "daily_gain": 898
     },
     {
       "name": "hmjz100/LinkSwift",
-      "daily_gain": 592
+      "daily_gain": 538
     },
     {
       "name": "xerj-org/xerj",
-      "daily_gain": 1647
+      "daily_gain": 1648
     }
   ]
 }
