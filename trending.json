@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-17T13:15:05.153075Z",
+  "updated_at": "2026-10-18T00:15:55.185100Z",
   "projects": [
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 1383
+      "daily_gain": 1397
     },
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 1397
+      "daily_gain": 1365
     },
     {
       "name": "affaan-m/ECC",
@@ -15,43 +15,43 @@
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 580
+      "daily_gain": 574
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "daily_gain": 879
+      "daily_gain": 878
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 159
+      "daily_gain": 178
     },
     {
       "name": "android/skills",
-      "daily_gain": 368
+      "daily_gain": 355
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1102
+      "daily_gain": 830
     },
     {
       "name": "anthropics/claude-code",
-      "daily_gain": 168
+      "daily_gain": 179
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2135
+      "daily_gain": 2125
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 488
+      "daily_gain": 438
     },
     {
       "name": "ruvnet/ruflo",
-      "daily_gain": 406
+      "daily_gain": 420
     },
     {
       "name": "xerj-org/xerj",
-      "daily_gain": 1102
+      "daily_gain": 1160
     }
   ]
 }
