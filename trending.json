@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:27:36.673216Z",
+  "updated_at": "2026-10-19T09:17:08.899594Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
@@ -24,6 +24,10 @@
     {
       "name": "akitaonrails/ai-memory",
       "daily_gain": 512
+    },
+    {
+      "name": "YuJunZhiXue/dsh-purge",
+      "daily_gain": 423
     },
     {
       "name": "stablyai/orca",
