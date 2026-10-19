@@ -1,61 +1,53 @@
 {
-  "updated_at": "2026-10-19T09:17:08.899594Z",
+  "updated_at": "2026-10-19T16:38:25.382812Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 2232
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "daily_gain": 1175
+      "daily_gain": 3860
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 1414
-    },
-    {
-      "name": "cursor/plugins",
-      "daily_gain": 350
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 513
+      "daily_gain": 1310
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 512
-    },
-    {
-      "name": "YuJunZhiXue/dsh-purge",
-      "daily_gain": 423
-    },
-    {
-      "name": "stablyai/orca",
-      "daily_gain": 1146
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "daily_gain": 589
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "daily_gain": 2082
-    },
-    {
-      "name": "android/skills",
-      "daily_gain": 375
-    },
-    {
-      "name": "mlabonne/llm-course",
-      "daily_gain": 81
-    },
-    {
-      "name": "Kruk2/jasna",
-      "daily_gain": 115
+      "daily_gain": 666
     },
     {
       "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 154
+      "daily_gain": 1011
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "daily_gain": 564
+    },
+    {
+      "name": "stablyai/orca",
+      "daily_gain": 1591
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "daily_gain": 317
+    },
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "daily_gain": 301
+    },
+    {
+      "name": "Kruk2/jasna",
+      "daily_gain": 502
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "daily_gain": 607
+    },
+    {
+      "name": "anthropics/claude-code",
+      "daily_gain": 167
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 355
     }
   ]
 }
