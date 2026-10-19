@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-18T13:35:32.505052Z",
+  "updated_at": "2026-10-19T00:27:36.673216Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 2213
+      "daily_gain": 2232
     },
     {
       "name": "anthropics/claude-plugins-official",
-      "daily_gain": 1187
+      "daily_gain": 1175
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 1417
+      "daily_gain": 1414
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 351
+      "daily_gain": 350
     },
     {
       "name": "ruvnet/ruflo",
-      "daily_gain": 502
+      "daily_gain": 513
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 513
+      "daily_gain": 512
     },
     {
       "name": "stablyai/orca",
@@ -31,15 +31,15 @@
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 582
+      "daily_gain": 589
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2098
+      "daily_gain": 2082
     },
     {
       "name": "android/skills",
-      "daily_gain": 381
+      "daily_gain": 375
     },
     {
       "name": "mlabonne/llm-course",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 155
+      "daily_gain": 154
     }
   ]
 }
