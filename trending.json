@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T16:38:25.382812Z",
+  "updated_at": "2026-10-20T01:15:09.024733Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3860
+      "daily_gain": 3856
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 1310
+      "daily_gain": 1311
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -23,23 +23,23 @@
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1591
+      "daily_gain": 1590
     },
     {
       "name": "headroomlabs-ai/headroom",
-      "daily_gain": 317
+      "daily_gain": 310
     },
     {
       "name": "withmarbleapp/os-taxonomy",
-      "daily_gain": 301
+      "daily_gain": 284
     },
     {
       "name": "Kruk2/jasna",
-      "daily_gain": 502
+      "daily_gain": 498
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 607
+      "daily_gain": 606
     },
     {
       "name": "anthropics/claude-code",
@@ -47,7 +47,7 @@
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 355
+      "daily_gain": 363
     }
   ]
 }
