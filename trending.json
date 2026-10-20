@@ -1,53 +1,65 @@
 {
-  "updated_at": "2026-10-20T08:51:27.512811Z",
+  "updated_at": "2026-10-20T14:30:13.765761Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3856
+      "daily_gain": 3890
     },
     {
-      "name": "anomalyco/opencode",
-      "daily_gain": 1311
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 666
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 1011
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 564
+      "name": "cloudflare/security-audit-skill",
+      "daily_gain": 849
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1590
+      "daily_gain": 1559
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 1007
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "daily_gain": 1201
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "daily_gain": 683
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "daily_gain": 751
+    },
+    {
+      "name": "YuJunZhiXue/dsh-purge",
+      "daily_gain": 1168
+    },
+    {
+      "name": "anomalyco/opencode",
+      "daily_gain": 1256
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "daily_gain": 590
     },
     {
       "name": "headroomlabs-ai/headroom",
-      "daily_gain": 310
+      "daily_gain": 555
     },
     {
-      "name": "withmarbleapp/os-taxonomy",
-      "daily_gain": 284
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 262
     },
     {
-      "name": "Kruk2/jasna",
-      "daily_gain": 498
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "daily_gain": 606
-    },
-    {
-      "name": "anthropics/claude-code",
-      "daily_gain": 167
+      "name": "sickn33/agentic-awesome-skills",
+      "daily_gain": 58
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 363
+      "daily_gain": 719
+    },
+    {
+      "name": "vllm-project/vllm",
+      "daily_gain": 98
     }
   ]
 }
