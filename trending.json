@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:53:35.292874Z",
+  "updated_at": "2026-10-21T08:51:34.136615Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
@@ -48,10 +48,6 @@
     {
       "name": "wshobson/agents",
       "daily_gain": 93
-    },
-    {
-      "name": "sickn33/agentic-awesome-skills",
-      "daily_gain": 83
     },
     {
       "name": "shiyu-coder/Kronos",
