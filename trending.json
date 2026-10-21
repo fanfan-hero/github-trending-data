@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-10-20T14:30:13.765761Z",
+  "updated_at": "2026-10-21T00:53:35.292874Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3890
+      "daily_gain": 3861
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 849
+      "daily_gain": 1712
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1559
+      "daily_gain": 1565
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 1007
+      "daily_gain": 1208
     },
     {
       "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 1201
+      "daily_gain": 1206
     },
     {
       "name": "ruvnet/ruflo",
-      "daily_gain": 683
+      "daily_gain": 684
     },
     {
       "name": "Graphify-Labs/graphify",
-      "daily_gain": 751
-    },
-    {
-      "name": "YuJunZhiXue/dsh-purge",
-      "daily_gain": 1168
+      "daily_gain": 802
     },
     {
       "name": "anomalyco/opencode",
-      "daily_gain": 1256
+      "daily_gain": 1240
     },
     {
       "name": "msitarzewski/agency-agents",
-      "daily_gain": 590
+      "daily_gain": 562
     },
     {
       "name": "headroomlabs-ai/headroom",
-      "daily_gain": 555
+      "daily_gain": 549
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 262
+      "daily_gain": 267
+    },
+    {
+      "name": "wshobson/agents",
+      "daily_gain": 93
     },
     {
       "name": "sickn33/agentic-awesome-skills",
-      "daily_gain": 58
+      "daily_gain": 83
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 719
+      "daily_gain": 733
     },
     {
       "name": "vllm-project/vllm",
-      "daily_gain": 98
+      "daily_gain": 128
     }
   ]
 }
