@@ -1,61 +1,57 @@
 {
-  "updated_at": "2026-10-21T08:51:34.136615Z",
+  "updated_at": "2026-10-21T14:40:59.695505Z",
   "projects": [
     {
       "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3861
+      "daily_gain": 3131
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 1712
-    },
-    {
-      "name": "stablyai/orca",
-      "daily_gain": 1565
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "daily_gain": 1208
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 1206
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "daily_gain": 684
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "daily_gain": 802
-    },
-    {
-      "name": "anomalyco/opencode",
-      "daily_gain": 1240
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "daily_gain": 562
-    },
-    {
-      "name": "headroomlabs-ai/headroom",
-      "daily_gain": 549
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 267
-    },
-    {
-      "name": "wshobson/agents",
-      "daily_gain": 93
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 733
+      "daily_gain": 1997
     },
     {
       "name": "vllm-project/vllm",
-      "daily_gain": 128
+      "daily_gain": 439
+    },
+    {
+      "name": "stablyai/orca",
+      "daily_gain": 1543
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "daily_gain": 477
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "daily_gain": 2051
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "daily_gain": 914
+    },
+    {
+      "name": "supabase/supabase",
+      "daily_gain": 509
+    },
+    {
+      "name": "twentyhq/twenty",
+      "daily_gain": 105
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 570
+    },
+    {
+      "name": "strelov1/freehire",
+      "daily_gain": 405
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "daily_gain": 810
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "daily_gain": 1434
     }
   ]
 }
