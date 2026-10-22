@@ -1,53 +1,41 @@
 {
-  "updated_at": "2026-10-22T08:54:11.844307Z",
+  "updated_at": "2026-10-22T14:41:34.355748Z",
   "projects": [
     {
-      "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2012
+      "name": "php/php-src",
+      "daily_gain": 110
     },
     {
-      "name": "vllm-project/vllm",
-      "daily_gain": 441
-    },
-    {
-      "name": "stablyai/orca",
-      "daily_gain": 1541
-    },
-    {
-      "name": "headroomlabs-ai/headroom",
-      "daily_gain": 474
+      "name": "anthropics/knowledge-work-plugins",
+      "daily_gain": 303
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 2079
+      "daily_gain": 1949
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 939
-    },
-    {
-      "name": "supabase/supabase",
-      "daily_gain": 504
-    },
-    {
-      "name": "twentyhq/twenty",
-      "daily_gain": 112
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 575
-    },
-    {
-      "name": "strelov1/freehire",
-      "daily_gain": 360
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "daily_gain": 286
+      "name": "cloudflare/security-audit-skill",
+      "daily_gain": 2979
     },
     {
       "name": "Graphify-Labs/graphify",
-      "daily_gain": 1433
+      "daily_gain": 1407
+    },
+    {
+      "name": "supabase/supabase",
+      "daily_gain": 683
+    },
+    {
+      "name": "fastapi/fastapi",
+      "daily_gain": 96
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "daily_gain": 428
+    },
+    {
+      "name": "Meloong-Git/PCL",
+      "daily_gain": 115
     }
   ]
 }
