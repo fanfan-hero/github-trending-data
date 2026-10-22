@@ -1,57 +1,53 @@
 {
-  "updated_at": "2026-10-21T14:40:59.695505Z",
+  "updated_at": "2026-10-22T00:52:22.653707Z",
   "projects": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "daily_gain": 3131
-    },
-    {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 1997
+      "daily_gain": 2012
     },
     {
       "name": "vllm-project/vllm",
-      "daily_gain": 439
+      "daily_gain": 441
     },
     {
       "name": "stablyai/orca",
-      "daily_gain": 1543
+      "daily_gain": 1541
     },
     {
       "name": "headroomlabs-ai/headroom",
-      "daily_gain": 477
+      "daily_gain": 474
     },
     {
       "name": "DietrichGebert/ponytail",
-      "daily_gain": 2051
+      "daily_gain": 2079
     },
     {
       "name": "Comfy-Org/ComfyUI",
-      "daily_gain": 914
+      "daily_gain": 939
     },
     {
       "name": "supabase/supabase",
-      "daily_gain": 509
+      "daily_gain": 504
     },
     {
       "name": "twentyhq/twenty",
-      "daily_gain": 105
+      "daily_gain": 112
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 570
+      "daily_gain": 575
     },
     {
       "name": "strelov1/freehire",
-      "daily_gain": 405
+      "daily_gain": 360
     },
     {
       "name": "akitaonrails/ai-memory",
-      "daily_gain": 810
+      "daily_gain": 286
     },
     {
       "name": "Graphify-Labs/graphify",
-      "daily_gain": 1434
+      "daily_gain": 1433
     }
   ]
 }
