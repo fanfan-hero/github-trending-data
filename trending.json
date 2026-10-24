@@ -1,37 +1,45 @@
 {
-  "updated_at": "2026-10-24T08:22:58.974814Z",
+  "updated_at": "2026-10-24T13:37:32.883472Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2716
-    },
-    {
-      "name": "php/php-src",
-      "daily_gain": 716
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 635
+      "daily_gain": 2271
     },
     {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 1119
+      "daily_gain": 893
     },
     {
-      "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 546
+      "name": "aws/agent-toolkit-for-aws",
+      "daily_gain": 11
     },
     {
-      "name": "SnailSploit/Claude-Red",
-      "daily_gain": 226
+      "name": "Nutlope/hallmark",
+      "daily_gain": 567
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "daily_gain": 150
+      "name": "luongnv89/claude-howto",
+      "daily_gain": 1053
     },
     {
-      "name": "nodejs/node",
-      "daily_gain": 66
+      "name": "pbakaus/impeccable",
+      "daily_gain": 541
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "daily_gain": 421
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "daily_gain": 38
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "daily_gain": 220
+    },
+    {
+      "name": "makecindy/cindy",
+      "daily_gain": 471
     }
   ]
 }
