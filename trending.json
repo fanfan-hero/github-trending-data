@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-10-23T14:27:45.684365Z",
+  "updated_at": "2026-10-24T01:02:26.239097Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2706
+      "daily_gain": 2716
     },
     {
       "name": "php/php-src",
-      "daily_gain": 722
+      "daily_gain": 716
     },
     {
       "name": "anthropics/knowledge-work-plugins",
-      "daily_gain": 643
+      "daily_gain": 635
     },
     {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 1240
+      "daily_gain": 1119
     },
     {
       "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 547
+      "daily_gain": 546
     },
     {
       "name": "SnailSploit/Claude-Red",
-      "daily_gain": 209
+      "daily_gain": 226
     },
     {
       "name": "OpenBMB/VoxCPM",
-      "daily_gain": 144
+      "daily_gain": 150
     },
     {
       "name": "nodejs/node",
-      "daily_gain": 93
+      "daily_gain": 66
     }
   ]
 }
