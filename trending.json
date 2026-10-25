@@ -1,45 +1,49 @@
 {
-  "updated_at": "2026-10-25T08:42:16.279760Z",
+  "updated_at": "2026-10-25T13:56:15.502457Z",
   "projects": [
     {
-      "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2264
-    },
-    {
-      "name": "NVIDIA/OpenShell",
-      "daily_gain": 896
-    },
-    {
-      "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 13
+      "name": "makecindy/cindy",
+      "daily_gain": 677
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 455
+      "daily_gain": 1359
     },
     {
-      "name": "luongnv89/claude-howto",
-      "daily_gain": 392
+      "name": "debpalash/VoiceStudio",
+      "daily_gain": 1588
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 619
+      "daily_gain": 1113
     },
     {
       "name": "pollen-robotics/microduck",
-      "daily_gain": 319
+      "daily_gain": 657
     },
     {
-      "name": "google-gemini/gemini-cli",
-      "daily_gain": 44
+      "name": "TauricResearch/TradingAgents",
+      "daily_gain": 309
     },
     {
-      "name": "jbiaojerry/ebook-treasure-chest",
-      "daily_gain": 227
+      "name": "Renhuai123/ziwei-doushu",
+      "daily_gain": 489
     },
     {
-      "name": "makecindy/cindy",
-      "daily_gain": 477
+      "name": "JetBrains/thinkrail",
+      "daily_gain": 52
+    },
+    {
+      "name": "coollabsio/coolify",
+      "daily_gain": 192
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "daily_gain": 2874
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "daily_gain": 179
     }
   ]
 }
