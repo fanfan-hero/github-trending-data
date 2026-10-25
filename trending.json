@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-24T13:37:32.883472Z",
+  "updated_at": "2026-10-25T00:30:31.642743Z",
   "projects": [
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2271
+      "daily_gain": 2264
     },
     {
       "name": "NVIDIA/OpenShell",
-      "daily_gain": 893
+      "daily_gain": 896
     },
     {
       "name": "aws/agent-toolkit-for-aws",
-      "daily_gain": 11
+      "daily_gain": 13
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 567
+      "daily_gain": 455
     },
     {
       "name": "luongnv89/claude-howto",
-      "daily_gain": 1053
+      "daily_gain": 392
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 541
+      "daily_gain": 619
     },
     {
       "name": "pollen-robotics/microduck",
-      "daily_gain": 421
+      "daily_gain": 319
     },
     {
       "name": "google-gemini/gemini-cli",
-      "daily_gain": 38
+      "daily_gain": 44
     },
     {
       "name": "jbiaojerry/ebook-treasure-chest",
-      "daily_gain": 220
+      "daily_gain": 227
     },
     {
       "name": "makecindy/cindy",
-      "daily_gain": 471
+      "daily_gain": 477
     }
   ]
 }
