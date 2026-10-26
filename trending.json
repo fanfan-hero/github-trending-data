@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-10-25T13:56:15.502457Z",
+  "updated_at": "2026-10-26T00:42:14.052724Z",
   "projects": [
     {
       "name": "makecindy/cindy",
-      "daily_gain": 677
+      "daily_gain": 675
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 1359
+      "daily_gain": 1317
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 1588
+      "daily_gain": 1592
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1113
+      "daily_gain": 1092
     },
     {
       "name": "pollen-robotics/microduck",
-      "daily_gain": 657
+      "daily_gain": 647
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 309
+      "daily_gain": 381
     },
     {
       "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 489
+      "daily_gain": 199
     },
     {
       "name": "JetBrains/thinkrail",
-      "daily_gain": 52
+      "daily_gain": 51
     },
     {
       "name": "coollabsio/coolify",
-      "daily_gain": 192
+      "daily_gain": 152
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2874
+      "daily_gain": 2878
     },
     {
       "name": "AgriciDaniel/claude-seo",
-      "daily_gain": 179
+      "daily_gain": 197
     }
   ]
 }
