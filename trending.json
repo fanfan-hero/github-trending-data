@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-10-26T16:18:48.918368Z",
+  "updated_at": "2026-10-27T01:36:19.566391Z",
   "projects": [
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 2235
+      "daily_gain": 2244
     },
     {
       "name": "TauricResearch/TradingAgents",
-      "daily_gain": 1376
+      "daily_gain": 1395
     },
     {
       "name": "JetBrains/thinkrail",
-      "daily_gain": 1156
+      "daily_gain": 1173
     },
     {
       "name": "makecindy/cindy",
-      "daily_gain": 1268
+      "daily_gain": 1296
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 853
+      "daily_gain": 896
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1551
+      "daily_gain": 1506
     },
     {
       "name": "NVIDIA/SkillSpector",
-      "daily_gain": 203
+      "daily_gain": 214
     },
     {
       "name": "pollen-robotics/microduck",
-      "daily_gain": 844
+      "daily_gain": 843
     },
     {
       "name": "nightly-labs/openbot",
-      "daily_gain": 312
+      "daily_gain": 176
     },
     {
       "name": "Panniantong/Agent-Reach",
-      "daily_gain": 723
+      "daily_gain": 746
     },
     {
       "name": "debpalash/VoiceStudio",
-      "daily_gain": 2292
+      "daily_gain": 2297
     },
     {
       "name": "gitroomhq/postiz-app",
-      "daily_gain": 146
+      "daily_gain": 188
     },
     {
       "name": "alchaincyf/huashu-design",
-      "daily_gain": 177
+      "daily_gain": 251
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
-      "daily_gain": 457
+      "daily_gain": 638
     }
   ]
 }
