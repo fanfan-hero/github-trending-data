@@ -1,49 +1,61 @@
 {
-  "updated_at": "2026-10-28T09:59:58.489058Z",
+  "updated_at": "2026-10-28T16:16:57.075843Z",
   "projects": [
+    {
+      "name": "JetBrains/thinkrail",
+      "daily_gain": 1075
+    },
     {
       "name": "elayadesign/ai-design-skills",
       "daily_gain": 1395
     },
     {
-      "name": "Nutlope/hallmark",
-      "daily_gain": 2830
-    },
-    {
-      "name": "nightly-labs/openbot",
-      "daily_gain": 777
-    },
-    {
       "name": "obra/superpowers",
-      "daily_gain": 617
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 1449
-    },
-    {
-      "name": "makecindy/cindy",
-      "daily_gain": 1465
-    },
-    {
-      "name": "gitroomhq/postiz-app",
-      "daily_gain": 951
-    },
-    {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1165
+      "daily_gain": 1096
     },
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 1598
+      "daily_gain": 2376
     },
     {
-      "name": "JetBrains/thinkrail",
-      "daily_gain": 1204
+      "name": "macro-inc/macro",
+      "daily_gain": 106
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "daily_gain": 2109
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "daily_gain": 1471
+    },
+    {
+      "name": "makecindy/cindy",
+      "daily_gain": 740
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "daily_gain": 1053
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 902
+      "daily_gain": 1478
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "daily_gain": 3209
+    },
+    {
+      "name": "expo/skills",
+      "daily_gain": 212
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 596
+    },
+    {
+      "name": "xiaolai/the-craft-of-selfteaching",
+      "daily_gain": 143
     }
   ]
 }
