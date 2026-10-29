@@ -1,61 +1,49 @@
 {
-  "updated_at": "2026-10-29T10:23:04.169000Z",
+  "updated_at": "2026-10-29T16:24:57.448440Z",
   "projects": [
     {
-      "name": "JetBrains/thinkrail",
-      "daily_gain": 1068
-    },
-    {
-      "name": "elayadesign/ai-design-skills",
-      "daily_gain": 2139
+      "name": "HKUDS/DeepTutor",
+      "daily_gain": 1926
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1095
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "daily_gain": 2371
-    },
-    {
-      "name": "macro-inc/macro",
-      "daily_gain": 117
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "daily_gain": 2110
+      "daily_gain": 1037
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1472
+      "daily_gain": 2881
     },
     {
-      "name": "makecindy/cindy",
-      "daily_gain": 728
+      "name": "JetBrains/thinkrail",
+      "daily_gain": 1116
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "daily_gain": 1190
     },
     {
       "name": "nightly-labs/openbot",
-      "daily_gain": 1054
+      "daily_gain": 705
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "daily_gain": 1178
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "daily_gain": 459
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "daily_gain": 240
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 1477
+      "daily_gain": 1610
     },
     {
-      "name": "hmjz100/LinkSwift",
-      "daily_gain": 1616
-    },
-    {
-      "name": "expo/skills",
-      "daily_gain": 90
-    },
-    {
-      "name": "ruvnet/RuView",
-      "daily_gain": 557
-    },
-    {
-      "name": "xiaolai/the-craft-of-selfteaching",
-      "daily_gain": 148
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "daily_gain": 538
     }
   ]
 }
