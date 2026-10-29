@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-10-28T16:16:57.075843Z",
+  "updated_at": "2026-10-29T01:56:01.803631Z",
   "projects": [
     {
       "name": "JetBrains/thinkrail",
-      "daily_gain": 1075
+      "daily_gain": 1068
     },
     {
       "name": "elayadesign/ai-design-skills",
-      "daily_gain": 1395
+      "daily_gain": 2139
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1096
+      "daily_gain": 1095
     },
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 2376
+      "daily_gain": 2371
     },
     {
       "name": "macro-inc/macro",
-      "daily_gain": 106
+      "daily_gain": 117
     },
     {
       "name": "Nutlope/hallmark",
-      "daily_gain": 2109
+      "daily_gain": 2110
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1471
+      "daily_gain": 1472
     },
     {
       "name": "makecindy/cindy",
-      "daily_gain": 740
+      "daily_gain": 728
     },
     {
       "name": "nightly-labs/openbot",
-      "daily_gain": 1053
+      "daily_gain": 1054
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 1478
+      "daily_gain": 1477
     },
     {
       "name": "hmjz100/LinkSwift",
-      "daily_gain": 3209
+      "daily_gain": 1616
     },
     {
       "name": "expo/skills",
-      "daily_gain": 212
+      "daily_gain": 90
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 596
+      "daily_gain": 557
     },
     {
       "name": "xiaolai/the-craft-of-selfteaching",
-      "daily_gain": 143
+      "daily_gain": 148
     }
   ]
 }
