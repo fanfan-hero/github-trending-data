@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-10-29T16:24:57.448440Z",
+  "updated_at": "2026-10-30T02:07:21.229362Z",
   "projects": [
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 1926
+      "daily_gain": 1930
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1037
+      "daily_gain": 1034
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 2881
+      "daily_gain": 2870
     },
     {
       "name": "JetBrains/thinkrail",
-      "daily_gain": 1116
+      "daily_gain": 1117
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1190
+      "daily_gain": 1199
     },
     {
       "name": "nightly-labs/openbot",
-      "daily_gain": 705
+      "daily_gain": 709
     },
     {
       "name": "elayadesign/ai-design-skills",
-      "daily_gain": 1178
+      "daily_gain": 1187
     },
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 459
+      "daily_gain": 336
     },
     {
       "name": "CopilotKit/OpenBot",
-      "daily_gain": 240
+      "daily_gain": 247
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 1610
+      "daily_gain": 1594
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 538
+      "daily_gain": 353
     }
   ]
 }
