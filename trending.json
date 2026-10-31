@@ -1,65 +1,61 @@
 {
-  "updated_at": "2026-10-31T09:56:40.312546Z",
+  "updated_at": "2026-10-31T15:30:07.070897Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1140
-    },
-    {
-      "name": "milind-soni/OpenMausBot",
-      "daily_gain": 895
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 2300
-    },
-    {
-      "name": "CopilotKit/OpenBot",
-      "daily_gain": 706
-    },
-    {
-      "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 1126
-    },
-    {
-      "name": "expo/skills",
-      "daily_gain": 38
-    },
-    {
-      "name": "macro-inc/macro",
-      "daily_gain": 57
+      "daily_gain": 1723
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 876
+      "daily_gain": 882
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "daily_gain": 1347
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 930
+      "daily_gain": 1148
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "daily_gain": 2282
+      "name": "Renhuai123/ziwei-doushu",
+      "daily_gain": 1093
     },
     {
-      "name": "anthropics/skills",
-      "daily_gain": 295
+      "name": "milind-soni/OpenMausBot",
+      "daily_gain": 1304
     },
     {
-      "name": "JetBrains/thinkrail",
-      "daily_gain": 722
-    },
-    {
-      "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 2055
+      "name": "pbakaus/impeccable",
+      "daily_gain": 1339
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1259
+      "daily_gain": 663
     },
     {
       "name": "lightpanda-io/browser",
-      "daily_gain": 626
+      "daily_gain": 929
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "daily_gain": 1035
+    },
+    {
+      "name": "Orkas-AI/Orkas",
+      "daily_gain": 1118
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "daily_gain": 115
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "daily_gain": 341
+    },
+    {
+      "name": "vorssaint/vorssaint-utils",
+      "daily_gain": 499
     }
   ]
 }
