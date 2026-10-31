@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-30T16:15:39.514665Z",
+  "updated_at": "2026-10-31T01:46:59.276294Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1145
+      "daily_gain": 1140
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 899
+      "daily_gain": 895
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 2299
+      "daily_gain": 2300
     },
     {
       "name": "CopilotKit/OpenBot",
-      "daily_gain": 707
+      "daily_gain": 706
     },
     {
       "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 1146
+      "daily_gain": 1126
     },
     {
       "name": "expo/skills",
-      "daily_gain": 233
+      "daily_gain": 38
     },
     {
       "name": "macro-inc/macro",
-      "daily_gain": 117
+      "daily_gain": 57
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 882
+      "daily_gain": 876
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 920
+      "daily_gain": 930
     },
     {
       "name": "HKUDS/DeepTutor",
@@ -43,23 +43,23 @@
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 287
+      "daily_gain": 295
     },
     {
       "name": "JetBrains/thinkrail",
-      "daily_gain": 717
+      "daily_gain": 722
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 2053
+      "daily_gain": 2055
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 1255
+      "daily_gain": 1259
     },
     {
       "name": "lightpanda-io/browser",
-      "daily_gain": 559
+      "daily_gain": 626
     }
   ]
 }
