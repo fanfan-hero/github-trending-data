@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:30:07.070897Z",
+  "updated_at": "2026-11-01T01:26:43.074990Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
@@ -7,11 +7,11 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 882
+      "daily_gain": 883
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 1347
+      "daily_gain": 742
     },
     {
       "name": "pingdotgg/t3code",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 1093
+      "daily_gain": 1092
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1304
+      "daily_gain": 1303
     },
     {
       "name": "pbakaus/impeccable",
-      "daily_gain": 1339
+      "daily_gain": 1338
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 663
+      "daily_gain": 665
     },
     {
       "name": "lightpanda-io/browser",
@@ -39,23 +39,23 @@
     },
     {
       "name": "HKUDS/DeepTutor",
-      "daily_gain": 1035
+      "daily_gain": 1034
     },
     {
       "name": "Orkas-AI/Orkas",
-      "daily_gain": 1118
+      "daily_gain": 1044
     },
     {
       "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 115
+      "daily_gain": 116
     },
     {
       "name": "bregman-arie/devops-exercises",
-      "daily_gain": 341
+      "daily_gain": 342
     },
     {
       "name": "vorssaint/vorssaint-utils",
-      "daily_gain": 499
+      "daily_gain": 501
     }
   ]
 }
