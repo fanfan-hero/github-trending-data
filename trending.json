@@ -1,61 +1,73 @@
 {
-  "updated_at": "2026-11-01T01:26:43.074990Z",
+  "updated_at": "2026-11-01T10:47:00.789700Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
       "daily_gain": 1723
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 883
+      "name": "lightpanda-io/browser",
+      "daily_gain": 929
     },
     {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 742
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 611
     },
     {
       "name": "pingdotgg/t3code",
       "daily_gain": 1148
     },
     {
-      "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 1092
-    },
-    {
       "name": "milind-soni/OpenMausBot",
       "daily_gain": 1303
     },
     {
-      "name": "pbakaus/impeccable",
-      "daily_gain": 1338
+      "name": "public-apis/public-apis",
+      "daily_gain": 298
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 665
+      "name": "cjpais/Handy",
+      "daily_gain": 611
     },
     {
-      "name": "lightpanda-io/browser",
-      "daily_gain": 929
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "daily_gain": 742
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "daily_gain": 1034
+      "name": "kornia/kornia",
+      "daily_gain": 88
     },
     {
-      "name": "Orkas-AI/Orkas",
-      "daily_gain": 1044
+      "name": "beenuar/AiSOC",
+      "daily_gain": 436
     },
     {
-      "name": "THU-MAIC/OpenMAIC",
-      "daily_gain": 116
+      "name": "Renhuai123/ziwei-doushu",
+      "daily_gain": 1092
     },
     {
-      "name": "bregman-arie/devops-exercises",
-      "daily_gain": 342
+      "name": "anomalyco/hex",
+      "daily_gain": 172
     },
     {
-      "name": "vorssaint/vorssaint-utils",
-      "daily_gain": 501
+      "name": "CopilotKit/OpenBot",
+      "daily_gain": 608
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "daily_gain": 1924
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "daily_gain": 573
+    },
+    {
+      "name": "FlashML-org/FreeToken",
+      "daily_gain": 232
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "daily_gain": 37
     }
   ]
 }
