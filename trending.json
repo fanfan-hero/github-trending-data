@@ -1,73 +1,65 @@
 {
-  "updated_at": "2026-11-02T01:47:07.688801Z",
+  "updated_at": "2026-11-02T11:39:54.214024Z",
   "projects": [
     {
+      "name": "vercel-labs/agent-desktop",
+      "daily_gain": 2243
+    },
+    {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1526
+      "daily_gain": 1799
     },
     {
-      "name": "lightpanda-io/browser",
-      "daily_gain": 825
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 630
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "daily_gain": 3094
-    },
-    {
-      "name": "milind-soni/OpenMausBot",
-      "daily_gain": 922
-    },
-    {
-      "name": "public-apis/public-apis",
-      "daily_gain": 324
-    },
-    {
-      "name": "cjpais/Handy",
-      "daily_gain": 339
-    },
-    {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 967
-    },
-    {
-      "name": "kornia/kornia",
-      "daily_gain": 101
-    },
-    {
-      "name": "beenuar/AiSOC",
-      "daily_gain": 446
-    },
-    {
-      "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 941
-    },
-    {
-      "name": "anomalyco/hex",
-      "daily_gain": 1179
-    },
-    {
-      "name": "CopilotKit/OpenBot",
-      "daily_gain": 175
-    },
-    {
-      "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 726
-    },
-    {
-      "name": "patchy631/ai-engineering-hub",
-      "daily_gain": 1191
-    },
-    {
-      "name": "FlashML-org/FreeToken",
-      "daily_gain": 242
+      "name": "D4Vinci/Scrapling",
+      "daily_gain": 892
     },
     {
       "name": "hyprwm/Hyprland",
-      "daily_gain": 38
+      "daily_gain": 508
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "daily_gain": 1380
+    },
+    {
+      "name": "FlashML-org/FreeToken",
+      "daily_gain": 654
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "daily_gain": 3216
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "daily_gain": 855
+    },
+    {
+      "name": "kornia/kornia",
+      "daily_gain": 412
+    },
+    {
+      "name": "JustVugg/colibri",
+      "daily_gain": 655
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 970
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "daily_gain": 115
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "daily_gain": 507
+    },
+    {
+      "name": "karpathy/nanochat",
+      "daily_gain": 325
+    },
+    {
+      "name": "p-e-w/heretic",
+      "daily_gain": 404
     }
   ]
 }
