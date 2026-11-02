@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-11-01T16:26:11.790935Z",
+  "updated_at": "2026-11-02T01:47:07.688801Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1527
+      "daily_gain": 1526
     },
     {
       "name": "lightpanda-io/browser",
-      "daily_gain": 827
+      "daily_gain": 825
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 611
+      "daily_gain": 630
     },
     {
       "name": "pingdotgg/t3code",
-      "daily_gain": 3100
+      "daily_gain": 3094
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 919
+      "daily_gain": 922
     },
     {
       "name": "public-apis/public-apis",
-      "daily_gain": 298
+      "daily_gain": 324
     },
     {
       "name": "cjpais/Handy",
-      "daily_gain": 383
+      "daily_gain": 339
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 970
+      "daily_gain": 967
     },
     {
       "name": "kornia/kornia",
-      "daily_gain": 88
+      "daily_gain": 101
     },
     {
       "name": "beenuar/AiSOC",
-      "daily_gain": 436
+      "daily_gain": 446
     },
     {
       "name": "Renhuai123/ziwei-doushu",
-      "daily_gain": 953
+      "daily_gain": 941
     },
     {
       "name": "anomalyco/hex",
-      "daily_gain": 1329
+      "daily_gain": 1179
     },
     {
       "name": "CopilotKit/OpenBot",
-      "daily_gain": 178
+      "daily_gain": 175
     },
     {
       "name": "togg53192-cmd/jailbreaks",
-      "daily_gain": 730
+      "daily_gain": 726
     },
     {
       "name": "patchy631/ai-engineering-hub",
-      "daily_gain": 573
+      "daily_gain": 1191
     },
     {
       "name": "FlashML-org/FreeToken",
-      "daily_gain": 232
+      "daily_gain": 242
     },
     {
       "name": "hyprwm/Hyprland",
-      "daily_gain": 91
+      "daily_gain": 38
     }
   ]
 }
