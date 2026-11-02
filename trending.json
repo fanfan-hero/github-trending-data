@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T11:39:54.214024Z",
+  "updated_at": "2026-11-02T19:48:32.688339Z",
   "projects": [
     {
       "name": "vercel-labs/agent-desktop",
@@ -11,7 +11,7 @@
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 892
+      "daily_gain": 858
     },
     {
       "name": "hyprwm/Hyprland",
@@ -43,15 +43,15 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 970
+      "daily_gain": 968
     },
     {
       "name": "max-sixty/worktrunk",
-      "daily_gain": 115
+      "daily_gain": 136
     },
     {
       "name": "paperclipai/paperclip",
-      "daily_gain": 507
+      "daily_gain": 451
     },
     {
       "name": "karpathy/nanochat",
