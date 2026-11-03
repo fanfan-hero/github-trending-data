@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-03T11:18:36.741619Z",
+  "updated_at": "2026-11-03T17:21:16.187297Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1803
+      "daily_gain": 1138
     },
     {
       "name": "vercel-labs/agent-desktop",
-      "daily_gain": 2275
+      "daily_gain": 3792
     },
     {
       "name": "max-sixty/worktrunk",
-      "daily_gain": 77
+      "daily_gain": 437
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 675
+      "daily_gain": 803
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 858
+      "daily_gain": 1164
     },
     {
       "name": "p-e-w/heretic",
-      "daily_gain": 420
+      "daily_gain": 699
     },
     {
       "name": "spotify/portal-ai-plugins",
@@ -31,7 +31,7 @@
     },
     {
       "name": "floci-io/floci",
-      "daily_gain": 219
+      "daily_gain": 679
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
@@ -39,19 +39,19 @@
     },
     {
       "name": "anomalyco/hex",
-      "daily_gain": 1134
+      "daily_gain": 410
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 706
+      "daily_gain": 1658
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 857
+      "daily_gain": 503
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 1379
+      "daily_gain": 1181
     }
   ]
 }
