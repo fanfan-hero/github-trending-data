@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T11:32:14.348577Z",
+  "updated_at": "2026-11-04T17:33:08.291149Z",
   "projects": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "daily_gain": 2053
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "daily_gain": 524
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1376
+    },
+    {
+      "name": "floci-io/floci",
+      "daily_gain": 1082
+    },
     {
       "name": "thedotmack/claude-mem",
       "daily_gain": 1165
@@ -10,48 +26,40 @@
       "daily_gain": 2463
     },
     {
-      "name": "max-sixty/worktrunk",
-      "daily_gain": 524
+      "name": "The-PR-Agent/pr-agent",
+      "daily_gain": 810
     },
     {
-      "name": "JustVugg/colibri",
-      "daily_gain": 635
+      "name": "harry0703/MoneyPrinterTurbo",
+      "daily_gain": 279
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 1376
+      "name": "garrytan/gstack",
+      "daily_gain": 615
     },
     {
-      "name": "p-e-w/heretic",
-      "daily_gain": 726
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "daily_gain": 285
     },
     {
-      "name": "spotify/portal-ai-plugins",
-      "daily_gain": 227
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "daily_gain": 351
     },
     {
-      "name": "floci-io/floci",
-      "daily_gain": 1082
-    },
-    {
-      "name": "Usagi-org/ai-goofish-monitor",
-      "daily_gain": 979
-    },
-    {
-      "name": "anomalyco/hex",
-      "daily_gain": 682
+      "name": "MichaelCade/90DaysOfDevOps",
+      "daily_gain": 1792
     },
     {
       "name": "D4Vinci/Scrapling",
+      "daily_gain": 156
+    },
+    {
+      "name": "Thysrael/Horizon",
       "daily_gain": 2006
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "daily_gain": 506
-    },
-    {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 1032
+      "name": "scenario-labs/skills",
+      "daily_gain": 121
     }
   ]
 }
