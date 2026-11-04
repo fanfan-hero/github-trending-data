@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-04T02:40:41.756068Z",
+  "updated_at": "2026-11-04T11:32:14.348577Z",
   "projects": [
     {
       "name": "thedotmack/claude-mem",
-      "daily_gain": 1139
+      "daily_gain": 1165
     },
     {
       "name": "vercel-labs/agent-desktop",
-      "daily_gain": 3791
+      "daily_gain": 2463
     },
     {
       "name": "max-sixty/worktrunk",
-      "daily_gain": 438
+      "daily_gain": 524
     },
     {
       "name": "JustVugg/colibri",
-      "daily_gain": 802
+      "daily_gain": 635
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1164
+      "daily_gain": 1376
     },
     {
       "name": "p-e-w/heretic",
-      "daily_gain": 701
+      "daily_gain": 726
     },
     {
       "name": "spotify/portal-ai-plugins",
-      "daily_gain": 91
+      "daily_gain": 227
     },
     {
       "name": "floci-io/floci",
-      "daily_gain": 482
+      "daily_gain": 1082
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
-      "daily_gain": 228
+      "daily_gain": 979
     },
     {
       "name": "anomalyco/hex",
-      "daily_gain": 410
+      "daily_gain": 682
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 1658
+      "daily_gain": 2006
     },
     {
       "name": "shiyu-coder/Kronos",
-      "daily_gain": 503
+      "daily_gain": 506
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "daily_gain": 1182
+      "daily_gain": 1032
     }
   ]
 }
