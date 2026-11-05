@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-11-05T02:44:53.447134Z",
+  "updated_at": "2026-11-05T11:28:38.576624Z",
   "projects": [
     {
       "name": "NVIDIA/auto-ontology",
       "daily_gain": 2050
     },
     {
-      "name": "max-sixty/worktrunk",
-      "daily_gain": 531
-    },
-    {
       "name": "mattpocock/skills",
-      "daily_gain": 1379
-    },
-    {
-      "name": "floci-io/floci",
-      "daily_gain": 1090
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "daily_gain": 1172
-    },
-    {
-      "name": "vercel-labs/agent-desktop",
-      "daily_gain": 2470
-    },
-    {
-      "name": "The-PR-Agent/pr-agent",
-      "daily_gain": 808
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "daily_gain": 280
+      "daily_gain": 2053
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 617
-    },
-    {
-      "name": "FareedKhan-dev/kimi-k3-in-c",
       "daily_gain": 290
     },
     {
-      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "daily_gain": 351
-    },
-    {
-      "name": "MichaelCade/90DaysOfDevOps",
-      "daily_gain": 1778
+      "name": "Usagi-org/ai-goofish-monitor",
+      "daily_gain": 242
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 97
+      "daily_gain": 1661
     },
     {
-      "name": "Thysrael/Horizon",
-      "daily_gain": 2005
+      "name": "vercel-labs/agent-desktop",
+      "daily_gain": 2173
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "daily_gain": 546
+    },
+    {
+      "name": "lz4/lz4",
+      "daily_gain": 16
+    },
+    {
+      "name": "google/skills",
+      "daily_gain": 199
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "daily_gain": 132
     },
     {
       "name": "scenario-labs/skills",
-      "daily_gain": 121
+      "daily_gain": 224
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "daily_gain": 181
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "daily_gain": 214
+    },
+    {
+      "name": "floci-io/floci",
+      "daily_gain": 784
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "daily_gain": 1778
     }
   ]
 }
