@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T11:28:38.576624Z",
+  "updated_at": "2026-11-05T17:40:06.945764Z",
   "projects": [
     {
       "name": "NVIDIA/auto-ontology",
-      "daily_gain": 2050
+      "daily_gain": 2707
     },
     {
       "name": "mattpocock/skills",
@@ -11,7 +11,7 @@
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 290
+      "daily_gain": 608
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
@@ -39,11 +39,11 @@
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 132
+      "daily_gain": 181
     },
     {
       "name": "scenario-labs/skills",
-      "daily_gain": 224
+      "daily_gain": 674
     },
     {
       "name": "ConardLi/garden-skills",
@@ -59,7 +59,7 @@
     },
     {
       "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "daily_gain": 1778
+      "daily_gain": 977
     }
   ]
 }
