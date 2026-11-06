@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:27:45.183760Z",
+  "updated_at": "2026-11-06T16:56:32.759438Z",
   "projects": [
     {
       "name": "zed-industries/zed",
@@ -7,11 +7,11 @@
     },
     {
       "name": "NVIDIA/auto-ontology",
-      "daily_gain": 2679
+      "daily_gain": 2005
     },
     {
       "name": "rails/rails",
-      "daily_gain": 44
+      "daily_gain": 152
     },
     {
       "name": "mpv-player/mpv",
@@ -39,7 +39,7 @@
     },
     {
       "name": "google/skills",
-      "daily_gain": 211
+      "daily_gain": 532
     },
     {
       "name": "microsoft/vscode",
@@ -47,7 +47,7 @@
     },
     {
       "name": "lz4/lz4",
-      "daily_gain": 23
+      "daily_gain": 313
     },
     {
       "name": "nushell/nushell",
@@ -63,7 +63,7 @@
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2071
+      "daily_gain": 2058
     },
     {
       "name": "cloudflare/security-audit-skill",
