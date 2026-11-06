@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T17:40:06.945764Z",
+  "updated_at": "2026-11-06T02:48:02.777071Z",
   "projects": [
     {
       "name": "NVIDIA/auto-ontology",
-      "daily_gain": 2707
+      "daily_gain": 2679
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 2053
+      "daily_gain": 2071
     },
     {
       "name": "garrytan/gstack",
-      "daily_gain": 608
+      "daily_gain": 612
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
-      "daily_gain": 242
+      "daily_gain": 240
     },
     {
       "name": "D4Vinci/Scrapling",
-      "daily_gain": 1661
+      "daily_gain": 1655
     },
     {
       "name": "vercel-labs/agent-desktop",
@@ -30,36 +30,32 @@
       "daily_gain": 546
     },
     {
-      "name": "lz4/lz4",
-      "daily_gain": 16
-    },
-    {
       "name": "google/skills",
-      "daily_gain": 199
+      "daily_gain": 211
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 181
+      "daily_gain": 150
     },
     {
       "name": "scenario-labs/skills",
-      "daily_gain": 674
+      "daily_gain": 667
     },
     {
       "name": "ConardLi/garden-skills",
-      "daily_gain": 181
+      "daily_gain": 175
     },
     {
       "name": "microsoft/VibeVoice",
-      "daily_gain": 214
+      "daily_gain": 223
     },
     {
       "name": "floci-io/floci",
-      "daily_gain": 784
+      "daily_gain": 779
     },
     {
       "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "daily_gain": 977
+      "daily_gain": 984
     }
   ]
 }
