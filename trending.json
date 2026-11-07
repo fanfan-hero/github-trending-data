@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T02:20:42.364486Z",
+  "updated_at": "2026-11-07T10:39:45.914696Z",
   "projects": [
     {
       "name": "zed-industries/zed",
@@ -44,6 +44,10 @@
     {
       "name": "microsoft/vscode",
       "daily_gain": 301
+    },
+    {
+      "name": "lz4/lz4",
+      "daily_gain": 315
     },
     {
       "name": "nushell/nushell",
