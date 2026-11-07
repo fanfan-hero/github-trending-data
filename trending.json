@@ -1,77 +1,65 @@
 {
-  "updated_at": "2026-11-07T10:39:45.914696Z",
+  "updated_at": "2026-11-07T15:55:32.623444Z",
   "projects": [
     {
-      "name": "zed-industries/zed",
-      "daily_gain": 306
-    },
-    {
-      "name": "NVIDIA/auto-ontology",
-      "daily_gain": 2015
-    },
-    {
-      "name": "rails/rails",
-      "daily_gain": 142
-    },
-    {
-      "name": "mpv-player/mpv",
-      "daily_gain": 37
-    },
-    {
-      "name": "rust-lang/rust",
-      "daily_gain": 192
-    },
-    {
-      "name": "react/react",
-      "daily_gain": 248
-    },
-    {
-      "name": "angular/angular",
-      "daily_gain": 135
-    },
-    {
-      "name": "symfony/symfony",
-      "daily_gain": 128
-    },
-    {
-      "name": "prometheus/prometheus",
-      "daily_gain": 148
-    },
-    {
-      "name": "google/skills",
-      "daily_gain": 534
-    },
-    {
-      "name": "microsoft/vscode",
-      "daily_gain": 301
-    },
-    {
-      "name": "lz4/lz4",
-      "daily_gain": 315
-    },
-    {
-      "name": "nushell/nushell",
-      "daily_gain": 131
-    },
-    {
-      "name": "etcd-io/etcd",
-      "daily_gain": 128
-    },
-    {
-      "name": "openssl/openssl",
-      "daily_gain": 26
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 2070
+      "name": "vercel-labs/agent-browser",
+      "daily_gain": 180
     },
     {
       "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2548
+      "daily_gain": 2088
+    },
+    {
+      "name": "google/skills",
+      "daily_gain": 449
+    },
+    {
+      "name": "mattpocock/skills",
+      "daily_gain": 1111
+    },
+    {
+      "name": "anthropics/skills",
+      "daily_gain": 386
+    },
+    {
+      "name": "meta/astryx",
+      "daily_gain": 185
+    },
+    {
+      "name": "prometheus/prometheus",
+      "daily_gain": 325
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "daily_gain": 1761
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "daily_gain": 1986
     },
     {
       "name": "astral-sh/ruff",
-      "daily_gain": 169
+      "daily_gain": 350
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "daily_gain": 181
+    },
+    {
+      "name": "mbillow/localthings",
+      "daily_gain": 184
+    },
+    {
+      "name": "zed-industries/zed",
+      "daily_gain": 1119
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "daily_gain": 185
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "daily_gain": 125
     }
   ]
 }
