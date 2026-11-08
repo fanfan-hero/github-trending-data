@@ -1,65 +1,41 @@
 {
-  "updated_at": "2026-11-08T10:44:49.507668Z",
+  "updated_at": "2026-11-08T16:22:30.490003Z",
   "projects": [
     {
-      "name": "vercel-labs/agent-browser",
-      "daily_gain": 190
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "daily_gain": 2085
-    },
-    {
-      "name": "google/skills",
-      "daily_gain": 443
-    },
-    {
-      "name": "mattpocock/skills",
-      "daily_gain": 1100
-    },
-    {
-      "name": "anthropics/skills",
-      "daily_gain": 390
-    },
-    {
-      "name": "meta/astryx",
-      "daily_gain": 96
-    },
-    {
-      "name": "prometheus/prometheus",
-      "daily_gain": 322
-    },
-    {
       "name": "sherlock-project/sherlock",
-      "daily_gain": 1766
-    },
-    {
-      "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1955
-    },
-    {
-      "name": "astral-sh/ruff",
-      "daily_gain": 350
-    },
-    {
-      "name": "tailwindlabs/tailwindcss",
-      "daily_gain": 122
-    },
-    {
-      "name": "mbillow/localthings",
-      "daily_gain": 186
-    },
-    {
-      "name": "zed-industries/zed",
-      "daily_gain": 1114
-    },
-    {
-      "name": "ranxianglei/billion-context",
-      "daily_gain": 191
+      "daily_gain": 2372
     },
     {
       "name": "dsx-ai-factory/nvke",
-      "daily_gain": 123
+      "daily_gain": 345
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "daily_gain": 1437
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "daily_gain": 28
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "daily_gain": 812
+    },
+    {
+      "name": "meta/astryx",
+      "daily_gain": 863
+    },
+    {
+      "name": "anthropics/skills",
+      "daily_gain": 793
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "daily_gain": 26
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "daily_gain": 460
     }
   ]
 }
