@@ -1,41 +1,49 @@
 {
-  "updated_at": "2026-11-09T01:56:59.011354Z",
+  "updated_at": "2026-11-09T12:05:32.661765Z",
   "projects": [
     {
-      "name": "sherlock-project/sherlock",
-      "daily_gain": 2373
-    },
-    {
-      "name": "dsx-ai-factory/nvke",
-      "daily_gain": 345
-    },
-    {
-      "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1439
-    },
-    {
-      "name": "anthropics/claude-quickstarts",
-      "daily_gain": 32
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "daily_gain": 815
+      "name": "anthropics/skills",
+      "daily_gain": 1052
     },
     {
       "name": "meta/astryx",
-      "daily_gain": 875
+      "daily_gain": 3324
     },
     {
-      "name": "anthropics/skills",
-      "daily_gain": 792
+      "name": "sherlock-project/sherlock",
+      "daily_gain": 4294
     },
     {
       "name": "google-deepmind/mujoco",
-      "daily_gain": 41
+      "daily_gain": 579
     },
     {
-      "name": "ranxianglei/billion-context",
-      "daily_gain": 460
+      "name": "anthropics/claude-quickstarts",
+      "daily_gain": 560
+    },
+    {
+      "name": "garrytan/gbrain",
+      "daily_gain": 215
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "daily_gain": 914
+    },
+    {
+      "name": "ruvnet/RuView",
+      "daily_gain": 203
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 505
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "daily_gain": 31
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "daily_gain": 1589
     }
   ]
 }
