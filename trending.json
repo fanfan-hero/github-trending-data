@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08T16:22:30.490003Z",
+  "updated_at": "2026-11-09T01:56:59.011354Z",
   "projects": [
     {
       "name": "sherlock-project/sherlock",
-      "daily_gain": 2372
+      "daily_gain": 2373
     },
     {
       "name": "dsx-ai-factory/nvke",
@@ -11,27 +11,27 @@
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1437
+      "daily_gain": 1439
     },
     {
       "name": "anthropics/claude-quickstarts",
-      "daily_gain": 28
+      "daily_gain": 32
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 812
+      "daily_gain": 815
     },
     {
       "name": "meta/astryx",
-      "daily_gain": 863
+      "daily_gain": 875
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 793
+      "daily_gain": 792
     },
     {
       "name": "google-deepmind/mujoco",
-      "daily_gain": 26
+      "daily_gain": 41
     },
     {
       "name": "ranxianglei/billion-context",
