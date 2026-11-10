@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-09T20:09:23.636240Z",
+  "updated_at": "2026-11-10T04:17:19.858249Z",
   "projects": [
     {
       "name": "anthropics/skills",
-      "daily_gain": 1052
+      "daily_gain": 1038
     },
     {
       "name": "meta/astryx",
-      "daily_gain": 3324
+      "daily_gain": 3278
     },
     {
       "name": "sherlock-project/sherlock",
-      "daily_gain": 4294
+      "daily_gain": 4267
     },
     {
       "name": "google-deepmind/mujoco",
-      "daily_gain": 579
+      "daily_gain": 574
     },
     {
       "name": "anthropics/claude-quickstarts",
-      "daily_gain": 560
+      "daily_gain": 551
     },
     {
       "name": "garrytan/gbrain",
-      "daily_gain": 215
+      "daily_gain": 216
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 914
+      "daily_gain": 916
     },
     {
       "name": "ruvnet/RuView",
-      "daily_gain": 245
+      "daily_gain": 172
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 505
+      "daily_gain": 506
     },
     {
       "name": "homeassistant-ai/ha-mcp",
@@ -43,7 +43,7 @@
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "daily_gain": 1589
+      "daily_gain": 1587
     }
   ]
 }
