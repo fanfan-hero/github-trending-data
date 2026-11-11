@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:25:40.844255Z",
+  "updated_at": "2026-11-11T17:28:15.235968Z",
   "projects": [
     {
       "name": "meta/astryx",
@@ -7,7 +7,7 @@
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 960
+      "daily_gain": 429
     },
     {
       "name": "GoogleChrome/modern-web-guidance-src",
@@ -39,7 +39,7 @@
     },
     {
       "name": "TheAlgorithms/Java",
-      "daily_gain": 39
+      "daily_gain": 108
     }
   ]
 }
