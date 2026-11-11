@@ -1,53 +1,45 @@
 {
-  "updated_at": "2026-11-11T02:13:32.800038Z",
+  "updated_at": "2026-11-11T11:25:40.844255Z",
   "projects": [
     {
       "name": "meta/astryx",
-      "daily_gain": 3108
+      "daily_gain": 2842
     },
     {
-      "name": "anthropics/skills",
-      "daily_gain": 1679
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 960
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "daily_gain": 133
+    },
+    {
+      "name": "shadcn/improve",
+      "daily_gain": 333
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 465
-    },
-    {
-      "name": "anthropics/claude-quickstarts",
-      "daily_gain": 531
-    },
-    {
-      "name": "google-deepmind/mujoco",
-      "daily_gain": 456
-    },
-    {
-      "name": "we-promise/sure",
-      "daily_gain": 159
-    },
-    {
-      "name": "homeassistant-ai/ha-mcp",
-      "daily_gain": 790
+      "daily_gain": 788
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 780
+      "daily_gain": 712
     },
     {
-      "name": "sherlock-project/sherlock",
-      "daily_gain": 2393
+      "name": "we-promise/sure",
+      "daily_gain": 1079
     },
     {
-      "name": "tokio-rs/topcoat",
-      "daily_gain": 192
+      "name": "homeassistant-ai/ha-mcp",
+      "daily_gain": 640
     },
     {
-      "name": "ranxianglei/billion-context",
-      "daily_gain": 375
+      "name": "openai/codex-security",
+      "daily_gain": 20
     },
     {
-      "name": "mattpocock/skills",
-      "daily_gain": 1225
+      "name": "TheAlgorithms/Java",
+      "daily_gain": 39
     }
   ]
 }
