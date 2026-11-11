@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T17:18:32.935837Z",
+  "updated_at": "2026-11-11T02:13:32.800038Z",
   "projects": [
     {
       "name": "meta/astryx",
-      "daily_gain": 3111
+      "daily_gain": 3108
     },
     {
       "name": "anthropics/skills",
-      "daily_gain": 1676
+      "daily_gain": 1679
     },
     {
       "name": "addyosmani/agent-skills",
@@ -15,27 +15,27 @@
     },
     {
       "name": "anthropics/claude-quickstarts",
-      "daily_gain": 530
+      "daily_gain": 531
     },
     {
       "name": "google-deepmind/mujoco",
-      "daily_gain": 453
+      "daily_gain": 456
     },
     {
       "name": "we-promise/sure",
-      "daily_gain": 184
+      "daily_gain": 159
     },
     {
       "name": "homeassistant-ai/ha-mcp",
-      "daily_gain": 792
+      "daily_gain": 790
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 775
+      "daily_gain": 780
     },
     {
       "name": "sherlock-project/sherlock",
-      "daily_gain": 2387
+      "daily_gain": 2393
     },
     {
       "name": "tokio-rs/topcoat",
@@ -43,11 +43,11 @@
     },
     {
       "name": "ranxianglei/billion-context",
-      "daily_gain": 374
+      "daily_gain": 375
     },
     {
       "name": "mattpocock/skills",
-      "daily_gain": 1223
+      "daily_gain": 1225
     }
   ]
 }
