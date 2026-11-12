@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-11T17:28:15.235968Z",
+  "updated_at": "2026-11-12T03:19:26.341907Z",
   "projects": [
     {
       "name": "meta/astryx",
-      "daily_gain": 2842
+      "daily_gain": 2776
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 429
+      "daily_gain": 278
     },
     {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 133
+      "daily_gain": 159
     },
     {
       "name": "shadcn/improve",
-      "daily_gain": 333
+      "daily_gain": 361
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 788
+      "daily_gain": 787
     },
     {
       "name": "vercel-labs/agent-browser",
-      "daily_gain": 712
+      "daily_gain": 708
     },
     {
       "name": "we-promise/sure",
-      "daily_gain": 1079
+      "daily_gain": 1078
     },
     {
       "name": "homeassistant-ai/ha-mcp",
-      "daily_gain": 640
+      "daily_gain": 645
     },
     {
       "name": "openai/codex-security",
-      "daily_gain": 20
+      "daily_gain": 52
     },
     {
       "name": "TheAlgorithms/Java",
-      "daily_gain": 108
+      "daily_gain": 51
     }
   ]
 }
