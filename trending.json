@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:30:33.426714Z",
+  "updated_at": "2026-11-13T17:23:21.295549Z",
   "projects": [
     {
       "name": "alibaba/open-code-review",
@@ -39,7 +39,7 @@
     },
     {
       "name": "tailscale/tailcat",
-      "daily_gain": 173
+      "daily_gain": 324
     },
     {
       "name": "Likely7/Veyra-NRVideo",
@@ -47,7 +47,7 @@
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 60
+      "daily_gain": 145
     }
   ]
 }
