@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T17:44:52.908666Z",
+  "updated_at": "2026-11-13T02:53:00.557071Z",
   "projects": [
     {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 799
+      "daily_gain": 739
     },
     {
       "name": "openai/codex-security",
-      "daily_gain": 663
+      "daily_gain": 643
     },
     {
       "name": "nvm-sh/nvm",
-      "daily_gain": 107
+      "daily_gain": 63
     },
     {
       "name": "pookjw/HermesEnabler",
-      "daily_gain": 390
+      "daily_gain": 218
     },
     {
       "name": "we-promise/sure",
-      "daily_gain": 974
+      "daily_gain": 967
     },
     {
       "name": "QwenLM/qwen-code",
@@ -27,31 +27,31 @@
     },
     {
       "name": "ashhart/TensorFold",
-      "daily_gain": 94
+      "daily_gain": 54
     },
     {
       "name": "nodejs/node",
-      "daily_gain": 133
+      "daily_gain": 62
     },
     {
       "name": "addyosmani/agent-skills",
-      "daily_gain": 812
+      "daily_gain": 816
     },
     {
       "name": "meta/astryx",
-      "daily_gain": 1789
+      "daily_gain": 1830
     },
     {
       "name": "CopilotKit/OpenBot",
-      "daily_gain": 291
+      "daily_gain": 298
     },
     {
       "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 461
+      "daily_gain": 415
     },
     {
       "name": "ggml-org/llama.cpp",
-      "daily_gain": 287
+      "daily_gain": 176
     }
   ]
 }
