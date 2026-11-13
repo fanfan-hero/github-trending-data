@@ -1,57 +1,53 @@
 {
-  "updated_at": "2026-11-13T02:53:00.557071Z",
+  "updated_at": "2026-11-13T11:30:33.426714Z",
   "projects": [
     {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 206
+    },
+    {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 739
+      "daily_gain": 1875
     },
     {
       "name": "openai/codex-security",
-      "daily_gain": 643
+      "daily_gain": 754
     },
     {
-      "name": "nvm-sh/nvm",
-      "daily_gain": 63
-    },
-    {
-      "name": "pookjw/HermesEnabler",
-      "daily_gain": 218
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "daily_gain": 272
     },
     {
       "name": "we-promise/sure",
-      "daily_gain": 967
+      "daily_gain": 944
     },
     {
-      "name": "QwenLM/qwen-code",
-      "daily_gain": 151
+      "name": "backnotprop/plannotator",
+      "daily_gain": 100
     },
     {
-      "name": "ashhart/TensorFold",
-      "daily_gain": 54
+      "name": "louislam/uptime-kuma",
+      "daily_gain": 61
     },
     {
-      "name": "nodejs/node",
-      "daily_gain": 62
+      "name": "block/buzz",
+      "daily_gain": 95
     },
     {
-      "name": "addyosmani/agent-skills",
-      "daily_gain": 816
+      "name": "tradermonty/claude-trading-skills",
+      "daily_gain": 60
     },
     {
-      "name": "meta/astryx",
-      "daily_gain": 1830
+      "name": "tailscale/tailcat",
+      "daily_gain": 173
     },
     {
-      "name": "CopilotKit/OpenBot",
-      "daily_gain": 298
+      "name": "Likely7/Veyra-NRVideo",
+      "daily_gain": 245
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "daily_gain": 415
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "daily_gain": 176
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "daily_gain": 60
     }
   ]
 }
