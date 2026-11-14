@@ -1,53 +1,65 @@
 {
-  "updated_at": "2026-11-14T10:54:03.664659Z",
+  "updated_at": "2026-11-14T16:07:48.963825Z",
   "projects": [
     {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 215
+      "name": "backnotprop/plannotator",
+      "daily_gain": 412
     },
     {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 1925
-    },
-    {
-      "name": "openai/codex-security",
-      "daily_gain": 751
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "daily_gain": 256
-    },
-    {
-      "name": "we-promise/sure",
-      "daily_gain": 925
-    },
-    {
-      "name": "backnotprop/plannotator",
-      "daily_gain": 108
-    },
-    {
-      "name": "louislam/uptime-kuma",
-      "daily_gain": 71
-    },
-    {
-      "name": "block/buzz",
-      "daily_gain": 97
+      "daily_gain": 1225
     },
     {
       "name": "tradermonty/claude-trading-skills",
-      "daily_gain": 69
-    },
-    {
-      "name": "tailscale/tailcat",
-      "daily_gain": 256
-    },
-    {
-      "name": "Likely7/Veyra-NRVideo",
-      "daily_gain": 256
+      "daily_gain": 556
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 67
+      "daily_gain": 673
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 897
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "daily_gain": 462
+    },
+    {
+      "name": "dream-num/univer",
+      "daily_gain": 495
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "daily_gain": 9
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "daily_gain": 188
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "daily_gain": 227
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "daily_gain": 432
+    },
+    {
+      "name": "we-promise/sure",
+      "daily_gain": 659
+    },
+    {
+      "name": "Tencent/LoopForge",
+      "daily_gain": 101
+    },
+    {
+      "name": "Likely7/Veyra-NRVideo",
+      "daily_gain": 423
+    },
+    {
+      "name": "martin-olivier/airgorah",
+      "daily_gain": 269
     }
   ]
 }
