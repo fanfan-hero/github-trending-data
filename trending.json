@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-11-15T11:28:13.142273Z",
+  "updated_at": "2026-11-15T16:37:15.076848Z",
   "projects": [
+    {
+      "name": "dream-num/univer",
+      "daily_gain": 1041
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "daily_gain": 393
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 248
+    },
     {
       "name": "backnotprop/plannotator",
       "daily_gain": 860
-    },
-    {
-      "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 1220
-    },
-    {
-      "name": "tradermonty/claude-trading-skills",
-      "daily_gain": 707
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -22,44 +26,28 @@
       "daily_gain": 688
     },
     {
-      "name": "QwenLM/qwen-code",
-      "daily_gain": 64
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 495
-    },
-    {
-      "name": "ag-ui-protocol/ag-ui",
-      "daily_gain": 9
-    },
-    {
-      "name": "ashhart/TensorFold",
-      "daily_gain": 37
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "daily_gain": 227
-    },
-    {
-      "name": "louislam/uptime-kuma",
-      "daily_gain": 352
-    },
-    {
-      "name": "we-promise/sure",
-      "daily_gain": 520
-    },
-    {
       "name": "Tencent/LoopForge",
-      "daily_gain": 33
+      "daily_gain": 484
     },
     {
-      "name": "Likely7/Veyra-NRVideo",
-      "daily_gain": 731
+      "name": "ggml-org/ggml",
+      "daily_gain": 53
     },
     {
-      "name": "martin-olivier/airgorah",
-      "daily_gain": 270
+      "name": "elementalsouls/Claude-BugHunter",
+      "daily_gain": 221
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "daily_gain": 1220
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "daily_gain": 707
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "daily_gain": 205
     }
   ]
 }
