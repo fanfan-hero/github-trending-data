@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-14T16:07:48.963825Z",
+  "updated_at": "2026-11-15T02:05:50.208342Z",
   "projects": [
     {
       "name": "backnotprop/plannotator",
-      "daily_gain": 412
+      "daily_gain": 408
     },
     {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 1225
+      "daily_gain": 1231
     },
     {
       "name": "tradermonty/claude-trading-skills",
-      "daily_gain": 556
+      "daily_gain": 553
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 673
+      "daily_gain": 664
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 897
+      "daily_gain": 893
     },
     {
       "name": "QwenLM/qwen-code",
-      "daily_gain": 462
+      "daily_gain": 64
     },
     {
       "name": "dream-num/univer",
@@ -35,7 +35,7 @@
     },
     {
       "name": "ashhart/TensorFold",
-      "daily_gain": 188
+      "daily_gain": 37
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -43,7 +43,7 @@
     },
     {
       "name": "louislam/uptime-kuma",
-      "daily_gain": 432
+      "daily_gain": 430
     },
     {
       "name": "we-promise/sure",
@@ -51,15 +51,15 @@
     },
     {
       "name": "Tencent/LoopForge",
-      "daily_gain": 101
+      "daily_gain": 33
     },
     {
       "name": "Likely7/Veyra-NRVideo",
-      "daily_gain": 423
+      "daily_gain": 420
     },
     {
       "name": "martin-olivier/airgorah",
-      "daily_gain": 269
+      "daily_gain": 270
     }
   ]
 }
