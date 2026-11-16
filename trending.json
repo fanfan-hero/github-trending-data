@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T02:22:33.936488Z",
+  "updated_at": "2026-11-16T12:01:02.295275Z",
   "projects": [
     {
       "name": "dream-num/univer",
-      "daily_gain": 988
+      "daily_gain": 1878
     },
     {
       "name": "ag-ui-protocol/ag-ui",
-      "daily_gain": 355
+      "daily_gain": 790
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -15,19 +15,19 @@
     },
     {
       "name": "backnotprop/plannotator",
-      "daily_gain": 866
+      "daily_gain": 689
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 717
+      "daily_gain": 837
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 691
+      "daily_gain": 946
     },
     {
       "name": "Tencent/LoopForge",
-      "daily_gain": 423
+      "daily_gain": 1016
     },
     {
       "name": "ggml-org/ggml",
@@ -39,11 +39,11 @@
     },
     {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 1219
+      "daily_gain": 1200
     },
     {
       "name": "tradermonty/claude-trading-skills",
-      "daily_gain": 706
+      "daily_gain": 841
     },
     {
       "name": "NVIDIA/SkillEvaluator",
