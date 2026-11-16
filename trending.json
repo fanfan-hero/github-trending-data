@@ -1,53 +1,65 @@
 {
-  "updated_at": "2026-11-16T12:01:02.295275Z",
+  "updated_at": "2026-11-16T19:52:30.466624Z",
   "projects": [
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 1878
-    },
     {
       "name": "ag-ui-protocol/ag-ui",
       "daily_gain": 790
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "daily_gain": 247
     },
     {
       "name": "backnotprop/plannotator",
       "daily_gain": 689
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 837
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "daily_gain": 946
-    },
-    {
-      "name": "Tencent/LoopForge",
-      "daily_gain": 1016
-    },
-    {
-      "name": "ggml-org/ggml",
-      "daily_gain": 43
-    },
-    {
-      "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 98
-    },
-    {
-      "name": "GoogleChrome/modern-web-guidance-src",
-      "daily_gain": 1200
+      "name": "dream-num/univer",
+      "daily_gain": 1878
     },
     {
       "name": "tradermonty/claude-trading-skills",
       "daily_gain": 841
     },
     {
-      "name": "NVIDIA/SkillEvaluator",
+      "name": "elementalsouls/Claude-BugHunter",
+      "daily_gain": 1057
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "daily_gain": 31
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "daily_gain": 285
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 540
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
       "daily_gain": 122
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "daily_gain": 953
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "daily_gain": 946
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "daily_gain": 306
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "daily_gain": 837
+    },
+    {
+      "name": "sveltejs/svelte",
+      "daily_gain": 58
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "daily_gain": 475
     }
   ]
 }
