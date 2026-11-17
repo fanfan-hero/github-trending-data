@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-11-17T04:45:51.443038Z",
+  "updated_at": "2026-11-17T12:25:37.306956Z",
   "projects": [
     {
-      "name": "ag-ui-protocol/ag-ui",
-      "daily_gain": 791
-    },
-    {
-      "name": "backnotprop/plannotator",
-      "daily_gain": 696
-    },
-    {
-      "name": "dream-num/univer",
-      "daily_gain": 1828
-    },
-    {
-      "name": "tradermonty/claude-trading-skills",
-      "daily_gain": 837
-    },
-    {
       "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 1094
-    },
-    {
-      "name": "getarcaneapp/arcane",
-      "daily_gain": 46
-    },
-    {
-      "name": "DeanChensj/jiangshan-map",
-      "daily_gain": 288
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "daily_gain": 529
+      "daily_gain": 1007
     },
     {
       "name": "mvanhorn/last30days-skill",
       "daily_gain": 135
     },
     {
-      "name": "NVIDIA/SkillEvaluator",
-      "daily_gain": 873
-    },
-    {
       "name": "alibaba/open-code-review",
-      "daily_gain": 951
+      "daily_gain": 764
     },
     {
-      "name": "google-research/paper-orchestra",
-      "daily_gain": 313
+      "name": "Tencent/LoopForge",
+      "daily_gain": 590
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "daily_gain": 841
+      "name": "dream-num/univer",
+      "daily_gain": 1776
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "daily_gain": 46
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 350
+    },
+    {
+      "name": "cursor/plugins",
+      "daily_gain": 196
+    },
+    {
+      "name": "obra/superpowers",
+      "daily_gain": 1905
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "daily_gain": 1444
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "daily_gain": 691
     },
     {
       "name": "sveltejs/svelte",
       "daily_gain": 115
     },
     {
-      "name": "kajisho5/ffmpeg-skill",
-      "daily_gain": 367
+      "name": "affaan-m/ECC",
+      "daily_gain": 718
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "daily_gain": 188
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "daily_gain": 313
     }
   ]
 }
