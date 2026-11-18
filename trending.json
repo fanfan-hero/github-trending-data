@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-17T18:45:39.027786Z",
+  "updated_at": "2026-11-18T03:50:40.580827Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 1007
+      "daily_gain": 1005
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 772
+      "daily_gain": 696
     },
     {
       "name": "alibaba/open-code-review",
-      "daily_gain": 764
+      "daily_gain": 763
     },
     {
       "name": "Tencent/LoopForge",
-      "daily_gain": 590
+      "daily_gain": 591
     },
     {
       "name": "dream-num/univer",
-      "daily_gain": 1776
+      "daily_gain": 1774
     },
     {
       "name": "getarcaneapp/arcane",
-      "daily_gain": 654
+      "daily_gain": 618
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -31,15 +31,15 @@
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 196
+      "daily_gain": 201
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 598
+      "daily_gain": 1917
     },
     {
       "name": "ag-ui-protocol/ag-ui",
-      "daily_gain": 1444
+      "daily_gain": 1445
     },
     {
       "name": "backnotprop/plannotator",
@@ -47,19 +47,19 @@
     },
     {
       "name": "sveltejs/svelte",
-      "daily_gain": 533
+      "daily_gain": 477
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 902
+      "daily_gain": 883
     },
     {
       "name": "jingyaogong/minimind",
-      "daily_gain": 188
+      "daily_gain": 192
     },
     {
       "name": "google-research/paper-orchestra",
-      "daily_gain": 1175
+      "daily_gain": 1072
     }
   ]
 }
