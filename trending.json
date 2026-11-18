@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:12:27.559712Z",
+  "updated_at": "2026-11-18T18:24:58.676451Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
@@ -23,11 +23,11 @@
     },
     {
       "name": "NVIDIA/SkillEvaluator",
-      "daily_gain": 869
+      "daily_gain": 323
     },
     {
       "name": "nvm-sh/nvm",
-      "daily_gain": 199
+      "daily_gain": 111
     },
     {
       "name": "astral-sh/uv",
@@ -67,7 +67,7 @@
     },
     {
       "name": "DeanChensj/jiangshan-map",
-      "daily_gain": 991
+      "daily_gain": 280
     },
     {
       "name": "n8n-io/n8n",
