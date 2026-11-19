@@ -1,81 +1,65 @@
 {
-  "updated_at": "2026-11-19T03:49:47.813425Z",
+  "updated_at": "2026-11-19T12:06:29.437203Z",
   "projects": [
     {
-      "name": "cursor/plugins",
-      "daily_gain": 314
+      "name": "obra/superpowers",
+      "daily_gain": 2029
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 389
+      "daily_gain": 899
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 1059
+      "name": "jingyaogong/minimind",
+      "daily_gain": 687
     },
     {
-      "name": "getarcaneapp/arcane",
-      "daily_gain": 547
+      "name": "cursor/plugins",
+      "daily_gain": 383
     },
     {
-      "name": "NVIDIA/SkillEvaluator",
-      "daily_gain": 312
+      "name": "firecrawl/firecrawl",
+      "daily_gain": 795
     },
     {
-      "name": "nvm-sh/nvm",
-      "daily_gain": 237
-    },
-    {
-      "name": "astral-sh/uv",
-      "daily_gain": 258
-    },
-    {
-      "name": "google-research/paper-orchestra",
-      "daily_gain": 1524
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "daily_gain": 365
-    },
-    {
-      "name": "sveltejs/svelte",
-      "daily_gain": 692
-    },
-    {
-      "name": "jquery/jquery",
-      "daily_gain": 266
-    },
-    {
-      "name": "appwrite/appwrite",
-      "daily_gain": 232
+      "name": "nginx/nginx",
+      "daily_gain": 66
     },
     {
       "name": "openvinotoolkit/openvino",
-      "daily_gain": 24
+      "daily_gain": 246
     },
     {
-      "name": "obra/superpowers",
-      "daily_gain": 822
+      "name": "cathrynlavery/diagram-design",
+      "daily_gain": 332
     },
     {
-      "name": "affaan-m/ECC",
-      "daily_gain": 1108
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 952
     },
     {
-      "name": "DeanChensj/jiangshan-map",
-      "daily_gain": 218
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 303
     },
     {
-      "name": "n8n-io/n8n",
-      "daily_gain": 325
+      "name": "mjmirza/app-store-compliance",
+      "daily_gain": 542
     },
     {
-      "name": "solidjs/solid",
-      "daily_gain": 40
+      "name": "Tracer-Cloud/opensre",
+      "daily_gain": 25
     },
     {
-      "name": "punkpeye/awesome-mcp-servers",
-      "daily_gain": 53
+      "name": "toeverything/AFFiNE",
+      "daily_gain": 170
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "daily_gain": 432
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "daily_gain": 110
     }
   ]
 }
