@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-11-18T18:24:58.676451Z",
+  "updated_at": "2026-11-19T03:49:47.813425Z",
   "projects": [
     {
-      "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 2322
-    },
-    {
       "name": "cursor/plugins",
-      "daily_gain": 315
+      "daily_gain": 314
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 384
+      "daily_gain": 389
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 1062
+      "daily_gain": 1059
     },
     {
       "name": "getarcaneapp/arcane",
@@ -23,63 +19,63 @@
     },
     {
       "name": "NVIDIA/SkillEvaluator",
-      "daily_gain": 323
+      "daily_gain": 312
     },
     {
       "name": "nvm-sh/nvm",
-      "daily_gain": 111
+      "daily_gain": 237
     },
     {
       "name": "astral-sh/uv",
-      "daily_gain": 260
+      "daily_gain": 258
     },
     {
       "name": "google-research/paper-orchestra",
-      "daily_gain": 1529
+      "daily_gain": 1524
     },
     {
       "name": "google-labs-code/stitch-skills",
-      "daily_gain": 369
+      "daily_gain": 365
     },
     {
       "name": "sveltejs/svelte",
-      "daily_gain": 694
+      "daily_gain": 692
     },
     {
       "name": "jquery/jquery",
-      "daily_gain": 268
+      "daily_gain": 266
     },
     {
       "name": "appwrite/appwrite",
-      "daily_gain": 239
+      "daily_gain": 232
     },
     {
       "name": "openvinotoolkit/openvino",
-      "daily_gain": 18
+      "daily_gain": 24
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 823
+      "daily_gain": 822
     },
     {
       "name": "affaan-m/ECC",
-      "daily_gain": 1109
+      "daily_gain": 1108
     },
     {
       "name": "DeanChensj/jiangshan-map",
-      "daily_gain": 280
+      "daily_gain": 218
     },
     {
       "name": "n8n-io/n8n",
-      "daily_gain": 315
+      "daily_gain": 325
     },
     {
       "name": "solidjs/solid",
-      "daily_gain": 37
+      "daily_gain": 40
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
-      "daily_gain": 52
+      "daily_gain": 53
     }
   ]
 }
