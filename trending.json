@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T03:42:45.997301Z",
+  "updated_at": "2026-11-20T12:09:02.735725Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
@@ -7,11 +7,11 @@
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 2028
+      "daily_gain": 888
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 898
+      "daily_gain": 774
     },
     {
       "name": "jingyaogong/minimind",
@@ -19,7 +19,7 @@
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 384
+      "daily_gain": 292
     },
     {
       "name": "firecrawl/firecrawl",
@@ -31,7 +31,7 @@
     },
     {
       "name": "openvinotoolkit/openvino",
-      "daily_gain": 246
+      "daily_gain": 219
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -39,11 +39,11 @@
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 954
+      "daily_gain": 685
     },
     {
       "name": "google-labs-code/stitch-skills",
-      "daily_gain": 302
+      "daily_gain": 315
     },
     {
       "name": "mjmirza/app-store-compliance",
