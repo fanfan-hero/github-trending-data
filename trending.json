@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20T12:09:02.735725Z",
+  "updated_at": "2026-11-20T18:01:13.193007Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 1349
+      "daily_gain": 1660
     },
     {
       "name": "obra/superpowers",
@@ -15,7 +15,7 @@
     },
     {
       "name": "jingyaogong/minimind",
-      "daily_gain": 238
+      "daily_gain": 841
     },
     {
       "name": "cursor/plugins",
@@ -23,11 +23,11 @@
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 825
+      "daily_gain": 1226
     },
     {
       "name": "nginx/nginx",
-      "daily_gain": 73
+      "daily_gain": 246
     },
     {
       "name": "openvinotoolkit/openvino",
@@ -35,7 +35,7 @@
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 271
+      "daily_gain": 634
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -47,23 +47,23 @@
     },
     {
       "name": "mjmirza/app-store-compliance",
-      "daily_gain": 377
+      "daily_gain": 874
     },
     {
       "name": "Tracer-Cloud/opensre",
-      "daily_gain": 38
+      "daily_gain": 465
     },
     {
       "name": "toeverything/AFFiNE",
-      "daily_gain": 182
+      "daily_gain": 686
     },
     {
       "name": "XiaoYouChR/Ghost-Downloader-3",
-      "daily_gain": 341
+      "daily_gain": 1082
     },
     {
       "name": "zhouxiaoka/autoclip",
-      "daily_gain": 126
+      "daily_gain": 983
     }
   ]
 }
