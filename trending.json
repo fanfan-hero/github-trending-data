@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-22T17:25:17.200030Z",
+  "updated_at": "2026-11-23T03:05:13.962007Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 1721
+      "daily_gain": 1716
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 785
+      "daily_gain": 788
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 687
+      "daily_gain": 699
     },
     {
       "name": "jingyaogong/minimind",
@@ -19,51 +19,51 @@
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 301
+      "daily_gain": 294
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 910
+      "daily_gain": 915
     },
     {
       "name": "nginx/nginx",
-      "daily_gain": 168
+      "daily_gain": 163
     },
     {
       "name": "openvinotoolkit/openvino",
-      "daily_gain": 155
+      "daily_gain": 158
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 513
+      "daily_gain": 518
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "daily_gain": 673
+      "daily_gain": 668
     },
     {
       "name": "google-labs-code/stitch-skills",
-      "daily_gain": 516
+      "daily_gain": 494
     },
     {
       "name": "mjmirza/app-store-compliance",
-      "daily_gain": 617
+      "daily_gain": 621
     },
     {
       "name": "Tracer-Cloud/opensre",
-      "daily_gain": 395
+      "daily_gain": 399
     },
     {
       "name": "toeverything/AFFiNE",
-      "daily_gain": 537
+      "daily_gain": 542
     },
     {
       "name": "XiaoYouChR/Ghost-Downloader-3",
-      "daily_gain": 690
+      "daily_gain": 701
     },
     {
       "name": "zhouxiaoka/autoclip",
-      "daily_gain": 640
+      "daily_gain": 641
     }
   ]
 }
