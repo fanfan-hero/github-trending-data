@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-11-26T04:20:52.647130Z",
+  "updated_at": "2026-11-26T13:06:54.673918Z",
   "projects": [
     {
       "name": "elementalsouls/Claude-BugHunter",
-      "daily_gain": 1652
+      "daily_gain": 1600
     },
     {
       "name": "obra/superpowers",
-      "daily_gain": 903
+      "daily_gain": 853
     },
     {
       "name": "HKUDS/CLI-Anything",
-      "daily_gain": 1106
+      "daily_gain": 744
     },
     {
       "name": "jingyaogong/minimind",
-      "daily_gain": 826
+      "daily_gain": 701
     },
     {
       "name": "cursor/plugins",
-      "daily_gain": 416
+      "daily_gain": 268
     },
     {
       "name": "firecrawl/firecrawl",
-      "daily_gain": 1135
+      "daily_gain": 1042
     },
     {
       "name": "nginx/nginx",
-      "daily_gain": 176
+      "daily_gain": 150
     },
     {
       "name": "openvinotoolkit/openvino",
-      "daily_gain": 191
+      "daily_gain": 176
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "daily_gain": 1141
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "daily_gain": 945
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "daily_gain": 355
-    },
-    {
-      "name": "mjmirza/app-store-compliance",
-      "daily_gain": 858
-    },
-    {
-      "name": "Tracer-Cloud/opensre",
-      "daily_gain": 348
-    },
-    {
-      "name": "toeverything/AFFiNE",
-      "daily_gain": 574
-    },
-    {
-      "name": "XiaoYouChR/Ghost-Downloader-3",
       "daily_gain": 951
     },
     {
+      "name": "mvanhorn/last30days-skill",
+      "daily_gain": 755
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "daily_gain": 308
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "daily_gain": 561
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "daily_gain": 325
+    },
+    {
+      "name": "toeverything/AFFiNE",
+      "daily_gain": 521
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "daily_gain": 887
+    },
+    {
       "name": "zhouxiaoka/autoclip",
-      "daily_gain": 880
+      "daily_gain": 770
     }
   ]
 }
